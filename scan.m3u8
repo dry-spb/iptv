@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://192.168.0.238:4444/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png" group-title="Без категории",-NSK 04.01 19:00 iptvin.ru каналов 219
 https://download.ru/previews/72/ea/1ce633f34e2cfb22f6c450650d35ded113d2/CkNBSUOs/iptvin.ru_3.mp4
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1",Первый канал
