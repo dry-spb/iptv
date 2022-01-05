@@ -1,7 +1,4 @@
 #EXTM3U url-tvg="http://192.168.0.238:4444/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png" group-title="Not sorted",-tsn 05.01 21:13 каналов 1248 iptvin.ru
-#EXTGRP:Not sorted
-http://192.168.0.238:4444/channel/670ee2b5/index.m3u8?q=1641394938805
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/2743.png" logo="https://runigma.com.ua/EPG/picons/Ultra%20HD%20Cinema%204K.png" channelId="3982" tvg-id="hlsproxy-54661",Ultra HD Cinema (4K UHD)
 http://192.168.0.238:4444/channel/n360f046c/index.m3u8?q=1641394938805
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://televizor.org/img/logopit/Ultra%20REX%20FullHD.png" logo="https://ic.wampi.ru/2021/08/14/680a3842560587f79b296189a2207da1.png" channelId="2662" tvg-id="hlsproxy-52651",ULTRA REX (4K UHD)
