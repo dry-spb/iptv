@@ -1,0 +1,483 @@
+#EXTM3U url-tvg="http://192.168.0.103:9999/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/2743.png" logo="https://runigma.com.ua/EPG/picons/Ultra%20HD%20Cinema%204K.png" channelId="3982" tvg-id="hlsproxy-54661",Ultra HD Cinema (4K UHD)
+http://192.168.0.103:9999/channel/n6c75b4e8/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://televizor.org/img/logopit/Ultra%20REX%20FullHD.png" logo="https://ic.wampi.ru/2021/08/14/680a3842560587f79b296189a2207da1.png" channelId="2662" tvg-id="hlsproxy-52651",ULTRA REX (4K UHD)
+http://192.168.0.103:9999/channel/n3d1b15b8/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/59bdada690f0ac7826aea814547eae73.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/2d911abb3de59a6062ddae539ef5a3cc.png" channelId="4024" tvg-id="hlsproxy-54868",Eurosport 4K (UHD)
+http://192.168.0.103:9999/channel/n3e24e8f0/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/08/618ae2d55b07d485375de8e8262d2a6c.jpg" logo="https://ic.wampi.ru/2021/08/14/f34e199a42f47efd98c2e640898c34bb.png" channelId="2035" tvg-id="hlsproxy-55105",Love Nature 4K (UHD)
+http://192.168.0.103:9999/channel/2863ee42/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://pbs.twimg.com/profile_images/1118831333004935168/4jB4ns6U.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/7b91b0b86deb8e6b30e46ad416777e9a.png" channelId="3923" tvg-id="hlsproxy-54643",Наша Сибирь 4K (UHD)
+http://192.168.0.103:9999/channel/65c06388/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0252.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/04/29e4d557838a84a4f6948eef748c2e2e.png" channelId="4646" tvg-id="hlsproxy-1131",Глазами туриста 4K (UHD)
+http://192.168.0.103:9999/channel/n46191a1c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/home_4k.png" channelId="4515" tvg-id="hlsproxy-53142",Home 4K (4K UHD)
+http://192.168.0.103:9999/channel/76de0ec1/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/d421b7def2083c22225f6066320c935f.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/a4e051ad62180483d9e6319b19ec388a.png" channelId="-1" tvg-id="hlsproxy-60",Discovery Ultra
+http://192.168.0.103:9999/channel/n389a0b04/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/29b7544aa704d0a69c0df2d205e33ac5.jpg" logo="http://epg.openboxfan.com/picon/bcu%D1%81%D1%81%D1%81%D1%80hd.png" channelId="-1" tvg-id="hlsproxy-55462" shift="2" tvg-country="1",BCU СССР HD
+http://192.168.0.103:9999/channel/3b69cc91/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/2b792c2ed5518804c22fed12ed584692.jpg" logo="http://epg.openboxfan.com/picon/bcuactionhd.png" channelId="-1" tvg-id="hlsproxy-55465" shift="2" tvg-country="1",BCU Action HD
+http://192.168.0.103:9999/channel/n2599de6/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/919f6072b7dd06bcaf2394c54d37f088.jpg" logo="http://epg.openboxfan.com/picon/bcucatastrophehd.png" channelId="-1" tvg-id="hlsproxy-55464" shift="2" tvg-country="1",BCU Catastrophe HD
+http://192.168.0.103:9999/channel/31e5c584/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/6e5a8ed9ace4de129515212abff5a533.jpg" logo="http://epg.openboxfan.com/picon/bcufantastichd.png" channelId="-1" tvg-id="hlsproxy-55457" shift="2" tvg-country="1",BCU Fantastic HD
+http://192.168.0.103:9999/channel/127e8bcd/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" logo="http://epg.openboxfan.com/picon/bcumarvelhd.png" channelId="-1" tvg-name="BCU Marvel HD" tvg-id="hlsproxy-55459" shift="2" tvg-country="5",BCU Marvel DC HD
+http://192.168.0.103:9999/channel/n222d3d18/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/fe8a8586b3d547797fcf95a8db3bd964.jpg" logo="http://epg.openboxfan.com/picon/bcufilmystichd.png" channelId="-1" tvg-id="hlsproxy-54990" shift="2" tvg-country="3",BCU FilMystic HD
+http://192.168.0.103:9999/channel/n83f74a8/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/f4920c77a4cfe0f61db080fde81cc16d.jpg" logo="http://epg.openboxfan.com/picon/bcukinoratinghd.png" channelId="-1" tvg-id="hlsproxy-55458" shift="2" tvg-country="1",BCU Kinorating HD
+http://192.168.0.103:9999/channel/n168f116c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9500c3bceee76d081884b3a253d98ee2.jpg" logo="http://epg.openboxfan.com/picon/bcuruserialhd.png" channelId="-1" shift="2" tvg-country="0",BCU RUSerial HD
+http://192.168.0.103:9999/channel/n6dc6c247/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/179d30db67811263d7507c6630ad6296.jpg" logo="http://epg.openboxfan.com/picon/bcucinemahd.png" channelId="-1" tvg-id="hlsproxy-53995" shift="2" tvg-country="1",BCU Cinema HD
+http://192.168.0.103:9999/channel/511b6f7f/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/db2f0d6f072c93712da06cfc29d7d445.jpg" logo="http://epg.openboxfan.com/picon/bcucinemaplushd.png" channelId="-1" tvg-id="hlsproxy-55528" shift="2" tvg-country="1",BCU Cinema+ HD
+http://192.168.0.103:9999/channel/n2da914f2/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/90ab1c7ba20febd12e9c44fb58f1ce0b.jpg" logo="http://epg.openboxfan.com/picon/bcuromantichd.png" channelId="-1" tvg-id="hlsproxy-1973" shift="2" tvg-country="1",BCU Romantic HD
+http://192.168.0.103:9999/channel/10b653ff/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/7a9fa402b1ea6eff7c0f8757e3694098.jpg" logo="http://bcumedia.pro/images/channels/1416.png" channelId="-1" tvg-id="bcu-criminal" shift="2" tvg-country="1",BCU Criminal HD
+http://192.168.0.103:9999/channel/n51805433/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/456750026a8aeafce9278eb61e3c93b3.jpg" logo="http://epg.openboxfan.com/picon/bcuhistoryhd.png" channelId="-1" tvg-id="hlsproxy-2521" shift="2" tvg-country="1",BCU History HD
+http://192.168.0.103:9999/channel/n42d9d06c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9b1dcf5891c325c7ffd4e41f782bdaf3.jpg" logo="http://epg.openboxfan.com/picon/bcustarshd.png" channelId="-1" tvg-id="hlsproxy-55529" shift="2" tvg-country="1",BCU Stars HD
+http://192.168.0.103:9999/channel/n15126c59/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/f8e149b917568063a1e4315be5e8c4fb.jpg" logo="http://epg.openboxfan.com/picon/bcurussianhd.png" channelId="-1" tvg-id="hlsproxy-2518" shift="2" tvg-country="1",BCU Russian HD
+http://192.168.0.103:9999/channel/n4de0fcb/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremierehd.png" channelId="-1" tvg-id="hlsproxy-55460" shift="2" tvg-country="1",BCU Premiere HD
+http://192.168.0.103:9999/channel/n21643909/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere1hd.png" channelId="-1" tvg-id="hlsproxy-1969" shift="2" tvg-country="1",BCU Кинозал Premiere 1 HD
+http://192.168.0.103:9999/channel/n69ecfe37/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere2hd.png" channelId="-1" tvg-name="BCU Кинозал Premiere 2 HD" tvg-id="hlsproxy-1970" shift="2" tvg-country="1",BCU Кинозал Premiere 2 HD
+http://192.168.0.103:9999/channel/n69ec89d8/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" logo="http://epg.openboxfan.com/picon/bcupremiere3hd.png" channelId="-1" tvg-id="hlsproxy-1971" shift="2" tvg-country="1",BCU Кинозал Premiere 3 HD
+http://192.168.0.103:9999/channel/n69ec1579/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/10/3635ec37e32d8ae0312734db03baeea4.png" logo="https://iptvxpix.ml/bcu-reality.png" channelId="-1" tvg-id="bcu-reality" shift="2" tvg-country="1",BCU Reality HD
+http://192.168.0.103:9999/channel/n83507a8/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/c56d50fbede5ab938c67f4dfd99cf428.jpg" logo="http://epg.openboxfan.com/picon/bcuvhshd.png" channelId="-1" tvg-id="hlsproxy-55461" shift="2" tvg-country="1",BCU VHS HD
+http://192.168.0.103:9999/channel/7a412307/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/bd24a344d18bc01cd339db36de9832b6.jpg" logo="http://epg.openboxfan.com/picon/bcukidshd.png" channelId="-1" tvg-id="hlsproxy-55526" shift="2" tvg-country="4",BCU Kids HD
+http://192.168.0.103:9999/channel/n3e9cac7d/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/bd514397638110cb6833202f4af115bb.jpg" logo="http://epg.openboxfan.com/picon/bcukidsplushd.png" channelId="-1" tvg-id="hlsproxy-55527" shift="2" tvg-country="1",BCU Kids+ HD
+http://192.168.0.103:9999/channel/6b0b878a/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/07861ea2ebd468670d469513b60d2d8c.jpg" logo="http://epg.openboxfan.com/picon/bcu%d0%bc%d1%83%d0%bb%d1%8c%d1%82%d1%81%d0%b5%d1%80%d0%b8%d0%b0%d0%bbhd.png" channelId="-1" tvg-id="hlsproxy-55463" shift="2" tvg-country="1",BCU Мультсериал HD
+http://192.168.0.103:9999/channel/26fd667/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9ccc6de6ea6ad2661413bc51087d1d74.jpg" logo="http://bcumedia.pro/images/homepage/ch_8.png" channelId="-1" tvg-id="hlsproxy-2517" shift="2" tvg-country="1",BCU Сваты HD
+http://192.168.0.103:9999/channel/n2d8a0820/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/d4adcf0dd49dd9b25331e689a92c932c.jpg" logo="http://epg.openboxfan.com/picon/bcuultra4k.png" channelId="-1" tvg-id="bcu-ultra4k" shift="2" tvg-country="1",BCU Ultra 4K
+http://192.168.0.103:9999/channel/33e1f617/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/04/e276c84cf639225d68008f52d545c209.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/04/8bf265783e6cb7b6e971eff9dd352b44.png" channelId="-1" tvg-id="BUNNYHD" shift="2",Кино и сериалы BUNNY HD
+http://192.168.0.103:9999/channel/n1b5c8b55/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i114.fastpic.ru/big/2021/0505/fc/8b69ca6eb621288d7b7f281c14e353fc.png" logo="https://i114.fastpic.ru/big/2021/0505/00/6aa53ba0cbcdb410c21935490457f800.png" channelId="-1" tvg-id="SKYHIGHHEROESHD" shift="2",Кино и сериалы HEROES HD
+http://192.168.0.103:9999/channel/7f9d75df/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i114.fastpic.ru/big/2021/0505/6c/74bc83618ae1b53613d699e626d6aa6c.png" logo="https://i114.fastpic.ru/big/2021/0505/b1/00954920970fbb6ad9108795497a28b1.png" channelId="-1" tvg-id="SKYHIGHSERIESHD" shift="2",Кино и сериалы SERIES HD
+http://192.168.0.103:9999/channel/n2baed8d0/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i114.fastpic.ru/big/2021/0505/94/5574e1f46f006c6caf65edd5e6546594.png" logo="https://i114.fastpic.ru/big/2021/0505/6e/b93e96ff1fc35a18210281e25551f36e.png" channelId="-1" tvg-id="SKYHIGHEPOCHHD" shift="2",Кино и сериалы EPOCH HD
+http://192.168.0.103:9999/channel/14d9eec8/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.auratv.fun/EPG/pic/russian.png" logo="http://epg.auratv.fun/EPG/pic/russian_tr.png" channelId="-1" tvg-id="SKYHIGHRUSSIANHD" shift="2",Кино и сериалы RUSSIAN HD
+http://192.168.0.103:9999/channel/n7b6535c2/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/11/d6c17f90d9feb638c9ed8d9c119ad1e3.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/10/dcbace838f1ca732284c7de7655a8040.png" channelId="-1" tvg-id="SKYHIGHBYSLONKAHD" shift="2",Кино и сериалы BY SLONKA HD
+http://192.168.0.103:9999/channel/157d28ba/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i114.fastpic.ru/big/2021/0505/48/c3bca8dbd896fd322ba40384bbeb1948.png" logo="https://i115.fastpic.org/big/2021/0831/b2/2779ba7c0bd05f46fc91388edd0a28b2.png" channelId="-1" tvg-id="SKYHIGHFRESHHD" shift="2",Кино и сериалы FRESH HD
+http://192.168.0.103:9999/channel/n29a76bfd/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.auratv.fun/EPG/pic/fresh_hdr.png" logo="http://epg.auratv.fun/EPG/pic/fresh_hdr_tr.png" channelId="-1" shift="2",Кино и сериалы FRESH HDR
+http://192.168.0.103:9999/channel/nb461351/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.auratv.fun/EPG/pic/fresh60.png" logo="http://epg.auratv.fun/EPG/pic/fresh60_tr.png" channelId="-1" tvg-id="60SKYNEW" shift="2",Кино и сериалы FRESH 60
+http://192.168.0.103:9999/channel/n29a76e3f/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://ic.wampi.ru/2021/08/29/2d44be9071ac956bdc57db4331cdf2041.png" logo="https://i115.fastpic.org/big/2021/0829/9b/c0c76a9c163ad2e02aa1a14eff190c9b.png" channelId="-1" tvg-id="SKYHIGHFUTUREHD" shift="2",Кино и сериалы FUTURE HD
+http://192.168.0.103:9999/channel/49e1c464/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/6807dbef84e3672a1bcd5a671d7e9e0e.png" logo="https://i115.fastpic.org/big/2021/0831/8c/9218b87af2579f3879dcca3e2b6e578c.png" channelId="-1" tvg-id="SKYHIGHMAND" shift="2",Кино и сериалы MAN HD
+http://192.168.0.103:9999/channel/n45bcaa69/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.ru/big/2021/0628/33/6ea9ddf32e3b97de54a2070731535b33.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/10/091d509ee6af6448d099f773b3801bbc.png" channelId="-1" shift="2",Кино и сериалы MIX 3D
+http://192.168.0.103:9999/channel/n45476536/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.ru/big/2021/0628/c0/ddea63fc1ab9a751ffe6c478e1f869c0.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/10/459c4c9047c03101d6233c20d31c7226.png" channelId="-1" tvg-id="SKYHIGHNATURE4K" shift="2",Кино и сериалы NATURE 4K
+http://192.168.0.103:9999/channel/n31924765/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.auratv.fun/picon/classic.png" logo="https://runigma.com.ua/EPG/picons/SKY%20HIGH%20CLASSIC%20HD.png" channelId="-1" shift="2",Кино и сериалы CLASSIC HD
+http://192.168.0.103:9999/channel/n3e73b321/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i114.fastpic.ru/big/2021/0505/9a/9e4c1b7885953542bd9525ac9c9be49a.png" logo="https://i115.fastpic.org/big/2021/0831/6c/e033177120ae9a5e663cc1542c87cc6c.png" channelId="-1" tvg-id="SKYHIGHCONCERTHD" shift="2",Кино и сериалы CONCERT HD
+http://192.168.0.103:9999/channel/5f07e24b/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.org/big/2021/0805/01/d3ac6190403ab425b3df93c605abde01.png" logo="https://i115.fastpic.org/big/2021/0805/97/b6abf1baacccd93a310594f8aa4ee797.png" channelId="-1" tvg-id="SKYHIGHDANCEHD" shift="2",Кино и сериалы DANCE HD
+http://192.168.0.103:9999/channel/n6e3aeca2/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.org/big/2021/0805/a6/a44cde92301cbbb4e9141ef8db4ab0a6.png" logo="https://i115.fastpic.org/big/2021/0805/27/aff9835ba9603df1f8b54b4038888527.png" channelId="-1" tvg-id="SKYHIGHSPIRITHD" shift="2",Кино и сериалы SPIRIT HD
+http://192.168.0.103:9999/channel/7e7a6f76/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/08/367fdc2f68384ddd74d7d9f3259d2033.png" logo="https://i115.fastpic.org/big/2021/0829/cb/52db7c0fb62f87acff02f6d72f25fdcb.png" channelId="-1" tvg-id="SKYHIGHFIGHT+HD" shift="2",Кино и сериалы FIGHT + HD
+http://192.168.0.103:9999/channel/a6600b6/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/a64c484b54a2f572f39820b1875face3.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/e41c5c1e481a5dbc921c98ef0f67139f.png" channelId="-1" tvg-id="SKYHIGHADULT" shift="2",Кино и сериалы ADULT HD
+http://192.168.0.103:9999/channel/54bcff7/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/grand.png" logo="https://runigma.com.ua/EPG/picons/YOSSO%20TV%20GRAND.png" channelId="-1" tvg-id="grand-yosso" shift="2",Кино и сериалы Grand
+http://192.168.0.103:9999/channel/n761ac1a9/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/vhs.png" logo="https://runigma.com.ua/EPG/picons/YOSSO%20TV%20VHS.png" channelId="-1" tvg-id="yossovhs-yosso" shift="2",Кино и сериалы VHS
+http://192.168.0.103:9999/channel/n5ef4e7f4/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/kids.png" logo="https://runigma.com.ua/EPG/picons/YOSSO%20TV%20KIDS.png" channelId="-1" tvg-id="yossokids-yosso" shift="2",Кино и сериалы Kids
+http://192.168.0.103:9999/channel/n7fac983e/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/rukino.png" logo="https://runigma.com.ua/EPG/picons/YOSSO%20TV%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5%20%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B.png" channelId="-1" tvg-id="yossoru-yosso" shift="2",Кино и сериалы Русские фильмы
+http://192.168.0.103:9999/channel/n2827808b/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/yossotvsssr.png" logo="https://runigma.com.ua/EPG/picons/YOSSO%20TV%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5%20%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B.png" channelId="-1" tvg-id="yossosssr-yosso" shift="2",Кино и сериалы Советские фильмы
+http://192.168.0.103:9999/channel/n65691ccf/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/newkino.png" logo="https://runigma.com.ua/EPG/picons/YOSSO%20TV%20NEW%20%D0%9A%D0%B8%D0%BD%D0%BE.png" channelId="-1" tvg-id="yossonew-yosso" shift="2",Кино и сериалы NEW Кино
+http://192.168.0.103:9999/channel/n7c9a0b2c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/mult.png" logo="https://runigma.com.ua/EPG/picons/YOSSO%20TV%20%D0%A1%D0%BE%D1%8E%D0%B7%D0%BC%D1%83%D0%BB%D1%8C%D1%82.png" channelId="-1" tvg-id="yossosovmult-yosso" shift="2",Кино и сериалы Союзмульт
+http://192.168.0.103:9999/channel/51f3670f/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://yosso.streaming-elbrus.tk:8085/logos/yossotv/musikhits.png" logo="https://runigma.com.ua/EPG/picons/YOSSO%20TV%20Music%20Hits.png" channelId="-1" shift="2",Кино и сериалы Music Hits
+http://192.168.0.103:9999/channel/n5cc81f0/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6913.png" logo="http://epg.it999.ru/img2/5432.png" channelId="-1" shift="2",Dosug TV СССР HD
+http://192.168.0.103:9999/channel/n4bf1e8fb/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6909.png" logo="http://epg.it999.ru/img2/5431.png" channelId="-1" shift="2",Dosug TV Russian HD
+http://192.168.0.103:9999/channel/31d62141/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6903.png" logo="http://epg.it999.ru/img2/5424.png" channelId="-1" shift="2",Dosug TV Fantastic HD
+http://192.168.0.103:9999/channel/6ceaa9d9/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6904.png" logo="http://epg.it999.ru/img2/5425.png" channelId="-1" shift="2",Dosug TV History HD
+http://192.168.0.103:9999/channel/nc259f60/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6906.png" logo="http://epg.it999.ru/img2/5427.png" channelId="-1" shift="2",Dosug TV Horror HD
+http://192.168.0.103:9999/channel/705ffb9a/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/7204.png" logo="http://epg.it999.ru/img2/5430.png" channelId="-1" shift="2",Dosug TV New HD
+http://192.168.0.103:9999/channel/n648e03ec/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6908.png" logo="http://epg.it999.ru/img2/5429.png" channelId="-1" shift="2",Dosug TV Marvel HD
+http://192.168.0.103:9999/channel/n5256905b/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.imgur.com/t6K96X9.jpg" logo="https://i.imgur.com/cQrfQ3O.png" channelId="-1" tvg-id="fantastika-sci-fi" shift="2",ФАНТАСТИКА Sci-Fi
+http://192.168.0.103:9999/channel/n1bd54c37/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/19082020/logos/38821-5f3c4f00064d4.png" channelId="-1" tvg-id="pamyat" shift="2",ПАМЯТЬ
+http://192.168.0.103:9999/channel/4376a26e/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/4dc2fb6dbd552246e33e3618fc580642.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/d9d7fcf3f437706d3ac49f96544d518e.png" channelId="-1" tvg-id="uzhastik" shift="2",УЖАСТИК
+http://192.168.0.103:9999/channel/8843680/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/25012021/logos/39161-600e74dd9597f.png" channelId="-1" tvg-id="hlsproxy-54" shift="2",ВСЁ ВКЛЮЧЕНО
+http://192.168.0.103:9999/channel/n3ee4bc08/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.imgur.com/4phYrB1.png" channelId="-1" tvg-id="multskazki" shift="2",МультСказки
+http://192.168.0.103:9999/channel/f5bc1a8/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.org/big/2021/0805/02/a1dfdcf8d68995dcbeaa430189c5f902.png" logo="https://i115.fastpic.org/big/2021/0805/f1/ef1b530c34880b01754cfa106dec68f1.png" channelId="-1" shift="2",Z!Channel HD
+http://192.168.0.103:9999/channel/n1655b460/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.org/big/2021/0805/b2/a4dd2b0c12fdc854bdc8075f5f4b71b2.png" logo="https://i115.fastpic.org/big/2021/0805/c7/d8388854a123b51edd637c63ff1ad1c7.png" channelId="-1" shift="2",Z!Comedy HD
+http://192.168.0.103:9999/channel/n197caf64/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.org/big/2021/0805/25/95b5323acce00ac52b5759f8cd76ab25.png" logo="https://i115.fastpic.org/big/2021/0805/e3/5cdefd12eb1f23d9cb7b33f3fef708e3.png" channelId="-1" shift="2",Z!Crime HD
+http://192.168.0.103:9999/channel/76747b11/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.org/big/2021/0805/c2/c11e7c62204e3d5d1674bbeccc0d96c2.png" logo="https://i115.fastpic.org/big/2021/0805/de/303101f3af2cf8d4b9c030d1cb77dcde.png" channelId="-1" shift="2",Z!Horror HD
+http://192.168.0.103:9999/channel/n14e08815/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.org/big/2021/0826/f6/a08f3839e7912d28fa0b73addf2143f6.png" logo="https://runigma.com.ua/EPG/picons/Liberty%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B.png" channelId="-1" tvg-shift="-24" shift="26",LIBERTY Ужасы HD
+http://192.168.0.103:9999/channel/n3f6ef922/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.org/big/2021/0826/03/9e503b9e861899077e09f6cd25b14103.png" logo="https://runigma.com.ua/EPG/picons/Liberty%20%D0%A2%D1%80%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D1%8B.png" channelId="-1" shift="2",LIBERTY Триллеры HD
+http://192.168.0.103:9999/channel/385b484d/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.org/big/2021/0826/d3/30500487282de9b1367e007c78084fd3.png" logo="https://runigma.com.ua/EPG/picons/Liberty%20%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B.png" channelId="-1" tvg-shift="-48" shift="50",LIBERTY Мультики HD
+http://192.168.0.103:9999/channel/n4e565479/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/11/f15c5a8a9e0089a16f0d0f0cca7784ef.png" logo="http://epg.it999.ru/img2/5522.png" channelId="-1" shift="2",LIBERTY Боевики HD
+http://192.168.0.103:9999/channel/5e76bdf9/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/7231.png" logo="https://iptvxpix.ml/cineman-skorpom.png" channelId="-1" tvg-id="hlsproxy-100307" shift="2",CineMan Скорая помощь
+http://192.168.0.103:9999/channel/n7d21bd39/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/10/0bf4dece06cdb2a49cd7b907fe635d45.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/10/1ecd76d7464952ee17c3f3927187eb09.png" channelId="-1" tvg-id="hlsproxy-100307" shift="2",CineMan Ментовские войны
+http://192.168.0.103:9999/channel/7b16dd26/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/7228.png" logo="https://iptvxpix.ml/cineman-simps.png" channelId="-1" tvg-id="hlsproxy-100307" shift="2",CineMan Симпсоны
+http://192.168.0.103:9999/channel/n2e046918/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6843.png" logo="https://iptvxpix.ml/cineman-svaty.png" channelId="-1" tvg-id="hlsproxy-100311" shift="2",CineMan Сваты
+http://192.168.0.103:9999/channel/11fd6825/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/11/797b3502dff54cb847fa21911d092b22.png" logo="http://epg.it999.ru/img2/6007.png" channelId="-1",C-Marvel
+http://192.168.0.103:9999/channel/558d269/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://1cent.tv/images/ch/6715.png" logo="https://runigma.com.ua/EPG/picons/uz%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA.png" channelId="-1" shift="2",UZ-Боевик ТВ HD
+http://192.168.0.103:9999/channel/1c3bce20/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/0335249fc600cbbeae7e446a1f96a1ff.png" logo="https://runigma.com.ua/EPG/picons/%D0%A1%D0%B2%D0%B5%D0%B6%D0%B0%D0%BA%D0%B8.png" channelId="-1",Свежаки
+http://192.168.0.103:9999/channel/n2f6d6464/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/a2440b87618da2fea4a2003f1f92e204.png" logo="https://runigma.com.ua/EPG/picons/%D0%A3%D0%B6%D0%B5%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BB.png" channelId="-1",Уже видел
+http://192.168.0.103:9999/channel/n3a69a5aa/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/e56340fe96b85aa2d1962ac326e03934.png" logo="https://runigma.com.ua/EPG/picons/%D0%94%D0%BE%D0%BA%D1%83.png" channelId="-1",Доку
+http://192.168.0.103:9999/channel/1eb0773/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/01/c76878f07cc565dc157c7b789473a880.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/01/b13c9c2ff2ddae1d595388c954d394bf.png" channelId="-1",LAVA HD
+http://192.168.0.103:9999/channel/281e8a3c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://ic.wampi.ru/2021/08/13/b5fbf4e04af6f4360870fca1e493385e.png" channelId="-1" tvg-id="hlsproxy-53020",Akudji
+http://192.168.0.103:9999/channel/75058758/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9f7574ed22a23d45a33442ea131b8f33.png" logo="http://b.radikal.ru/b01/2109/2d/2fdd58910eb8.png" channelId="-1" tvg-id="hlsproxy-672",BackusTV
+http://192.168.0.103:9999/channel/n7dab78d9/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/6527740275771301004b68475fef81da.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/5dde7747e938dd7d02d7a37a463bb7d0.png" channelId="-1" tvg-id="hlsproxy-672",BackusTV Страшное
+http://192.168.0.103:9999/channel/n6ce444a/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://pluspng.com/img-png/shows-hd-png--1920.jpg" channelId="-1",seriesTV
+http://192.168.0.103:9999/channel/517c4739/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/12/b096849286769a18887753f9c09e3868.png" logo="https://ic.wampi.ru/2021/08/14/fceb8e2edc41b0b1c344ecc58412457e.png" channelId="3926" tvg-id="hlsproxy-55103",FAN
+http://192.168.0.103:9999/channel/10ef3/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6304.png" logo="https://ic.wampi.ru/2021/08/14/fceb8e2edc41b0b1c344ecc58412457e.png" channelId="3926" tvg-id="hlsproxy-55103",FAN HD
+http://192.168.0.103:9999/channel/7b2b2949/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i114.fastpic.ru/big/2021/0513/02/72849024f5c58f50e04651c135090202.png" logo="https://i114.fastpic.ru/big/2021/0513/bc/cc3999bbe7de88ce79e493088e816ebc.png" channelId="-1",FILM_TV_GROUP
+http://192.168.0.103:9999/channel/n61bcc543/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/3f7051fc0dd1bb1474ef162712cf5bd6.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/09/4ebb011c8fcdcbe24eb81f1459ab5e60.png" channelId="-1",Новосілки ТБ
+http://192.168.0.103:9999/channel/n290085c8/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/12/417fa192c58f502b6968747e59f7c17b.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/12/fd8ab9a9be3dd6baf8f16a43f69b81e8.png" channelId="-1" shift="2",AVD TV
+http://192.168.0.103:9999/channel/73c65193/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/d13c3afc8b5323e15108efe895e5688a.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/6e22421d42b8d0ad1f757db24487111d.png" channelId="-1",PZN HD
+http://192.168.0.103:9999/channel/n726414e8/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-9085" tvg-logo="https://img.catcast.tv/uploads/22052021/banners/38792-60a911e36c8aa.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/b2a7d51f9ff17c31d8cabd5601c54949.png" channelId="-1" shift="2",FILM VHS
+http://192.168.0.103:9999/channel/3366345/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/9c9e48fe527005bf9b95b620aced4dfc.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/01/4a5319a855bbefc0f3e93c527fa0e927.png" channelId="-1" tvg-name="Millenium TV" shift="2",Millenium TV HD
+http://192.168.0.103:9999/channel/4a5cf2f6/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/2ab1957a86173bbc6d751fa1ba6a0b42.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/f2b33d21b7296dfc7f42f16456eb6907.png" channelId="-1" tvg-id="hlsproxy-864",Фантастика HD
+http://192.168.0.103:9999/channel/6c8ab26e/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/2743.png" logo="https://runigma.com.ua/EPG/picons/Ultra%20HD%20Cinema%204K.png" channelId="3982" tvg-id="hlsproxy-54661",Ultra HD Cinema HD
+http://192.168.0.103:9999/channel/1edea5b/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://televizor.org/img/logopit/Ultra%20REX%20FullHD.png" logo="https://ic.wampi.ru/2021/08/14/680a3842560587f79b296189a2207da1.png" channelId="2662" tvg-id="hlsproxy-52651",ULTRA REX
+http://192.168.0.103:9999/channel/n3513e0f/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://crimeastar.net/wp-content/uploads/2020/09/mosfilm-300x300.png" logo="https://antifriz.tv/storage/images/pack_logos/e8b7f8df776a183de14347f3f57d292f.png" channelId="4908" tvg-id="hlsproxy-100262",Мосфильм. Золотая коллекция
+http://192.168.0.103:9999/channel/n40bba4df/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://crimeastar.net/wp-content/uploads/2020/09/mosfilm-300x300.png" logo="https://antifriz.tv/storage/images/pack_logos/e8b7f8df776a183de14347f3f57d292f.png" channelId="4908" tvg-id="hlsproxy-100262",Мосфильм. Золотая коллекция HD
+http://192.168.0.103:9999/channel/nc56b9a5/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://assets.limehd.tv/uploads/channel/10290/thumb_b856ce216bce677cebbb660e5d847bcc.png" logo="https://ic.wampi.ru/2021/08/14/40375783926e654eccc2a38541f17075.png" channelId="-1" tvg-name="Советское кино" tvg-id="hlsproxy-55083" shift="3",Советское кино HD
+http://192.168.0.103:9999/channel/n2cc9e331/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/10/16788ed8fd54d3c4261efa9d73c317be.png" logo="http://b.radikal.ru/b21/2109/4a/f8a62df77bdd.png" channelId="-1" tvg-id="hlsproxy-55515",TOP 80's
+http://192.168.0.103:9999/channel/ncb02dd1/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/10/ff5e86d16578a3fa3688b79c3e6f18f8.png" logo="http://d.radikal.ru/d29/2109/0a/8ac41bde7c68.png" channelId="-1" tvg-id="hlsproxy-5151",TOP СССР
+http://192.168.0.103:9999/channel/nad9dbb6/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/10/fb5ecc50b3da8030da0e5ba79e4ddc46.png" logo="http://d.radikal.ru/d08/2109/93/62be57d8a25c.png" channelId="-1" tvg-id="hlsproxy-52851",TOP Cinema
+http://192.168.0.103:9999/channel/74acac5c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/10/af04889ccbb9772e25ab22d3cee585b6.png" logo="http://b.radikal.ru/b18/2109/9e/b87f64522d6c.png" channelId="-1" tvg-id="hlsproxy-55513",TOP BUDO
+http://192.168.0.103:9999/channel/ncab13d7/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.org/big/2021/0804/78/0025a6b38752e28958a16fb034894878.png" logo="https://runigma.com.ua/EPG/picons/%D0%9A%D0%B8%D0%BD%D0%BE%201%20International.png" channelId="-1" tvg-id="hlsproxy-279" shift="2",Кино 1 International
+http://192.168.0.103:9999/channel/4f22b21e/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.org/big/2021/0804/c1/5cc5bd4a2635c293435a034bb1e5f1c1.png" logo="https://i115.fastpic.org/big/2021/0804/19/40a2dce935783dee3b498c8320488219.png" channelId="-1" tvg-id="voenkino-tviksel" shift="2",Военное кино
+http://192.168.0.103:9999/channel/ne1e2ea1/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1660.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/04/c61b0c801ec3e77b84e1b0576536d6ec.png" channelId="-1" shift="2",Видеокассета
+http://192.168.0.103:9999/channel/n5bf5140a/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/10/0c78fd80f2011ddcaab7f1783a9d468c.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/10/8829cb598b97f88f9382721aa4945c41.png" channelId="-1" tvg-shift="-1" shift="3" tvg-id="hlsproxy-54686",Твоё ТВ HD
+http://192.168.0.103:9999/channel/1453b4af/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/11/0715e6f91f1270a9dd2c17357c864a6c.png" logo="https://runigma.com.ua/EPG/picons/_Transp_2.png" channelId="-1" tvg-id="plan-b",Plan B HD
+http://192.168.0.103:9999/channel/necb67ef/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/5581.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/1dc962271efe30c1ef4273bc5695a322.png" channelId="66" tvg-id="hlsproxy-171",TV1000
+http://192.168.0.103:9999/channel/n6bd6061f/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/19102.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/e77c4f827d95f695076f152a020757ce.png" channelId="66" tvg-id="hlsproxy-171",TV1000 HD
+http://192.168.0.103:9999/channel/ce2f9b/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/19102.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/e77c4f827d95f695076f152a020757ce.png" channelId="66" tvg-name="TV1000 CEE" tvg-id="hlsproxy-100250" tvg-country="UA",TV1000 CEE HD
+http://192.168.0.103:9999/channel/n7fb35ac8/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/19104.png" logo="https://www.mr-info.ru/wp-content/uploads/2020/10/000000024.png" channelId="65" tvg-id="hlsproxy-429",TV1000 Русское кино
+http://192.168.0.103:9999/channel/16d18910/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6324.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/3b07a1fe3abb692c88a7b0e7e6d704cc.png" channelId="65" tvg-id="hlsproxy-429",TV1000 Русское кино HD
+http://192.168.0.103:9999/channel/69dd9e0c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6300.png" logo="https://i.pinimg.com/originals/0d/9b/13/0d9b137a54f35d719c6d6b0e28098724.png" channelId="3633" tvg-id="hlsproxy-22",TV1000 World Kino
+http://192.168.0.103:9999/channel/205ce34c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/19103.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/10/d75b0b73201487b8d700fd5315d2da9a.png" channelId="214" tvg-id="hlsproxy-172",TV1000 Action
+http://192.168.0.103:9999/channel/7ea02975/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/11/c964d441f5a014026e2bd77e01c26e2c.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/fce9f5eac396d82a2b9338302b4681e9.png" channelId="214" tvg-name="TV1000 Action" tvg-id="hlsproxy-172",TV1000 Action HD
+http://192.168.0.103:9999/channel/n6fc71879/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/11/c964d441f5a014026e2bd77e01c26e2c.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/fce9f5eac396d82a2b9338302b4681e9.png" channelId="214" tvg-name="TV1000 Action CEE" tvg-id="hlsproxy-7103" tvg-country="UA",TV1000 Action CEE HD
+http://192.168.0.103:9999/channel/6a818724/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/17102.png" logo="http://infoua.biz/image/tv/stream/vipc.png" channelId="607" tvg-id="hlsproxy-173",ViP Comedy
+http://192.168.0.103:9999/channel/6c86ec5c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/17102.png" logo="http://infoua.biz/image/tv/stream/vipc.png" channelId="607" tvg-id="hlsproxy-173",ViP Comedy HD
+http://192.168.0.103:9999/channel/692be740/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/17102.png" logo="http://infoua.biz/image/tv/stream/vipc.png" channelId="607" tvg-name="ViP Comedy CEE" tvg-id="hlsproxy-100126" tvg-country="UA",ViP Comedy CEE HD
+http://192.168.0.103:9999/channel/n71f3fda3/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/17103.png" logo="http://infoua.biz/image/tv/stream/vipm.png" channelId="606" tvg-id="hlsproxy-174",ViP Megahit
+http://192.168.0.103:9999/channel/23ee287e/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/17103.png" logo="http://infoua.biz/image/tv/stream/vipm.png" channelId="606" tvg-id="hlsproxy-174",ViP Megahit HD
+http://192.168.0.103:9999/channel/3fba9fde/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/17103.png" logo="http://infoua.biz/image/tv/stream/vipm.png" channelId="606" tvg-id="hlsproxy-100127" tvg-country="UA",ViP Megahit CEE HD
+http://192.168.0.103:9999/channel/n68cec405/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/17104.png" logo="http://infoua.biz/image/tv/stream/vipp.png" channelId="605" tvg-id="hlsproxy-175",ViP Premiere
+http://192.168.0.103:9999/channel/3e6b3e7c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/17104.png" logo="http://infoua.biz/image/tv/stream/vipp.png" channelId="605" tvg-id="hlsproxy-175",ViP Premiere HD
+http://192.168.0.103:9999/channel/n3de31ee0/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/17104.png" logo="http://infoua.biz/image/tv/stream/vipp.png" channelId="605" tvg-id="hlsproxy-100181" tvg-country="UA",ViP Premiere CEE HD
+http://192.168.0.103:9999/channel/n4fd2f3c3/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0109.png" logo="http://teleprogramma.tv/images/vip_serial.png" channelId="3894" tvg-id="hlsproxy-55135",ViP Serial
+http://192.168.0.103:9999/channel/n78b62049/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0109.png" logo="https://runigma.com.ua/EPG/picons/ViP%20Serial%20HD%20PREMIUM+.png" channelId="3894" tvg-id="hlsproxy-55135",ViP Serial HD
+http://192.168.0.103:9999/channel/n52368dfb/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://www.widemedia.tv/wp-content/uploads/2016/02/filmzone_transp-150x150.png" logo="http://www.widemedia.tv/wp-content/uploads/2016/02/filmzone_transp-150x150.png" channelId="-1" tvg-id="hlsproxy-10245" shift="2",Filmzone
+http://192.168.0.103:9999/channel/n277ae4b0/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.cgates.lt/wp-content/uploads/2019/02/logo-tv3-film-hd-spot.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/01/ee2ed3df3f886f49d19bd47f09cd6705.png" channelId="-1" tvg-name="TV3 Film" tvg-id="hlsproxy-54791",TV3 Film HD
+http://192.168.0.103:9999/channel/n5e3c9a37/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/bc9319b1e9ae32015139e19356135358.png" logo="https://runigma.com.ua/EPG/picons/%D0%9A%D0%B8%D0%BD%D0%BE%D0%B4%D0%B6%D0%B5%D0%BC%201%20HD.png" channelId="-1" tvg-name="KinoJam 1" tvg-id="hlsproxy-100265",KinoJam 1 HD
+http://192.168.0.103:9999/channel/6240dff4/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/4ae6d711665554991d59f91fe704393b.png" logo="https://runigma.com.ua/EPG/picons/%D0%9A%D0%B8%D0%BD%D0%BE%D0%B4%D0%B6%D0%B5%D0%BC%202%20HD.png" channelId="-1" tvg-name="KinoJam 2" tvg-id="hlsproxy-100266",KinoJam 2 HD
+http://192.168.0.103:9999/channel/62415453/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BA%D0%B8%D0%BD%D0%BE%20%D1%82%D0%B2.png" logo="https://runigma.com.ua/EPG/picons/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92.png" channelId="342" tvg-id="hlsproxy-279",Кино ТВ
+http://192.168.0.103:9999/channel/68e92c71/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-279" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BA%D0%B8%D0%BD%D0%BE%20%D1%82%D0%B2.png" logo="https://runigma.com.ua/EPG/picons/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92.png" channelId="342" shift="+4" tvg-shift="+4",Кино ТВ (+4)
+http://192.168.0.103:9999/channel/n676446f9/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-279" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BA%D0%B8%D0%BD%D0%BE%20%D1%82%D0%B2.png" logo="https://runigma.com.ua/EPG/picons/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92.png" channelId="342" shift="+7" tvg-shift="+7",Кино ТВ (+7)
+http://192.168.0.103:9999/channel/n6764469c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0147.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/01/cba97aa39af4acaf5b182241e0fe9938.png" channelId="342" tvg-id="hlsproxy-279",Кино ТВ HD
+http://192.168.0.103:9999/channel/n6954ccf5/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/c02c0b4b11e84e4b08976f11798e987a.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/e5d1125d0537cfeedf1bb489eabc52ef.png" channelId="-1" tvg-id="hlsproxy-2494",Trash HD
+http://192.168.0.103:9999/channel/50738704/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://lime-tv.ru/uploads/posts/2020-03/1583337478_kino24.jpg" logo="https://iptvxpix.ml/kino-24.png" channelId="-1" tvg-id="hlsproxy-53022" shift="2",Kino 24
+http://192.168.0.103:9999/channel/38e14243/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.tildacdn.com/tild3931-6539-4034-b533-626638316132/122197199.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/4bcd705f1c0f7a16ebd47df4a13582a8.png" channelId="1786" tvg-id="hlsproxy-8196",Про100ТВ
+http://192.168.0.103:9999/channel/2b6c3ba4/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://tvbesedka.com/Upload/2020/9/21/11/27/14/efe8d374-3f1f-4583-94e2-28f1a5ee7d10.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/0dfb95d88aa53e457590fef892e6671b.png" channelId="-1" tvg-name="Cinema Космос ТВ" tvg-id="hlsproxy-51066",Cinema Космос ТВ HD
+http://192.168.0.103:9999/channel/191d547d/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/db35e3d8094cb01a8f74986a042f607f.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/4f0c6170151a914ff38bdd9c6e310e84.png" channelId="-1" tvg-id="hlsproxy-1764" shift="2",КиноСезон
+http://192.168.0.103:9999/channel/bc5a563/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/db35e3d8094cb01a8f74986a042f607f.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/06/4f0c6170151a914ff38bdd9c6e310e84.png" channelId="-1" tvg-name="КиноСезон" tvg-id="hlsproxy-1764" shift="2",КиноСезон HD
+http://192.168.0.103:9999/channel/n12b64327/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://s5.vcdn.biz/static/f/679508951/image.jpg" logo="https://ic.wampi.ru/2021/08/14/540325153c9acfea719c31fcd42204a2.png" channelId="1789" tvg-id="hlsproxy-51037",СТРК HD
+http://192.168.0.103:9999/channel/n4bff549f/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://teleon.tv/images/logos/43tv_tuapse.png" logo="http://epg.openboxfan.com/picon/47.png" channelId="-1" tvg-id="hlsproxy-51038",43 канал HD
+http://192.168.0.103:9999/channel/7bdcd44b/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0222.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/683a120ee4b35a3a92f1fe2820cc892f.png" channelId="1039" tvg-id="hlsproxy-1993" shift="2",Арсенал HD
+http://192.168.0.103:9999/channel/7713d058/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://i114.fastpic.ru/big/2021/0425/a1/2c8029c2427b2449ce9fae314d2a96a1.png" channelId="17" tvg-id="hlsproxy-259",Звезда HD
+http://192.168.0.103:9999/channel/2d872463/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/76e275d8639546602625b7ccf727375f.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/89897ff50126d9ef1c4cbc9acdfcd28e.png" channelId="-1" tvg-id="hlsproxy-100298",Звезда Плюс
+http://192.168.0.103:9999/channel/n15e223aa/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/4e0fa5d9e79f0cb5f6115dd10c78054c.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/90e03f7cd5647030cd9321e13dcba8f3.png" channelId="-1" tvg-name="Звязда" tvg-id="hlsproxy-55141",Звязда HD
+http://192.168.0.103:9999/channel/n7316d703/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1064.jpg" logo="https://ic.wampi.ru/2021/08/14/f5d3421c1960e17475584294b315a474.png" channelId="-1" tvg-id="hlsproxy-100021" tvg-shift="5" shift="3",День Победы HD
+http://192.168.0.103:9999/channel/4cbf1492/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6230.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/dd0ef51448037f03998a59edd6feeb56.png" channelId="3922" tvg-id="hlsproxy-55224",Победа HD
+http://192.168.0.103:9999/channel/n28c9e763/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/08/32ab82bb736529ba8d537d320284db87.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/34bd7791d9ebfc4706c02e275ea9d942.png" channelId="4764" tvg-id="hlsproxy-2505",Блокбастер HD
+http://192.168.0.103:9999/channel/n75b804b5/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://tricolor-centr.ru/images/novosti/hit.jpg" logo="https://antifriz.tv/storage/images/pack_logos/39614c6364ef51682293f4250c5d26f0.png" channelId="4768" tvg-id="hlsproxy-2506",Хит HD
+http://192.168.0.103:9999/channel/4fe8f0cd/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.cableman.ru/sites/default/files/pro_lyubov_2.png" logo="https://ic.wampi.ru/2021/08/14/87fe4d7fff077de743ed4b0ab5e87b4f.png" channelId="4765" tvg-id="hlsproxy-2510",Про любовь
+http://192.168.0.103:9999/channel/n61c97fa3/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/5537.png" logo="http://teledays.net/images/romantichnoe-hd.png" channelId="4165" tvg-id="hlsproxy-100014",Романтичное HD
+http://192.168.0.103:9999/channel/3727c3ee/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0107.png" logo="https://antifriz.tv/storage/images/pack_logos/94f6f9dc05e680af446947572ab3c4d0.png" channelId="1636" tvg-name="Наш Кинороман" tvg-id="hlsproxy-575" shift="3",Душевное HD
+http://192.168.0.103:9999/channel/7c038f3e/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0139.png" logo="https://antifriz.tv/storage/images/channel_logos/nashe-lubimoe-hd.png" channelId="469" tvg-id="hlsproxy-6117",Любимое HD
+http://192.168.0.103:9999/channel/31a758c3/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://kis.lt/wp-content/uploads/2020/12/09d3683d4142756343249e4479f72889.jpg" logo="https://runigma.com.ua/EPG/picons/%D0%9B%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png" channelId="314" tvg-id="hlsproxy-385",Наше любимое кино
+http://192.168.0.103:9999/channel/789b8d86/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://tv.nalench.com/uploads/screenshots/mir_seriala.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2CF_7_70_1680000_0_0_0.png" channelId="312" tvg-id="hlsproxy-308",Мир сериала
+http://192.168.0.103:9999/channel/3b5a4fd/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/071e65cbe8a2065c737c617c04a79565.png" logo="https://runigma.com.ua/EPG/picons/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB.png" channelId="3160" tvg-id="hlsproxy-8194",НТВ Сериал
+http://192.168.0.103:9999/channel/4d3354aa/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv-hit.png" logo="https://orshatv.by/files/posts/%D0%9D%D0%A2%D0%92_%D0%A5%D0%B8%D1%82_2017.png" channelId="3865" tvg-id="hlsproxy-212",НТВ Хит
+http://192.168.0.103:9999/channel/n221cb7a4/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/e93d2c79526c93b504177635d66e8c17.png" logo="https://runigma.com.ua/EPG/picons/%D0%9D%D0%A2%D0%92%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE.png" channelId="3162" tvg-id="hlsproxy-8349",НТВ Право
+http://192.168.0.103:9999/channel/ne1e05f8/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://tv.kubtel.ru/tv_icon/domkino.png" logo="https://runigma.com.ua/EPG/picons/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE.png" channelId="68" tvg-id="hlsproxy-244",Дом кино
+http://192.168.0.103:9999/channel/487ec3ed/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://tv.nalench.com/uploads/screenshots/dom_kino_premium.jpg" logo="https://runigma.com.ua/EPG/picons/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20HD.png" channelId="2657" tvg-id="hlsproxy-51107",Дом кино Премиум HD
+http://192.168.0.103:9999/channel/7d68bb66/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1472470827028.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_45B_B_70_1680000_0_0_0.png" channelId="71" tvg-id="hlsproxy-604",Русская комедия
+http://192.168.0.103:9999/channel/n4b986d3c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/121.png" logo="https://antifriz.tv/storage/images/pack_logos/7472ab672fcbb9f7468e8d2eeb4d8d0c.png" channelId="209" tvg-id="hlsproxy-472",Shot TV (Короткометражное кино)
+http://192.168.0.103:9999/channel/7470868d/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/94f7e80ea9875e8fcf53048e8ed38681.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/17e9f97c5da9e74756d5c67c4217dec5.png" channelId="4517" tvg-name="Flix Snip" tvg-id="hlsproxy-55175" shift="2",Flix Snip HD
+http://192.168.0.103:9999/channel/n7e42fb91/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://lime-tv.ru/uploads/posts/2018-03/thumbs/1521739456_kinomenu.jpg" logo="https://static.wikia.nocookie.net/tvpedia/images/7/71/%D0%9A%D0%B8%D0%BD%D0%BE%D0%9C%D0%B5%D0%BD%D1%8E_HD.png/revision/latest?cb=20150122035102&path-prefix=ru" channelId="-1" tvg-id="hlsproxy-1018",КиноМеню HD
+http://192.168.0.103:9999/channel/28bf1b73/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinopremera_hd.png" channelId="410" tvg-id="hlsproxy-331",Кинопремьера HD
+http://192.168.0.103:9999/channel/n43fb18c4/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" channelId="315" tvg-id="hlsproxy-329",Наше новое кино HD
+http://192.168.0.103:9999/channel/n6ea38adb/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinomiks_hd.png" channelId="270" tvg-id="hlsproxy-323",Киномикс HD
+http://192.168.0.103:9999/channel/n358b21e6/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinosemya.png" channelId="568" tvg-id="hlsproxy-92",Киносемья
+http://192.168.0.103:9999/channel/d88aa0c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinosemya.png" channelId="568" tvg-id="hlsproxy-92",Киносемья HD
+http://192.168.0.103:9999/channel/nd3af470/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinohit.png" channelId="409" tvg-id="hlsproxy-327",Кинохит HD
+http://192.168.0.103:9999/channel/n55832b14/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinokomediya.png" channelId="194" tvg-id="hlsproxy-290",Кинокомедия
+http://192.168.0.103:9999/channel/6b0c030f/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinokomediya.png" channelId="194" tvg-id="hlsproxy-290",Кинокомедия HD
+http://192.168.0.103:9999/channel/2ad86fad/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinoseriya.png" channelId="195" tvg-id="hlsproxy-309",Киносерия HD
+http://192.168.0.103:9999/channel/n7816808/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinosvidanie.png" channelId="413" tvg-id="hlsproxy-324",Киносвидание
+http://192.168.0.103:9999/channel/4bee9a96/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinosvidanie.png" channelId="413" tvg-id="hlsproxy-324",Киносвидание HD
+http://192.168.0.103:9999/channel/4b97d6c6/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/rodnoe_kino.png" channelId="316" tvg-id="hlsproxy-330",Родное кино
+http://192.168.0.103:9999/channel/n71d12adf/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/mujskoe_kino_hd.png" channelId="169" tvg-id="hlsproxy-268",Мужское кино HD
+http://192.168.0.103:9999/channel/502ed9bc/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/10/015f2de7354102b88b03ee2b1729ae62.png" logo="https://runigma.com.ua/EPG/picons/NASHEKRUTOE.png" channelId="1635" tvg-id="hlsproxy-577",Наше HD
+http://192.168.0.103:9999/channel/n57476c4/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0121.png" logo="https://antifriz.tv/storage/images/channel_logos/kino-premium-hd.png" channelId="1637" tvg-id="hlsproxy-574",Премиальное HD
+http://192.168.0.103:9999/channel/5108df9/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/0a7313b3457b83f9f8cb43dfcabd3a14.jpg" logo="https://ic.wampi.ru/2021/08/14/169db0247523ef7ebea9aa7d3c4f9455.png" channelId="1633" tvg-id="hlsproxy-576",Остросюжетное HD
+http://192.168.0.103:9999/channel/acdc61/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0120.png" logo="https://ic.wampi.ru/2021/08/14/4850b3cc8c177f73c6ab0acd649ef471.png" channelId="230" tvg-id="hlsproxy-283",Комедийное HD
+http://192.168.0.103:9999/channel/6155fd20/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://tv.kubtel.ru/tv_icon/kinosat.jpg" logo="http://tv.ontivi.net/img/kinosat.png" channelId="4643" tvg-id="hlsproxy-794",КиноСат
+http://192.168.0.103:9999/channel/68f83614/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6208.png" logo="https://antifriz.tv/storage/images/pack_logos/a4589792317696060765519a4d2256b8.png" channelId="599" tvg-id="hlsproxy-281",Кинопоказ HD
+http://192.168.0.103:9999/channel/n5e46527/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6209.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/8dae3f5f756ffabdae4a2e9c9d7e3eb6.png" channelId="4767" tvg-id="hlsproxy-2503",Наш кинопоказ HD
+http://192.168.0.103:9999/channel/n25fd29fc/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/d8519bbfa86d95d0e7e4140c7925db16.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/f935ea769f952a128a85930d16fced05.png" channelId="-1" tvg-name="Классика Кино" tvg-id="hlsproxy-53851",Классика Кино HD
+http://192.168.0.103:9999/channel/61274fdc/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnizAzrzVbxHjtnEFByDIrcUuiJh8ojZdPYMvuobNQ=s200-c-k-c0x00ffffff-no-rj?.png" logo="https://xn--d1agcb.xn--p1ai/img/dizi_logo_large.png" channelId="-1" tvg-id="timeless-dizi",Timeless Dizi Channel HD
+http://192.168.0.103:9999/channel/n146a97b5/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/5558.png" logo="http://teledays.net/images/filmbox.png" channelId="2959" tvg-id="hlsproxy-1478",FilmBox
+http://192.168.0.103:9999/channel/30458987/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/5536.png" logo="https://spiintl.com/data/files/zdjecie/11/01/11010bfdfdb06d306b68dc1c27e4f5dde9d67315918a601c7c3fc4aa059e056a.png" channelId="2789" tvg-id="hlsproxy-5050",FilmBox Arthouse
+http://192.168.0.103:9999/channel/n4f402aca/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/paramount-channel-hd-int.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6f1d3150d9f4ee12a4876d50fe7d6a9f.png" channelId="1497" tvg-id="hlsproxy-143",Paramount Channel HD
+http://192.168.0.103:9999/channel/3e2eb7c0/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/12/7782f8af097666c7841e64e15e4d2624.png" logo="https://runigma.com.ua/EPG/picons/Paramount%20Comedy%20HD.png" channelId="1939" tvg-name="Paramount Comedy Эфирные" tvg-id="hlsproxy-144",Paramount Comedy HD
+http://192.168.0.103:9999/channel/n484f1f84/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.crdru.net/images/canal/cyfrowypolsat/amc_us.png" logo="http://sintez66.com/TVLogos/BulsatColor/amc.png" channelId="2501" tvg-id="hlsproxy-55154",AMC
+http://192.168.0.103:9999/channel/fd97/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/17108.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/0ba59c77f212a9d6e101fd24ba1299f0.png" channelId="3920" tvg-id="hlsproxy-111",Hollywood HD
+http://192.168.0.103:9999/channel/n36dd9963/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.ru/big/2021/0628/3d/7836834f65eefa3760729521ab3c1d3d.png" logo="https://mt.media/upload/iblock/cef/cef3ed12306420619925b9ec79009b38.png" channelId="319" tvg-id="hlsproxy-3027",.black
+http://192.168.0.103:9999/channel/54167c91/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.ru/big/2021/0628/dd/c0881ae4679b7d48fcbb7e83b7ec8fdd.png" logo="https://mt.media/upload/iblock/f2e/f2ec9c09393478eeb8c30687deee8692.png" channelId="69" tvg-id="hlsproxy-5107",.sci-fi
+http://192.168.0.103:9999/channel/4b3f7ca5/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i115.fastpic.ru/big/2021/0628/31/d4ab7cea9681ddb810ff4822489d5931.png" logo="https://mt.media/upload/iblock/603/603f5408156a490fdf34b002765f1c18.png" channelId="530" tvg-id="hlsproxy-50564",.red HD
+http://192.168.0.103:9999/channel/49a45899/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/9a96d31dcd2940f11f65f17f44f2075d.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/306a703d02e658673381e000cc58f302.png" channelId="-1" tvg-id="sony-channel-ee",Duo 3
+http://192.168.0.103:9999/channel/3f51271/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/07/e9f8fd18c48fb60c4721b314c994f958.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/90280561bbde3a03b9ae566b54f4428d.png" channelId="-1" tvg-id="sony-turbo-ee",Duo 6
+http://192.168.0.103:9999/channel/3f51274/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.skylink.rt.lc/wp-content/uploads/2020/02/160-TV-XXI-%D0%92%D0%B5%D0%BA.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2D9_7_70_1680000_0_0_0.png" channelId="193" tvg-id="hlsproxy-170",TV XXI
+http://192.168.0.103:9999/channel/n6bdd2555/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/5570.png" logo="https://ic.wampi.ru/2021/08/14/4cc7a8eb3b23bee7a920f0b3e6e74cc5.png" channelId="1859" tvg-id="hlsproxy-1796",Киноужас HD
+http://192.168.0.103:9999/channel/38c9e099/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0218.png" logo="https://antifriz.tv/storage/images/channel_logos/strashnoe-hd.png" channelId="1746" tvg-id="hlsproxy-624",Страшное HD
+http://192.168.0.103:9999/channel/n6690ee1/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0119.png" logo="http://teledays.net/images/shokiruyushchee.png" channelId="229" tvg-id="hlsproxy-282",Шокирующее HD
+http://192.168.0.103:9999/channel/nbac6816/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://standart.tv/storage/channels/19/default/NIIKxygOqxiqMdtWJyNx.png" logo="https://antifriz.tv/storage/images/channel_logos/hct.png" channelId="272" tvg-id="hlsproxy-344",НСТ
+http://192.168.0.103:9999/channel/ff4fe/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://hybridtv.am/wp-content/uploads/2016/05/Filmzone-300x107.jpg" logo="https://www.beeline.am/images/channel/1/15499852139186.png" channelId="-1" tvg-id="hlsproxy-54500",ATV Filmzone HD
+http://192.168.0.103:9999/channel/n52851e51/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://hybridtv.am/wp-content/uploads/2016/05/Kinoman-300x107.jpg" logo="http://attv.xyz/ATTV/LOGO/uploaded_files/kiinoman_am.png" channelId="-1" tvg-id="hlsproxy-54497",ATV Kinoman
+http://192.168.0.103:9999/channel/n5d02f62/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/10/00eb6ad4be4ffdb938ae037ec1eb4e26.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/10/683862448dcd287f13aab4692cda3841.png" channelId="-1" tvg-id="hlsproxy-54867",ATV Cineman
+http://192.168.0.103:9999/channel/52f96ae0/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://img.rnx.ru/logotvchannel/437-250.jpg" logo="https://runigma.com.ua/EPG/picons/%D0%91%D0%BE%D0%BB%D1%82%20HD%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.png" channelId="3884" tvg-id="hlsproxy-8212" tvg-country="UA",Bolt (RU)
+http://192.168.0.103:9999/channel/5d3097a9/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://img.rnx.ru/logotvchannel/437-250.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/07/d3662b260ec453d1031f384a733aa98a.png" channelId="3884" tvg-name="Bolt" tvg-id="hlsproxy-55090" tvg-country="UA",Bolt HD (RU)
+http://192.168.0.103:9999/channel/1bba5757/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6302.png" logo="https://runigma.com.ua/EPG/picons/FilmUADrama.png" channelId="3031" tvg-id="hlsproxy-3107",Film.Ua Drama HD (RU)
+http://192.168.0.103:9999/channel/4b8e197f/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/12/4ff71733bf53cb77b876e2fc76adfccf.png" logo="https://ic.wampi.ru/2021/08/14/1bc3843f04efd34f4e34c98e70179f2c.png" channelId="189" tvg-id="hlsproxy-397",Русский иллюзион
+http://192.168.0.103:9999/channel/129869de/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/12/4ff71733bf53cb77b876e2fc76adfccf.png" logo="https://ic.wampi.ru/2021/08/14/1bc3843f04efd34f4e34c98e70179f2c.png" channelId="189" tvg-id="hlsproxy-397",Русский иллюзион HD
+http://192.168.0.103:9999/channel/n9779d82/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/5535.png" logo="https://runigma.com.ua/EPG/picons/%D0%A4%D0%B5%D0%BD%D0%B8%D0%BA%D1%81+%20%D0%9A%D0%B8%D0%BD%D0%BE.png" channelId="197" tvg-id="hlsproxy-464",Феникс плюс кино
+http://192.168.0.103:9999/channel/n600f95d/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/rus_dekt.jpg" logo="https://runigma.com.ua/EPG/picons/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2.png" channelId="1628" tvg-id="hlsproxy-400",Русский детектив
+http://192.168.0.103:9999/channel/4041757e/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/rus_roman.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_1A8_4_70_1680000_0_0_0.png" channelId="198" tvg-id="hlsproxy-401",Русский роман
+http://192.168.0.103:9999/channel/n104b113d/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/acc/160_160_1/5cab12545b01a.png" logo="https://runigma.com.ua/EPG/picons/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%20HD.png" channelId="3043" tvg-id="hlsproxy-401",Русский роман HD
+http://192.168.0.103:9999/channel/nfaa8887/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://img.rnx.ru/logotvchannel/193.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_1A5_4_70_1680000_0_0_0.png" channelId="303" tvg-id="hlsproxy-399",Русский бестселлер
+http://192.168.0.103:9999/channel/n5415af94/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.goldmir.net/uploads/tv/channel/106/logo_big.jpg" logo="http://infoua.biz/image/tv/stream/ilplus.png" channelId="190" tvg-id="hlsproxy-263",Иллюзион+
+http://192.168.0.103:9999/channel/n3267264b/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/indiyskoe_kino.png" channelId="168" tvg-id="hlsproxy-265",Индийское кино
+http://192.168.0.103:9999/channel/n160a7b01/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static.wikia.nocookie.net/youtube/images/b/b6/Zee_TV.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2C3_7_70_1680000_0_0_0.png" channelId="253" tvg-id="hlsproxy-204",Zee TV
+http://192.168.0.103:9999/channel/n60ae2618/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/12/2fd9d7fd9cd2e4ef1ae01fe4b51f3403.png" logo="http://s1.hostingkartinok.com/uploads/images/2021/12/2571bd32d69f1133cd203d53bec59d6b.png" channelId="-1" shift="2" tvg-id="hlsproxy-175",VIP Индийское кино
+http://192.168.0.103:9999/channel/n5395987e/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://tv.nalench.com/uploads/screenshots/a1.jpg" logo="http://televizor.org/img/logopit/Amedia%201.png" channelId="913" tvg-id="hlsproxy-25",A1
+http://192.168.0.103:9999/channel/810/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/f0cb517bcd62619ecc79672ef0c45615.jpg" logo="http://tricolor-38.ru/KANALY_4/1-nd.png" channelId="913" tvg-id="hlsproxy-25",A1 HD
+http://192.168.0.103:9999/channel/3aabf0c/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://tv.nalench.com/uploads/screenshots/a2.jpg" logo="http://televizor.org/img/logopit/Amedia%202.png" channelId="914" tvg-id="hlsproxy-26",A2
+http://192.168.0.103:9999/channel/811/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/d4ac0b950e622de29836fe186184f901.jpg" logo="http://tricolor-38.ru/KANALY_4/amedia_A2-HD.png" channelId="914" tvg-id="hlsproxy-26",A2 HD
+http://192.168.0.103:9999/channel/3ab336b/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://tv.nalench.com/uploads/screenshots/fox.jpg" logo="https://static.sweet.tv/images/icons/channels/393.png" channelId="177" tvg-id="hlsproxy-81",FOX
+http://192.168.0.103:9999/channel/110af/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://anatv.pl/wp-content/uploads/2017/08/FOX-HD-670x300.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/03/6cfadd85996b7dd7934a52de93f489f5.png" channelId="208" tvg-id="hlsproxy-81",FOX HD
+http://192.168.0.103:9999/channel/7bf4fe0d/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.goldmir.net/uploads/tv/channel/84/logo_big.jpg" logo="https://antifriz.tv/storage/images/channel_logos/fox-life.png" channelId="178" tvg-id="hlsproxy-83",FOX Life
+http://192.168.0.103:9999/channel/52b017ed/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.goldmir.net/uploads/tv/channel/83/logo_big.jpg" logo="https://antifriz.tv/storage/images/channel_logos/fox-life-hd.png" channelId="205" tvg-id="hlsproxy-83",FOX Life HD
+http://192.168.0.103:9999/channel/7a30c60f/index.m3u8?q=1641366411500
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/555bc1521ddf72797b0e7525a75ff5bb.jpg" channelId="-1",Глухарь
+http://192.168.0.103:9999/channel/n3dce8ee/index.m3u8?q=1641366411500
