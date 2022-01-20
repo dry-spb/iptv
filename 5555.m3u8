@@ -533,47 +533,47 @@ http://31.128.159.41:8080/mosfilm/tra
 http://bstvint.mediacdn.ru/cdn/salyam/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-170" tvg-logo="https://epg.openboxfan.com/picon/tv21.png" group-title="Кино и сериалы",ТВ XXI
 http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-210" tvg-logo="https://epg.openboxfan.com/picon/лентв24.png" group-title="Региональные",47. Кинокомедия
+#EXTINF:-1 tvg-id="hlsproxy-210" tvg-logo="https://epg.openboxfan.com/picon/лентв24.png" group-title="Региональные",Кинокомедия
 http://213.226.137.140:81/tl/l52/mpegts
-#EXTINF:-1 tvg-id="hlsproxy-15" tvg-logo="https://iptvxpix.ml/49kanal.png" group-title="Кино и сериалы",49. Киномикс
+#EXTINF:-1 tvg-id="hlsproxy-15" tvg-logo="https://iptvxpix.ml/49kanal.png" group-title="Кино и сериалы",Киномикс
 http://213.226.137.140:81/tl/l79/mpegts
-#EXTINF:-1 group-title="Кино и сериалы",50. Кинопремьера HD
+#EXTINF:-1 group-title="Кино и сериалы",Кинопремьера HD
 http://213.226.137.140:81/tl/l303/mpegts
-#EXTINF:-1 tvg-id="hlsproxy-17" tvg-logo="https://iptvxpix.ml/ua-dnipro.png" group-title="Кино и сериалы",51. Киноужас
+#EXTINF:-1 tvg-id="hlsproxy-17" tvg-logo="https://iptvxpix.ml/ua-dnipro.png" group-title="Кино и сериалы",Киноужас
 http://213.226.137.140:81/tl/l415/mpegts
-#EXTINF:-1 group-title="Кино и сериалы",52. Кинохит
+#EXTINF:-1 group-title="Кино и сериалы", Кинохит
 http://213.226.137.140:81/tl/l16/mpegts
-#EXTINF:-1 group-title="Кино и сериалы",54. Мужское
+#EXTINF:-1 group-title="Кино и сериалы", Мужское
 http://213.226.137.140:81/tl/l111/mpegts
-#EXTINF:-1 group-title="Кино и сериалы",55. Наше новое
+#EXTINF:-1 group-title="Кино и сериалы", Наше новое
 http://213.226.137.140:81/tl/l53/mpegts
-#EXTINF:-1 group-title="Кино и сериалы",56. Родное
+#EXTINF:-1 group-title="Кино и сериалы", Родное
 http://213.226.137.140:81/tl/l54/mpegts
-#EXTINF:-1 group-title="Кино и сериалы",58. Ужастик
+#EXTINF:-1 group-title="Кино и сериалы", Ужастик
 https://v2.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",59. Феникс Плюс
+#EXTINF:-1 group-title="Кино и сериалы", Феникс Плюс
 https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",62. Cinema
+#EXTINF:-1 group-title="Кино и сериалы", Cinema
 http://109.171.7.89:81/udp/239.54.6.164:1224
-#EXTINF:-1 group-title="Кино и сериалы",68. TV1000
+#EXTINF:-1 group-title="Кино и сериалы", TV1000
 http://109.171.7.89:81/udp/239.54.5.111:1234
-#EXTINF:-1 group-title="Кино и сериалы",76. Иллюзион+
+#EXTINF:-1 group-title="Кино и сериалы", Иллюзион+
 http://109.171.7.89:81/udp/239.54.6.162:1224
-#EXTINF:-1 group-title="Кино и сериалы",85. Русский Роман
+#EXTINF:-1 group-title="Кино и сериалы", Русский Роман
 http://109.171.7.89:81/udp/239.54.5.87:1224
-#EXTINF:-1 group-title="Кино и сериалы",28. Amedia 1 HD
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 1 HD
 https://okkotv-live.cdnvideo.ru/channel/A1_HD/720p.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",29. Amedia 2
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 2
 https://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",30. Amedia 2 HD
+#EXTINF:-1 group-title="Кино и сериалы", Amedia 2 HD
 https://okkotv-live.cdnvideo.ru/channel/A2_HD/720p.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",31. Amedia Hit HD
+#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit HD
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/720p.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-10002" group-title="Кино и сериалы",40. TV1000 HD
+#EXTINF:-1 tvg-id="hlsproxy-10002" group-title="Кино и сериалы", TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-14" group-title="Кино и сериалы",41. VIP Megahit
+#EXTINF:-1 tvg-id="hlsproxy-14" group-title="Кино и сериалы", VIP Megahit
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-51038" group-title="Кино и сериалы",43. VIP Serial
+#EXTINF:-1 tvg-id="hlsproxy-51038" group-title="Кино и сериалы", VIP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",ФАНТАСТИКА SCIFI
 http://v2.catcast.tv/content/38801/index.m3u8
@@ -1093,5 +1093,5 @@ http://serv30.vintera.tv:8081/ural/ural_inform/playlist.m3u8
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-7133" tvg-logo="https://iptvxpix.ml/echotv.png" group-title="Региональные",Эхо ТВ (Рязань)
 http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-8058" group-title="Региональные",6. СТВ Беларусь
+#EXTINF:-1 tvg-id="hlsproxy-8058" group-title="Региональные", СТВ Беларусь
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
