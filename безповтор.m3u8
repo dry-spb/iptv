@@ -26,58 +26,58 @@
 
 
 
-#EXTINF:-1 ,Explore
+#EXTINF:-1 Explore
 http://195.189.105.158:9050/067/index.m3u8
-#EXTINF:-1 ,FANTASTICA SCIFI
+#EXTINF:-1 FANTASTICA SCIFI
 https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 ,FILM TV HD
+#EXTINF:-1 FILM TV HD
 https://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 ,Hunt Channel
+#EXTINF:-1 Hunt Channel
 http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,KVN_TV
+#EXTINF:-1 KVN_TV
 http://212.19.5.125:11011/KVN_TV
-#EXTINF:-1 ,Kinopremera HD
+#EXTINF:-1 Kinopremera HD
 http://185.74.7.220:8080/kinopremyera/mpegts
-#EXTINF:-1 ,Kinopremera_HD
+#EXTINF:-1 Kinopremera_HD
 http://185.74.7.220:8080/kinopremyera/mpegts
-#EXTINF:-1 ,MILLENIUM TV
+#EXTINF:-1 MILLENIUM TV
 http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
-#EXTINF:-1 ,Megahit HD
+#EXTINF:-1 Megahit HD
 http://195.189.105.158:9050/133/index.m3u8
-#EXTINF:-1 ,Milf HD (18+)
+#EXTINF:-1 Milf HD (18+)
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 ,Millenium HD
+#EXTINF:-1 Millenium HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
-#EXTINF:-1 ,MostVideo TV
+#EXTINF:-1 MostVideo TV
 http://w4.mostvideo.tv/hls/ch1.m3u8
 
-#EXTINF:-1 ,Nature
+#EXTINF:-1 Nature
 http://195.189.105.158:9050/068/index.m3u8
 
 
 
 
-#EXTINF:-1 ,THT
+#EXTINF:-1 THT
 http://147.135.210.90:8081/tv/tnt/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hlsproxy-54477" TV Pro
+#EXTINF:-1 TV Pro
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-676" ,TV XX1 ВЕК
+#EXTINF:-1 TV XX1 ВЕК
 http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
 
-#EXTINF:-1 ,WILD HD
+#EXTINF:-1 WILD HD
 https://s3.idata.uz/dars1/tracks-v1a1/rewind-7200.m3u8
 
 
-#EXTINF:-1 ,match
+#EXTINF:-1 match
 http://31.134.132.245:8080/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,match_igra_hd HD
+#EXTINF:-1 match_igra_hd HD
 http://31.134.132.245:8080/match_igra_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,shelk
+#EXTINF:-1 shelk
 http://194.190.78.91:8080/shelk/index.m3u8
-#EXTINF:-1 ,Аnimal HD
+#EXTINF:-1 Аnimal HD
 https://s4.idata.uz/animal/tracks-v2a1/rewind-7200.m3u8
-#EXTINF:-1 ,АРЕНА
+#EXTINF:-1 АРЕНА
 https://s4.idata.uz/arena/tracks-v1a1/rewind-7200.m3u8
 
 
@@ -87,24 +87,17 @@ https://s4.idata.uz/arena/tracks-v1a1/rewind-7200.m3u8
 
 
 
-#EXTINF:-1 ,ИНДИСКОЕ КИНО
+#EXTINF:-1 ИНДИСКОЕ КИНО
 https://s3.idata.uz/dars8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,К Советское Кино HD
+#EXTINF:-1 Советское Кино HD
 http://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 ,КИНО 1 INTERNATIONAL HD
+#EXTINF:-1 КИНО 1 INTERNATIONAL HD
 https://v2.catcast.tv/content/38617/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,КИНО1 INTERNATIONAL
+#EXTINF:-1 КИНО1 INTERNATIONAL
 https://autopilot.catcast.tv/content/38617/index.m3u8
 
 
-#EXTINF:-1 ,НТВ+4
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
-
-
-
-#EXTINF:-1 ,СТС+3
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
 
 
 
@@ -121,17 +114,22 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
 
 
 
-#EXTINF:-1 ,140. Animal Planet HD
+
+
+
+
+
+#EXTINF:-1 Animal Planet HD
 http://213.226.137.140:81/tl/l13/mpegts
-#EXTINF:-1 ,142. Discovery Science
+#EXTINF:-1 Discovery Science
 http://213.226.137.140:81/tl/l26/mpegts
-#EXTINF:-1 ,145. HD Life
+#EXTINF:-1 HD Life
 http://213.226.137.140:81/tl/l305/mpegts
-#EXTINF:-1 ,146. ID
+#EXTINF:-1 ID
 http://213.226.137.140:81/tl/l23/mpegts
-#EXTINF:-1 ,154. TLC HD
+#EXTINF:-1 LC HD
 http://213.226.137.140:81/tl/l18/mpegts
-#EXTINF:-1 ,156. Travel HD
+#EXTINF:-1 Travel HD
 http://213.226.137.140:81/tl/l14/mpegts
 #EXTINF:-1 ,163. Авто Плюс
 http://213.226.137.140:81/tl/l105/mpegts
