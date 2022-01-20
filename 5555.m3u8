@@ -655,7 +655,7 @@ https://flu.vtv.by/tvt-non-by/index.m3u8
 http://80.94.225.126:8080/8kanalHD/mono.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-logo="https://getsiptv.ru/img/ch_icons/belarus_24_hd.png" tvg-id="hlsproxy-219",Беларусь 24 HD
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь",222. Беларусь 5 HD
+#EXTINF:-1 group-title="Беларусь",Беларусь 5 HD
 https://95-213-224-173.livesports24.online/belarusss5.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://mirbelogorya.ru/mb.png" tvg-id="hlsproxy-307",Мир Белогорья (Белгород)
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
