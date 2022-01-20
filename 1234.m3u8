@@ -342,7 +342,7 @@ http://37.235.195.80:81/udp/225.50.66.6:1234
 http://178.163.64.9:4022/udp/234.0.0.246:2000
 #EXTINF:-1 tvg-id="hlsproxy-8383" tvg-logo="https://iptvxpix.ml/7tv.png" group-title="Развлекательные",7. Baby TV
 https://okkotv-live.cdnvideo.ru/channel/BabyTV/480p.m3u8
-#EXTINF:-1 ,СССР ТВ
+#EXTINF:-1 СССР ТВ group-title="Кино и сериалы",
 https://autopilot.catcast.tv/content/38821/index.m3u8
 
 
@@ -563,7 +563,7 @@ http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 ,kinopremyera
 http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
 http://31.134.132.245:8080/khl_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,kino_tv_hd HD
+#EXTINF:-1 kino_tv_hd HD group-title="Кино и сериалы",
 http://31.134.132.245:8080/kino_tv_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-281" tvg-logo="https://epg.openboxfan.com/picon/кинопоказ.png" group-title="Кино и сериалы",kinopokaz
 http://31.134.132.245:8080/kinopokaz/tracks-v1a1/mono.m3u8
@@ -575,9 +575,9 @@ http://212.76.27.27/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
 https://autopilot.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-279" tvg-logo="https://iptvxpix.ml/kino-tv.png" group-title="Кино и сериалы",Кино 1 ТВ
 http://v2.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 ,КинозаЛ
+#EXTINF:-1 КинозаЛ group-title="Кино и сериалы",
 https://hls.goodgame.ru/hls/73474.m3u8
-#EXTINF:-1 ,Кинозал-VHS 90s
+#EXTINF:-1 Кинозал-VHS 90s group-title="Кино и сериалы",
 http://v2.catcast.me/content/37925/index.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-324" tvg-logo="https://iptvxpix.ml/kinosvidanie.png" group-title="Кино и сериалы",Киноклуб
 https://autopilot.catcast.tv/content/39005/index.m3u8
@@ -749,7 +749,7 @@ https://flu.vtv.by/tvt-non-by/index.m3u8
 http://80.94.225.126:8080/8kanalHD/mono.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-logo="https://getsiptv.ru/img/ch_icons/belarus_24_hd.png" tvg-id="hlsproxy-219",Беларусь 24 HD
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1 ,222. Беларусь 5 HD
+#EXTINF:-1 222. Беларусь 5 HD group-title="Беларусь"
 https://95-213-224-173.livesports24.online/belarusss5.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://mirbelogorya.ru/mb.png" tvg-id="hlsproxy-307",Мир Белогорья (Белгород)
