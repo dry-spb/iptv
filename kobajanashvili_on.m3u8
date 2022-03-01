@@ -229,6 +229,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 http://1hdru-hls-otcnet.cdnvideo.ru/DW/playlist.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://epg.openboxfan.com/picon/cgtnрусский.png",CGTN Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://n1.tvrain.ru/media/upload/images/teleshow/Archive.png",Дождь
+http://91.210.251.19:4866/udp/239.0.1.100:4000
 #EXTINF:-1 group-title="Информационные",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://epg.openboxfan.com/picon/euronews.png",Euronews
