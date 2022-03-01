@@ -193,6 +193,10 @@ http://213.226.137.140:81/tl/l47/mpegts
 http://213.226.137.140:81/tl/l48/mpegts
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://epg.openboxfan.com/picon/звезда.png",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://n1.tvrain.ru/media/upload/images/teleshow/Archive.png",Царьград
+https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://ruzaregion.ru/fotosnews/11611.jpg",Дождь
+http://91.210.251.19:4866/udp/239.0.1.100:4000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://iptvxpix.ml/nastoiaschee-vremia.png",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://epg.openboxfan.com/picon/вместерф.png",Вместе РФ
