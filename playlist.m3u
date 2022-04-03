@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:0 tvg-id="hlsproxy-51082" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2025.png",Настоящее время
-http://192.168.0.112:7777/14/video.m3u8
+http://192.168.0.103:7777/14/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-5013" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2080.png",Белсат HD
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-70" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1114.jpg",Euronews
-http://192.168.0.112:7777/9/video.m3u8
+http://192.168.0.103:7777/9/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-20151" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2016.png",Известия FHD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0 tvg-id="hlsproxy-393" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1136.png",Россия 24 HD
-http://192.168.0.112:7777/7/video.m3u8
+http://192.168.0.103:7777/7/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-310" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1125.jpg",Москва 24
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
 #EXTINF:0 tvg-id="hlsproxy-300" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1126.jpg",Мир 24 HD
@@ -16,55 +16,55 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 tvg-id="hlsproxy-51166" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1855.png",360 Новости HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:0 tvg-id="hlsproxy-3" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2203.jpeg",78 канал
-http://192.168.0.112:7777/16/video.m3u8
+http://192.168.0.103:7777/16/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-410" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1406.png",Санкт-Петербург HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:0 tvg-id="hlsproxy-210" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1405.jpg",Лен ТВ 24
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2188.png",Fashion TV Midnite FTV
-http://192.168.0.112:7777/88/video.m3u8
+http://192.168.0.103:7777/88/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-380" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1119.png",РБК-ТВ HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:0 tvg-id="hlsproxy-8113" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/",Премьера
 https://autopilot.catcast.tv/content/39161/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2205.png",CANDY TV
-http://192.168.0.112:7777/9999/video.m3u8
+http://192.168.0.103:7777/9999/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-3098" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1116.jpg",TV BRICS
 https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/",КАМКРА Х30
-http://192.168.0.112:7777/333333/video.m3u8
+http://192.168.0.103:7777/333333/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-51060" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1139.png",Красная линия
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2206.png",RapidZona
-http://192.168.0.112:7777/9/video.m3u8
+http://192.168.0.103:7777/9/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-252" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1144.png",Первый канал Евразия
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2207.png",Russian America TV
-http://192.168.0.112:7777/10/video.m3u8
+http://192.168.0.103:7777/10/video.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2365.png",Miami TV Jenny Live
-http://192.168.0.112:7777/111/video.m3u8
+http://192.168.0.103:7777/111/video.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2366.png",Miami TV México
-http://192.168.0.112:7777/112/video.m3u8
+http://192.168.0.103:7777/112/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-7152" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1364.jpg",Jasmin HD (18+)
-http://192.168.0.112:7777/285/video.m3u8
+http://192.168.0.103:7777/285/video.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2367.png",Miami TV Latino
-http://192.168.0.112:7777/2019/video.m3u8
+http://192.168.0.103:7777/2019/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-9230" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1150.png",СТВ
 http://86.57.147.236/HLS/ctvby/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2368.jpg",a3BIKINI
-http://192.168.0.112:7777/2016/video.m3u8
+http://192.168.0.103:7777/2016/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-439" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1152.jpg",ТНТ HD
 https://bl.uma.media/live/410338/HLS/6307840_7/1/1/playlist.m3u8
 #EXTINF:0 tvg-id="hlsproxy-432" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1153.png",ТВ3 HD
 https://bl.uma.media/live/407373/HLS/6307840_7/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2369.jpg",Visit-X TV
-http://192.168.0.112:7777/2018/video.m3u8
+http://192.168.0.103:7777/2018/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-407" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1155.png",СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:0 tvg-id="hlsproxy-377" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1156.png",Пятница HD
 https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2370.jpg",Extasy TV HD
-http://192.168.0.112:7777/2017/video.m3u8
+http://192.168.0.103:7777/2017/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-134" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1158.jpg",360° Подмосковье HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:0 tvg-id="hlsproxy-299" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1159.jpg",Мир HD
@@ -72,7 +72,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0 tvg-id="hlsproxy-10071" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1160.png",Первый российский национальный канал HD
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2371.png",Русская ночь
-http://192.168.0.112:7777/2020/video.m3u8
+http://192.168.0.103:7777/2020/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-378" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1162.jpg",Пятый канал
 https://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
 #EXTINF:0 tvg-id="hlsproxy-431" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1163.jpg",Суббота!
@@ -82,7 +82,7 @@ https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2372.jpg",Шелк HD
 http://194.190.78.81:8080/shelk/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2373.png",International 18+
-http://192.168.0.112:7777/113/video.m3u8
+http://192.168.0.103:7777/113/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-325" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1167.jpg",ОТР
 http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_OTR_VLGD/variant.m3u8
 #EXTINF:0 tvg-id="hlsproxy-2515" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1168.png",ТЕО-ТВ HD
@@ -90,11 +90,11 @@ https://teotv.ru/live/site/chunklist_w1495553062.m3u8
 #EXTINF:0 tvg-id="hlsproxy-8112" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1169.png",Новый Мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2374.png",Miami TV Colombia
-http://192.168.0.112:7777/2021/video.m3u8
+http://192.168.0.103:7777/2021/video.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/",Гостинка
-http://192.168.0.112:7777/2/video.m3u8
+http://192.168.0.103:7777/2/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-107" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/2377.png",DTX
-http://192.168.0.112:7777/11/video.m3u8
+http://192.168.0.103:7777/11/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-8190" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1177.jpg",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:0 tvg-id="hlsproxy-483" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1178.png",TVMChannel
@@ -442,7 +442,7 @@ http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:0 tvg-id="hlsproxy-221" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1402.png",Беларусь 5 HD
 https://95-213-224-173.livesports24.online/belarusss5.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/",КАМКРА Х5
-http://192.168.0.112:7777/3333/video.m3u8
+http://192.168.0.103:7777/3333/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-378" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1787.png",5 канал
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_5TV/variant.m3u8
 #EXTINF:0 tvg-id="hlsproxy-23" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/",A-One
@@ -460,7 +460,7 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8
 #EXTINF:0 tvg-id="hlsproxy-624" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1798.png",Страшное HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_C01_STRASHNOEHD/variant.m3u8
 #EXTINF:0 tvg-id="hlsproxy-60" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1800.png",Discovery HD
-http://192.168.0.112:7777/114/video.m3u8
+http://192.168.0.103:7777/114/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-99" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1801.png",Investigation Discovery
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8
 #EXTINF:0 tvg-id="hlsproxy-71" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1802.png",Europa plus
@@ -608,7 +608,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:0 tvg-id="hlsproxy-34" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1988.png",Animal Planet HD
 http://213.226.137.140:81/tl/l13/mpegts
 #EXTINF:0 tvg-id="hlsproxy-62" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1989.png",Discovery Science
-http://192.168.0.112:7777/2015/video.m3u8
+http://192.168.0.103:7777/2015/video.m3u8
 #EXTINF:0 tvg-id="hlsproxy-182" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1990.png",Travel HD
 http://213.226.137.140:81/tl/l14/mpegts
 #EXTINF:0 tvg-id="hlsproxy-166" tvg-logo="http://192.168.0.165/stalker_portal/misc/logos/original/1991.png",TLC HD
