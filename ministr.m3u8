@@ -1,0 +1,1217 @@
+#EXTM3U url-tvg="http://192.168.0.112:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:0 tvg-id="hlsproxy-51082" tvg-logo="https://epg.openboxfan.com/picon/настоящеевремя.png" group-title="Информационные",Настоящее время
+http://192.168.0.112:7777/14/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-5013" tvg-logo="https://epg.openboxfan.com/picon/белсат.png" group-title="Информационные",Белсат HD
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-70" tvg-logo="https://epg.openboxfan.com/picon/euronews.png" group-title="Информационные",Euronews
+http://192.168.0.112:7777/9/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-20151" tvg-logo="https://epg.openboxfan.com/picon/известия.png" group-title="Информационные",Известия FHD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-393" tvg-logo="https://epg.openboxfan.com/picon/россия24.png" group-title="Информационные",Россия 24 HD
+http://192.168.0.112:7777/7/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-310" tvg-logo="https://epg.openboxfan.com/picon/москва24.png" group-title="Эфирные",Москва 24
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
+#EXTINF:0 tvg-id="hlsproxy-300" tvg-logo="https://epg.openboxfan.com/picon/мир24.png" group-title="Информационные",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-51166" tvg-logo="https://epg.openboxfan.com/picon/360новости.png" group-title="Информационные",360 Новости HD
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:0 tvg-id="hlsproxy-3" tvg-logo="https://epg.openboxfan.com/picon/78канал.png" group-title="Региональные",78 канал
+http://192.168.0.112:7777/16/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-410" tvg-logo="https://epg.openboxfan.com/picon/санктпетербург.png" group-title="Региональные",Санкт-Петербург HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-210" tvg-logo="https://epg.openboxfan.com/picon/лентв24.png" group-title="Региональные",Лен ТВ 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-78" tvg-logo="https://epg.openboxfan.com/picon/fashiontv.png" group-title="Развлекательные",Fashion TV Midnite FTV
+http://192.168.0.112:7777/88/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-380" tvg-logo="https://epg.openboxfan.com/picon/рбк.png" group-title="Информационные",РБК-ТВ HD
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8113" group-title="Информационные",Премьера
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-50012" group-title="Flussonic",CANDY TV
+http://192.168.0.112:7777/9999/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-3098" tvg-logo="https://iptvxpix.ml/tv-brics.png" group-title="Познавательные",TV BRICS
+https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" group-title="Flussonic",КАМКРА Х30
+http://192.168.0.112:7777/333333/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-51060" tvg-logo="https://epg.openboxfan.com/picon/краснаялиния.png" group-title="Эфирные",Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",RapidZona
+http://192.168.0.112:7777/9/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-252" tvg-logo="https://iptvxpix.ml/pervy-kanal-eurasia-kz.png" group-title="Эфирные",Первый канал Евразия
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-2614" group-title="Информационные",Russian America TV
+http://192.168.0.112:7777/10/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-641" group-title="Flussonic",Miami TV Jenny Live
+http://192.168.0.112:7777/111/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-641" group-title="Flussonic",Miami TV México
+http://192.168.0.112:7777/112/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-7152" group-title="Эфирные",Jasmin HD (18+)
+http://192.168.0.112:7777/285/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-631" group-title="Музыкальные",Miami TV Latino
+http://192.168.0.112:7777/2019/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-9230" group-title="Эфирные",СТВ
+http://86.57.147.236/HLS/ctvby/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="Flussonic",a3BIKINI
+http://192.168.0.112:7777/2016/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-439" tvg-logo="http://192.168.0.112:38050/logos/tnt-hd.png" group-title="Развлекательные",ТНТ HD
+https://bl.uma.media/live/410338/HLS/6307840_7/1/1/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-432" tvg-logo="http://192.168.0.112:38050/logos/tv3-hd.png" group-title="Кино и сериалы",ТВ3 HD
+https://bl.uma.media/live/407373/HLS/6307840_7/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-2255" group-title="Flussonic",Visit-X TV
+http://192.168.0.112:7777/2018/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-407" tvg-logo="http://192.168.0.112:38050/logos/sts-hd.png" group-title="Развлекательные",СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-377" tvg-logo="http://192.168.0.112:38050/logos/pyatnica-hd.png" group-title="Развлекательные",Пятница HD
+https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-55227" tvg-logo="https://iptvxpix.ml/extasy4k.png" group-title="Flussonic",Extasy TV HD
+http://192.168.0.112:7777/2017/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-134" tvg-logo="https://iptvxpix.ml/360-podmoskovie.png" group-title="Информационные",360° Подмосковье HD
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:0 tvg-id="hlsproxy-299" tvg-logo="http://192.168.0.112:38050/logos/mir-hd.png" group-title="Эфирные",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-10071" group-title="Эфирные",Первый российский национальный канал HD
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-396" tvg-logo="https://epg.openboxfan.com/picon/русскаяночь.png" group-title="Flussonic",Русская ночь
+http://192.168.0.112:7777/2020/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-378" tvg-logo="https://epg.openboxfan.com/picon/5канал.png" group-title="Эфирные",Пятый канал
+https://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-431" tvg-logo="https://epg.openboxfan.com/picon/суббота.png" group-title="Развлекательные",Суббота!
+https://bl.uma.media/live/317845/HLS/4614144_3/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-474" tvg-logo="https://epg.openboxfan.com/picon/ютв.png" group-title="Развлекательные",Ю
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Шелк HD
+http://194.190.78.81:8080/shelk/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Flussonic",International 18+
+http://192.168.0.112:7777/113/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-325" tvg-logo="https://epg.openboxfan.com/picon/отр.png" group-title="Эфирные",ОТР
+http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_OTR_VLGD/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-2515" group-title="Украина",ТЕО-ТВ HD
+https://teotv.ru/live/site/chunklist_w1495553062.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8112" tvg-logo="https://epg.openboxfan.com/picon/новыймир.png" group-title="Региональные",Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-641" group-title="Flussonic",Miami TV Colombia
+http://192.168.0.112:7777/2021/video.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Гостинка
+http://192.168.0.112:7777/2/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-107" tvg-logo="https://epg.openboxfan.com/picon/dtx.png" group-title="Познавательные",DTX
+http://192.168.0.112:7777/11/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8190" group-title="Эфирные",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-483" tvg-logo="https://iptvxpix.ml/tvmchannel.png" group-title="Эфирные",TVMChannel
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-55266" tvg-logo="https://iptvxpix.ml/dumatv.png" group-title="Информационные",Дума ТВ
+https://dumatv2.mediacdn.ru/cdn/dumatv/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="hlsproxy-10071" group-title="Эфирные",ПРНК
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-128" tvg-logo="http://192.168.0.112:38050/logos/nat-geo-wild-hd.png" group-title="Познавательные",Nat Geo Wild HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-130" tvg-logo="http://192.168.0.112:38050/logos/national-geographic-hd.png" group-title="Познавательные",National Geographic HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-197" tvg-logo="http://192.168.0.112:38050/logos/viasat-nature-hd.png" group-title="Познавательные",Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-194" tvg-logo="http://192.168.0.112:38050/logos/viasat-explore-hd.png" group-title="Познавательные",Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-196" tvg-logo="http://192.168.0.112:38050/logos/viasat-history-hd.png" group-title="Познавательные",Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-2584" group-title="Региональные",ТВ Экстра
+http://194.190.78.91:8080/tvextra720b/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-156" tvg-logo="http://192.168.0.112:38050/logos/russia-today-doc-hd.png" group-title="Информационные",RTД HD
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:0 tvg-id="hlsproxy-311" tvg-logo="https://epg.openboxfan.com/picon/мояпланета.png" group-title="Познавательные",Моя Планета
+http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="hlsproxy-54643" tvg-logo="https://epg.openboxfan.com/picon/нашасибирь4k.png" group-title="Региональные",Наша Сибирь 4K HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw6000000/variant.m3u8?version=2
+#EXTINF:0 tvg-id="hlsproxy-1131" tvg-logo="https://epg.openboxfan.com/picon/глазамитуриста.png" group-title="Познавательные",Глазами туриста HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=glazamiturista
+#EXTINF:0 tvg-id="hlsproxy-184" tvg-logo="http://192.168.0.112:38050/logos/travel-adventure-hd.png" group-title="Познавательные",Travel+Adventure HD
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/mono.m3u8?bw943690524320&utcstart=1601737200&version=2
+#EXTINF:0 tvg-id="hlsproxy-587" tvg-logo="https://epg.openboxfan.com/picon/конныймир.png" group-title="Спортивные",Конный мир
+http://83.222.205.10:38080/konnyimir/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-127" tvg-logo="https://epg.openboxfan.com/picon/нано.png" group-title="Познавательные",Nano
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8189" tvg-logo="https://epg.openboxfan.com/picon/минидей.png" group-title="Познавательные",Министерство идей
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-55109" tvg-logo="https://iptvxpix.ml/terra-inkognita.png" group-title="Познавательные",Терра Инкогнита HD
+http://srv-5.streaming-elbrus.tk:34768/terra/video.m3u8?token=5d0212ad57330bc2c0692d0825cb512d2b71915d-9772085739-1641725743-164
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Смешное ТВ
+http://autopilot.catcast.tv/content/36571/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-336" tvg-logo="https://epg.openboxfan.com/picon/тнт4.png" group-title="Развлекательные",ТНТ4
+http://a3569456020-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:0 tvg-id="hlsproxy-51060" tvg-logo="https://epg.openboxfan.com/picon/краснаялиния.png" group-title="Эфирные",Красная линия (СССР)
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-242" tvg-logo="https://epg.openboxfan.com/picon/москвадоверие.png" group-title="Региональные",Москва Доверие
+http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",СССР ТВ
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-26" tvg-logo="https://epg.openboxfan.com/picon/amedia2.png" group-title="Кино и сериалы",Amedia 2
+http://51.68.140.190:8081/tv/amedia2/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-81" tvg-logo="http://192.168.0.112:38050/logos/fox-hd.png" group-title="Кино и сериалы",Fox HD
+https://edge04.beetv.kz/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
+#EXTINF:0 tvg-id="hlsproxy-83" tvg-logo="https://epg.openboxfan.com/picon/foxlife.png" group-title="Кино и сериалы",Fox Life
+http://51.68.141.106:8081/tv/fox-life/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-163" tvg-logo="https://iptvxpix.ml/sony-turbo.png" group-title="Кино и сериалы",Sony Turbo
+http://212.79.122.24:7009/sony_turbo
+#EXTINF:0 tvg-id="hlsproxy-20824" group-title="Кино и сериалы",Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
+#EXTINF:0 tvg-id="hlsproxy-100035" group-title="Кино и сериалы",Spike HD
+https://hls1.sweet.tv/stream/tuwvbnkeebcfnd8txq87eawyynunmdrcnkynercnadskb8cv7gqu8ki8d9fa3vyjvz5um886qrm866f7bxy2es8b48y2tka6jej
+#EXTINF:0 tvg-id="hlsproxy-22" tvg-logo="https://epg.openboxfan.com/picon/tv1000worldkino.png" group-title="Кино и сериалы",TV 1000 World Kino
+http://195.189.105.158:9050/121/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-429" tvg-logo="https://epg.openboxfan.com/picon/tv1000рускино.png" group-title="Кино и сериалы",TV 1000 Русское кино
+http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-22" tvg-logo="https://epg.openboxfan.com/picon/tv1000worldkino.png" group-title="Кино и сериалы",TV1000 World Kino
+http://195.189.105.158:9050/121/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-174" tvg-logo="https://epg.openboxfan.com/picon/vipmegahit.png" group-title="Кино и сериалы",VIP Megahit HD
+http://195.189.105.158:9050/133/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-175" tvg-logo="https://epg.openboxfan.com/picon/vippremiere.png" group-title="Кино и сериалы",VIP Premiere HD
+http://195.189.105.158:9050/134/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-244" tvg-logo="https://epg.openboxfan.com/picon/домкино.png" group-title="Кино и сериалы",Дом кино
+http://51.195.44.53:8081/tv/dom-kino/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-253" tvg-logo="https://epg.openboxfan.com/picon/еврокино.png" group-title="Кино и сериалы",Еврокино
+http://51.68.141.106:8081/tv/evrokino/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-279" tvg-logo="https://epg.openboxfan.com/picon/кинотв.png" group-title="Кино и сериалы",КИНО 1
+http://v2.catcast.tv/content/38617/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-327" tvg-logo="https://epg.openboxfan.com/picon/кинохит.png" group-title="Кино и сериалы",КИНОХИТ
+https://s1.idata.uz/stch_temp3/tracks-v1a1/rewind-7200.m3u8
+#EXTINF:0 tvg-id="hlsproxy-279" tvg-logo="https://epg.openboxfan.com/picon/кинотв.png" group-title="Кино и сериалы",Кино ТВ
+http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-281" tvg-logo="https://epg.openboxfan.com/picon/кинопоказ.png" group-title="Кино и сериалы",Кинопоказ
+http://185.74.7.220:8080/kinopokaz/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-331" tvg-logo="https://epg.openboxfan.com/picon/кинопремьера.png" group-title="Кино и сериалы",Кинопремьера HD
+http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-794" group-title="Кино и сериалы",Киносат
+http://89.104.114.7:8080/kinosat/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-324" tvg-logo="https://epg.openboxfan.com/picon/киносвидание.png" group-title="Кино и сериалы",Киносвидание HD
+http://94.154.83.88:10000/kinosvidanie
+#EXTINF:0 tvg-id="hlsproxy-309" tvg-logo="https://epg.openboxfan.com/picon/киносерия.png" group-title="Кино и сериалы",Киносерия
+http://31.134.132.245:8080/kinoseriya_hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="hlsproxy-604" tvg-logo="https://epg.openboxfan.com/picon/комедия.png" group-title="Кино и сериалы",Комедия
+http://russia2.livetv.az/russia/komediya/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-604" tvg-logo="https://epg.openboxfan.com/picon/комедия.png" group-title="Кино и сериалы",Комедия ТВ
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
+#EXTINF:0 tvg-id="hlsproxy-385" tvg-logo="https://epg.openboxfan.com/picon/любимоекино.png" group-title="Кино и сериалы",Любимое кино
+http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-268" tvg-logo="https://epg.openboxfan.com/picon/мужскоекино.png" group-title="Кино и сериалы",Мужское Кино
+http://147.135.210.90:8081/tv/mughskoe-kino/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-268" tvg-logo="https://epg.openboxfan.com/picon/мужскоекино.png" group-title="Кино и сериалы",Мужское кино HD
+http://31.134.132.245:8080/muzhskoe-kino_hd/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-329" tvg-logo="https://epg.openboxfan.com/picon/нашеновоекино.png" group-title="Кино и сериалы",НАШЕ НОВОЕ КИНО
+https://s1.idata.uz/stch_temp6/tracks-v1a1/rewind-7200.m3u8
+#EXTINF:0 tvg-id="hlsproxy-344" tvg-logo="https://epg.openboxfan.com/picon/нст.png" group-title="Кино и сериалы",НСТ
+http://51.195.44.53:8081/tv/nst/chunks.m3u8
+#EXTINF:0 tvg-id="hlsproxy-212" tvg-logo="https://epg.openboxfan.com/picon/нтвхит.png" group-title="Кино и сериалы",НТВ Хит
+http://91.192.168.251:8401
+#EXTINF:0 tvg-id="hlsproxy-385" tvg-logo="https://epg.openboxfan.com/picon/любимоекино.png" group-title="Кино и сериалы",Наше любимое кино
+http://212.79.122.24:7071/epoxa
+#EXTINF:0 tvg-id="hlsproxy-55224" tvg-logo="https://epg.openboxfan.com/picon/победа.png" group-title="Кино и сериалы",Победа
+http://212.76.27.27/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
+#EXTINF:0 tvg-id="hlsproxy-55224" tvg-logo="http://192.168.0.112:38050/logos/pobeda-hd.png" group-title="Кино и сериалы",Победа HD
+http://pkvc-hls.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
+#EXTINF:0 tvg-id="hlsproxy-390" tvg-logo="https://epg.openboxfan.com/picon/ретротв.png" group-title="Эфирные",Ретро
+http://185.74.7.220:8080/retro/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-604" tvg-logo="https://epg.openboxfan.com/picon/комедия.png" group-title="Кино и сериалы",Русская комедия
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
+#EXTINF:0 tvg-id="hlsproxy-399" tvg-logo="https://epg.openboxfan.com/picon/русскийбестселлер.png" group-title="Кино и сериалы",Русский Бестселлер
+http://51.68.141.106:8081/tv/rus-bestceller/chunks.m3u8
+#EXTINF:0 tvg-id="hlsproxy-400" tvg-logo="https://epg.openboxfan.com/picon/русдетектив.png" group-title="Кино и сериалы",Русский Детектив
+http://51.195.44.53:8081/tv/rus-detektiv/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-397" tvg-logo="https://epg.openboxfan.com/picon/русскийиллюзион.png" group-title="Кино и сериалы",Русский Иллюзион
+http://51.68.141.106:8081/tv/rus-illus/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-401" tvg-logo="https://epg.openboxfan.com/picon/русскийроман.png" group-title="Кино и сериалы",Русский Роман
+http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-55138" tvg-logo="https://iptvxpix.ml/siestahd.png" group-title="Кино и сериалы",Сиеста HD
+http://1hdru-hls-otcnet.cdnvideo.ru/siesta/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-432" tvg-logo="https://epg.openboxfan.com/picon/тв3.png" group-title="Кино и сериалы",ТВ 3
+http://51.195.44.53:8081/tv/tv3/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-432" tvg-logo="https://epg.openboxfan.com/picon/тв3.png" group-title="Кино и сериалы",ТВ-3
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-54643" tvg-logo="https://epg.openboxfan.com/picon/нашасибирь4k.png" group-title="Региональные",Наша Сибирь 4K (UHD)
+http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
+#EXTINF:0 tvg-id="hlsproxy-1131" tvg-logo="https://epg.openboxfan.com/picon/глазамитуриста.png" group-title="Познавательные",Глазами туриста 4K (UHD)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/bw20000000/variant.m3u8?version=2
+#EXTINF:0 tvg-id="" group-title="Дата обновления",ФАНТАСТИКА Sci-Fi
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",ПАМЯТЬ
+https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",УЖАСТИК
+https://v2.catcast.tv/content/38896/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-54" group-title="Эфирные",ВСЁ ВКЛЮЧЕНО
+https://v2.catcast.tv/content/39161/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",МультСказки
+https://v2.catcast.tv/content/38850/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-9158" tvg-logo="https://epg.openboxfan.com/picon/premierehd.png" group-title="Кино и сериалы",Premiere HD
+http://195.154.242.229/Premiere_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Premium HD
+http://195.154.242.229/Premium_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:0 tvg-id="" group-title="Дата обновления",РуКино HD
+http://195.154.242.229/RuKino_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:0 tvg-id="hlsproxy-6143" tvg-logo="https://epg.openboxfan.com/picon/victoryhd.png" group-title="Дата обновления",Victory HD
+http://195.154.242.229/Victory_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Paradox HD
+http://195.154.242.229/Paradox_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Thriller HD
+http://195.154.242.229/Thriller_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Paradise HD
+http://195.154.242.229/Paradise_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:0 tvg-id="" group-title="Дата обновления",USSR
+http://195.154.242.229/USSR_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:0 tvg-id="" group-title="Дата обновления",VHS HD
+http://195.154.242.229/VHS_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Serial HD
+http://195.154.242.229/Serial_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Christmas HD
+http://195.154.242.229/Christmas_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Свежаки
+https://ed-nl-01.mycdn.video/fresh/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Уже видел
+https://ed-nl-01.mycdn.video/hit/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Доку
+https://ed-nl-01.mycdn.video/docu/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-53020" group-title="Региональные",Akudji
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0 tvg-id="hlsproxy-672" tvg-logo="https://iptvxpix.ml/backustv.png" group-title="Кино и сериалы",BackusTV
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-672" tvg-logo="https://iptvxpix.ml/backustv.png" group-title="Кино и сериалы",BackusTV Страшное
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",seriesTV
+https://hlss.goodgame.ru/hls/186021.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PZN HD
+http://hls.goodgame.ru/manifest/180960_master.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Millenium TV HD
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-279" tvg-logo="https://epg.openboxfan.com/picon/кинотв.png" group-title="Кино и сериалы",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-54686" group-title="Региональные",Твоё ТВ HD
+http://stream-norst.cf:8080/tvoetv/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-171" tvg-logo="https://epg.openboxfan.com/picon/tv1000.png" group-title="Кино и сериалы",TV1000
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/480p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-171" tvg-logo="http://192.168.0.112:38050/logos/tv1000-hd.png" group-title="Кино и сериалы",TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-429" tvg-logo="https://epg.openboxfan.com/picon/tv1000рускино.png" group-title="Кино и сериалы",TV1000 Русское кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/480p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-429" tvg-logo="https://epg.openboxfan.com/picon/tv1000рускино.png" group-title="Кино и сериалы",TV1000 Русское кино HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-172" tvg-logo="https://epg.openboxfan.com/picon/tv1000action.png" group-title="Кино и сериалы",TV1000 Action
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/480p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-172" tvg-logo="https://epg.openboxfan.com/picon/tv1000action.png" group-title="Кино и сериалы",TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-173" tvg-logo="https://epg.openboxfan.com/picon/vipcomedy.png" group-title="Кино и сериалы",ViP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/480p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-173" tvg-logo="https://epg.openboxfan.com/picon/vipcomedy.png" group-title="Кино и сериалы",ViP Comedy HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-174" tvg-logo="https://epg.openboxfan.com/picon/vipmegahit.png" group-title="Кино и сериалы",ViP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/480p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-174" tvg-logo="https://epg.openboxfan.com/picon/vipmegahit.png" group-title="Кино и сериалы",ViP Megahit HD.
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-175" tvg-logo="https://epg.openboxfan.com/picon/vippremiere.png" group-title="Кино и сериалы",ViP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/480p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-175" tvg-logo="https://epg.openboxfan.com/picon/vippremiere.png" group-title="Кино и сериалы",ViP Premiere HD.
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-55135" tvg-logo="https://epg.openboxfan.com/picon/vipserial.png" group-title="Кино и сериалы",ViP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/480p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-55135" tvg-logo="https://epg.openboxfan.com/picon/vipserial.png" group-title="Кино и сериалы",ViP Serial HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8196" tvg-logo="https://epg.openboxfan.com/picon/про100.png" group-title="Эфирные",Про100ТВ
+http://158.101.218.99:2134/channel/n25962c10/index.m3u8?q=25277e3cb8084b3c402716ca774a495c
+#EXTINF:0 tvg-id="hlsproxy-51037" tvg-logo="https://epg.openboxfan.com/picon/43.png" group-title="Развлекательные",СТРК HD
+http://sochi-strk.ru:2015/STRK/mpegts
+#EXTINF:0 tvg-id="hlsproxy-51037" tvg-logo="https://epg.openboxfan.com/picon/43.png" group-title="Региональные",43 канал HD
+http://sochi-strk.ru:2015/43Kanal/mpegts
+#EXTINF:0 tvg-id="hlsproxy-324" tvg-logo="https://epg.openboxfan.com/picon/киносвидание.png" group-title="Кино и сериалы",Киносвидание
+http://158.101.218.99:2134/channel/6e52b3ac/index.m3u8?q=25277e3cb8084b3c402716ca774a495c
+#EXTINF:0 tvg-id="hlsproxy-3027" group-title="Кино и сериалы",.black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:0 tvg-id="hlsproxy-5107" group-title="Кино и сериалы",.sci-fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:0 tvg-id="hlsproxy-397" tvg-logo="https://epg.openboxfan.com/picon/русскийиллюзион.png" group-title="Кино и сериалы",Русский иллюзион.
+http://86.57.178.105:10823
+#EXTINF:0 tvg-id="hlsproxy-464" tvg-logo="https://epg.openboxfan.com/picon/фениксplusкино.png" group-title="Кино и сериалы",Феникс плюс кино
+https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
+#EXTINF:0 tvg-id="hlsproxy-265" tvg-logo="https://epg.openboxfan.com/picon/индийскоекино.png" group-title="Кино и сериалы",Индийское кино
+http://158.101.218.99:2134/channel/n6c03c234/index.m3u8?q=25277e3cb8084b3c402716ca774a495c
+#EXTINF:0 tvg-id="hlsproxy-204" tvg-logo="https://iptvxpix.ml/zee-tv.png" group-title="Кино и сериалы",Zee TV
+http://194.213.23.7:3304
+#EXTINF:0 tvg-id="hlsproxy-25" tvg-logo="https://epg.openboxfan.com/picon/amedia1.png" group-title="Кино и сериалы",A1
+https://okkotv-live.cdnvideo.ru/channel/A1_HD/480p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-25" tvg-logo="https://epg.openboxfan.com/picon/amedia1.png" group-title="Кино и сериалы",A1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-26" tvg-logo="https://epg.openboxfan.com/picon/amedia2.png" group-title="Кино и сериалы",A2
+https://okkotv-live.cdnvideo.ru/channel/A2_HD/480p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-26" tvg-logo="https://epg.openboxfan.com/picon/amedia2.png" group-title="Кино и сериалы",A2 HD
+https://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-81" tvg-logo="https://epg.openboxfan.com/picon/fox.png" group-title="Кино и сериалы",FOX
+http://158.101.218.99:2134/channel/n198df37/index.m3u8?q=25277e3cb8084b3c402716ca774a495c
+#EXTINF:0 tvg-id="hlsproxy-81" tvg-logo="http://192.168.0.112:38050/logos/fox-hd.png" group-title="Кино и сериалы",FOX HD.
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-83" tvg-logo="https://epg.openboxfan.com/picon/foxlife.png" group-title="Кино и сериалы",FOX Life.
+http://158.101.218.99:2134/channel/n21483a80/index.m3u8?q=25277e3cb8084b3c402716ca774a495c
+#EXTINF:0 tvg-id="hlsproxy-83" tvg-logo="http://192.168.0.112:38050/logos/foxlife-hd.png" group-title="Кино и сериалы",FOX Life HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-244" tvg-logo="https://epg.openboxfan.com/picon/домкино.png" group-title="Кино и сериалы",Dom_Kino
+http://edge04.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
+#EXTINF:0 tvg-id="hlsproxy-429" tvg-logo="https://epg.openboxfan.com/picon/tv1000рускино.png" group-title="Кино и сериалы",TV 1000 Ru Kino
+http://185.74.7.220:8080/tv1000ru/mpegts
+#EXTINF:0 tvg-id="hlsproxy-170" tvg-logo="https://epg.openboxfan.com/picon/tv21.png" group-title="Кино и сериалы",XXI
+http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-25" tvg-logo="https://epg.openboxfan.com/picon/amedia1.png" group-title="Кино и сериалы",amedia
+http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",kinopremyera
+http://31.134.132.245:8080/khl_hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",kino_tv_hd HD
+http://31.134.132.245:8080/kino_tv_hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="hlsproxy-281" tvg-logo="https://epg.openboxfan.com/picon/кинопоказ.png" group-title="Кино и сериалы",kinopokaz
+http://31.134.132.245:8080/kinopokaz/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="hlsproxy-324" tvg-logo="https://epg.openboxfan.com/picon/киносвидание.png" group-title="Кино и сериалы",kinosvidanie
+http://94.154.83.88:10000/kinosvidanie
+#EXTINF:0 tvg-id="hlsproxy-51107" tvg-logo="https://epg.openboxfan.com/picon/домкинопремиум.png" group-title="Кино и сериалы",Дом Кино Премиум  HD
+http://212.76.27.27/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
+#EXTINF:0 tvg-id="hlsproxy-279" group-title="Кино и сериалы",INTERNATIONAL
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-279" tvg-logo="https://epg.openboxfan.com/picon/кинотв.png" group-title="Кино и сериалы",Кино 1 ТВ
+http://v2.catcast.tv/content/38617/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",КинозаЛ
+https://hls.goodgame.ru/hls/73474.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Кинозал-VHS 90s
+http://v2.catcast.me/content/37925/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-324" tvg-logo="https://epg.openboxfan.com/picon/киносвидание.png" group-title="Кино и сериалы",Киноклуб
+https://autopilot.catcast.tv/content/39005/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8288" group-title="Дата обновления",Любимый HD
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",МИЛЛЕННИУМ HD
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",МУЛЬТСКАЗКИ.
+http://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-100262" tvg-logo="https://epg.openboxfan.com/picon/мосфильм.png" group-title="Кино и сериалы",Мосфильм Золотая коллекция
+http://31.128.159.41:8080/mosfilm/tra
+#EXTINF:0 tvg-id="hlsproxy-1789" tvg-logo="https://iptvxpix.ml/salam.png" group-title="Кино и сериалы",Салям ТВ (Уфа)
+http://bstvint.mediacdn.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="hlsproxy-170" tvg-logo="https://epg.openboxfan.com/picon/tv21.png" group-title="Кино и сериалы",ТВ XXI
+http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-290" tvg-logo="https://epg.openboxfan.com/picon/кинокомедия.png" group-title="Кино и сериалы",Кинокомедия
+http://213.226.137.140:81/tl/l52/mpegts
+#EXTINF:0 tvg-id="hlsproxy-323" tvg-logo="https://epg.openboxfan.com/picon/киномикс.png" group-title="Кино и сериалы",Киномикс
+http://213.226.137.140:81/tl/l79/mpegts
+#EXTINF:0 tvg-id="hlsproxy-1796" tvg-logo="https://epg.openboxfan.com/picon/киноужас.png" group-title="Кино и сериалы",Киноужас
+http://213.226.137.140:81/tl/l415/mpegts
+#EXTINF:0 tvg-id="hlsproxy-327" tvg-logo="https://epg.openboxfan.com/picon/кинохит.png" group-title="Кино и сериалы",Кинохит.
+http://213.226.137.140:81/tl/l16/mpegts
+#EXTINF:0 tvg-id="hlsproxy-268" tvg-logo="https://epg.openboxfan.com/picon/мужскоекино.png" group-title="Кино и сериалы",Мужское
+http://213.226.137.140:81/tl/l111/mpegts
+#EXTINF:0 tvg-id="hlsproxy-577" tvg-logo="https://epg.openboxfan.com/picon/нашекрутое.png" group-title="Кино и сериалы",Наше новое
+http://213.226.137.140:81/tl/l53/mpegts
+#EXTINF:0 tvg-id="hlsproxy-2508" group-title="Кино и сериалы",Родное
+http://213.226.137.140:81/tl/l54/mpegts
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Ужастик.
+https://v2.catcast.tv/content/38896/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Феникс Плюс
+https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
+#EXTINF:0 tvg-id="hlsproxy-361" tvg-logo="https://epg.openboxfan.com/picon/cinema.png" group-title="Кино и сериалы",Cinema
+http://109.171.7.89:81/udp/239.54.6.164:1224
+#EXTINF:0 tvg-id="hlsproxy-263" tvg-logo="https://epg.openboxfan.com/picon/иллюзионplus.png" group-title="Кино и сериалы",Иллюзион+
+http://109.171.7.89:81/udp/239.54.6.162:1224
+#EXTINF:0 tvg-id="hlsproxy-25" tvg-logo="https://epg.openboxfan.com/picon/amedia1.png" group-title="Кино и сериалы",Amedia 1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD/720p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-26" tvg-logo="https://epg.openboxfan.com/picon/amedia2.png" group-title="Кино и сериалы",Amedia 2 HD
+https://okkotv-live.cdnvideo.ru/channel/A2_HD/720p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-578" tvg-logo="https://epg.openboxfan.com/picon/amediahit.png" group-title="Кино и сериалы",Amedia Hit HD
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/720p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-174" tvg-logo="https://epg.openboxfan.com/picon/vipmegahit.png" group-title="Кино и сериалы",VIP Megahit.
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:0 tvg-id="hlsproxy-55135" tvg-logo="https://epg.openboxfan.com/picon/vipserial.png" group-title="Кино и сериалы",VIP Serial.
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",ФАНТАСТИКА SCIFI
+http://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-1035" tvg-logo="https://epg.openboxfan.com/picon/беларусь4витебск.png" group-title="Региональные",Беларусь 4 Витебск
+http://95.46.208.8:26258/belarus4
+#EXTINF:0 tvg-id="hlsproxy-446" tvg-logo="https://epg.openboxfan.com/picon/белрос.png" group-title="Региональные",ТРО (БелРос)
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-9230" group-title="Эфирные",СТВ Беларусь
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-352" tvg-logo="https://epg.openboxfan.com/picon/онт.png" group-title="Эфирные",ОНТ HD Беларусь
+http://86.57.174.73:14002/ont
+#EXTINF:0 tvg-id="hlsproxy-54544" group-title="Региональные",Наше ТВ Витебск
+http://95.46.208.8:26259/nashe
+#EXTINF:0 tvg-id="hlsproxy-51084" tvg-logo="https://epg.openboxfan.com/picon/витебсктв.png" group-title="Региональные",Витебск ТВ
+https://flu.vtv.by/tvt-non-by/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-19" tvg-logo="https://iptvxpix.ml/8by.png" group-title="Эфирные",8 канал HD Беларусь
+http://80.94.225.126:8080/8kanalHD/mono.m3u8
+#EXTINF:0 tvg-id="hlsproxy-219" tvg-logo="https://epg.openboxfan.com/picon/беларусь24.png" group-title="Информационные",Беларусь 24 HD
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-221" tvg-logo="https://epg.openboxfan.com/picon/беларусь5.png" group-title="Спортивные",Беларусь 5 HD
+https://95-213-224-173.livesports24.online/belarusss5.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",КАМКРА Х5
+http://192.168.0.112:7777/3333/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-378" tvg-logo="https://epg.openboxfan.com/picon/5канал.png" group-title="Эфирные",5 канал
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_5TV/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-23" group-title="Музыкальные",A-One
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-118" group-title="Музыкальные",MTV Rocks
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-119" tvg-logo="https://iptvxpix.ml/musicbox-gold.png" group-title="Музыкальные",Music Box
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MUSICBOXTV/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-121" tvg-logo="https://epg.openboxfan.com/picon/mezzo.png" group-title="Музыкальные",Mezzo
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MEZZO/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-462" tvg-logo="https://epg.openboxfan.com/picon/усадьба.png" group-title="Познавательные",Усадьба
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_USADBA/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-680" tvg-logo="http://192.168.0.112:38050/logos/peretz.png" group-title="Развлекательные",Перец
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-624" tvg-logo="https://epg.openboxfan.com/picon/страшноеhd.png" group-title="Кино и сериалы",Страшное HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_C01_STRASHNOEHD/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-60" tvg-logo="http://192.168.0.112:38050/logos/discovery-channel-hd.png" group-title="Познавательные",Discovery HD
+http://192.168.0.112:7777/114/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-99" tvg-logo="https://iptvxpix.ml/idxtra.png" group-title="Познавательные",Investigation Discovery
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-71" tvg-logo="https://epg.openboxfan.com/picon/europaplustv.png" group-title="Музыкальные",Europa plus
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_EUROPAPLUSTV/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-154" tvg-logo="https://epg.openboxfan.com/picon/bridgetvрусскийхит.png" group-title="Музыкальные",Rusong TV
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_RUSONGTV/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-375" tvg-logo="https://epg.openboxfan.com/picon/просвещение.png" group-title="Познавательные",Просвещение
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_PROSVESCHENIE/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-391" tvg-logo="https://epg.openboxfan.com/picon/россия1.png" group-title="Эфирные",Россия 1
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-257" tvg-logo="https://epg.openboxfan.com/picon/загороднаяжизнь.png" group-title="Познавательные",Загородная жизнь
+http://195.189.238.18/streaming/zagorod_zh/16/tvrec/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-9" tvg-logo="https://epg.openboxfan.com/picon/доктор.png" group-title="Познавательные",24 док
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_24DOC/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-109" tvg-logo="https://epg.openboxfan.com/picon/mcmtop.png" group-title="Музыкальные",MCM Top
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_MCMTOP/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-262" tvg-logo="https://epg.openboxfan.com/picon/зоопарк.png" group-title="Познавательные",ZooПарк
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_ZOOPARK/variant.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",DW
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-323" tvg-logo="https://epg.openboxfan.com/picon/киномикс.png" group-title="Кино и сериалы",НТВ+ Кино плюс
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTVPLUSKINO/variant.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",НТВ+ Наше кино
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",НТВ+ Новое кино
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-162" tvg-logo="https://iptvxpix.ml/shopping-live.png" group-title="Дата обновления",Shopping Live
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_SHOPPINGLIFE/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-159" tvg-logo="https://iptvxpix.ml/duo3tv.png" group-title="Кино и сериалы",SET
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SET/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-44" tvg-logo="https://epg.openboxfan.com/picon/bridgetv.png" group-title="Музыкальные",Bridge TV
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_BRIDGETV/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-395" tvg-logo="https://epg.openboxfan.com/picon/россияк.png" group-title="Познавательные",Россия Культура
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-190" tvg-logo="https://iptvxpix.ml/vh1-classic.png" group-title="Музыкальные",VH1 classic
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-191" tvg-logo="https://epg.openboxfan.com/picon/vh1.png" group-title="Музыкальные",VH1 European
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-295" tvg-logo="https://epg.openboxfan.com/picon/ляминор.png" group-title="Музыкальные",Ля Минор
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_AMOLL/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-299" tvg-logo="https://epg.openboxfan.com/picon/мир.png" group-title="Эфирные",Мир
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MIR/variant.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",НТВ+ Кино союз
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-418" tvg-logo="https://epg.openboxfan.com/picon/союз.png" group-title="Украина",Союз
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_SOYUZ/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-419" tvg-logo="https://epg.openboxfan.com/picon/спас.png" group-title="Украина",Спас
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-434" tvg-logo="https://epg.openboxfan.com/picon/твц.png" group-title="Эфирные",ТВ центр
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TVC/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-344" tvg-logo="https://epg.openboxfan.com/picon/нст.png" group-title="Кино и сериалы",Настоящее Страшное ТВ
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NSTV/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-345" tvg-logo="https://iptvxpix.ml/nauka-20.png" group-title="Познавательные",Наука 2.0
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_NAUKA20/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-349" tvg-logo="https://epg.openboxfan.com/picon/ностальгия.png" group-title="Познавательные",Ностальгия
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NOSTALGIYA/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-361" tvg-logo="https://epg.openboxfan.com/picon/cinema.png" group-title="Кино и сериалы",Парк развлечений
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_PARKRAZVLECHENIJ/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-404" tvg-logo="https://iptvxpix.ml/luxury.png" group-title="Познавательные",Luxury HD
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:0 tvg-id="hlsproxy-611" tvg-logo="https://iptvxpix.ml/univer-tv.png" group-title="Познавательные",Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8136" tvg-logo="https://epg.openboxfan.com/picon/1музыкальный.png" group-title="Музыкальные",Первый Музыкальный BY [FHD]
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-id="hlsproxy-7" tvg-logo="https://epg.openboxfan.com/picon/1hd.png" group-title="Музыкальные",1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-1783" group-title="Музыкальные",Первый Музыкальный RU HD BY
+http://rtmp.one.by:2300
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Al Kass Спортs 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:0 tvg-id="hlsproxy-153" tvg-logo="https://epg.openboxfan.com/picon/rutv.png" group-title="Музыкальные",RU TV HD
+http://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-10239" group-title="Музыкальные",Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:0 tvg-id="hlsproxy-10239" group-title="Музыкальные",Kronehit TV [FHD]
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",FILM TV HD
+http://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-575" group-title="Кино и сериалы",Наш Кинороман HD
+http://ott.watch/stream/IFBYIR5OA7/213.m3u8
+#EXTINF:0 tvg-id="hlsproxy-577" tvg-logo="https://epg.openboxfan.com/picon/нашекрутое.png" group-title="Кино и сериалы",Наше Крутое HD
+http://ott.watch/stream/IFBYIR5OA7/217.m3u8
+#EXTINF:0 tvg-id="hlsproxy-51971" group-title="Развлекательные",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Поединок FHD
+https://stream-msk-06.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/03/plst.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Игра FHD
+https://stream-msk-03.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/03/plst.m3u8
+#EXTINF:0 tvg-id="hlsproxy-6112" group-title="Музыкальные",DJing HD
+http://www.djing.com/tv/live.m3u8
+#EXTINF:0 tvg-id="hlsproxy-6112" group-title="Музыкальные",DJing Animation HD
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:0 tvg-id="hlsproxy-6112" group-title="Музыкальные",DJing Classic HD
+https://www.djing.com/tv/i-28730-04.m3u8
+#EXTINF:0 tvg-id="hlsproxy-6112" group-title="Музыкальные",DJing DJS HD
+https://www.djing.com/tv/k-27838-05.m3u8
+#EXTINF:0 tvg-id="hlsproxy-6112" group-title="Музыкальные",DJing Hot Hot Hot HD
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:0 tvg-id="hlsproxy-6112" group-title="Музыкальные",DJing Ibiza HD
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0 tvg-id="hlsproxy-6112" group-title="Музыкальные",DJing Karaoke HD
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:0 tvg-id="hlsproxy-6112" group-title="Музыкальные",DJing Underground HD
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:0 tvg-id="hlsproxy-128" tvg-logo="http://192.168.0.112:38050/logos/nat-geo-wild-hd.png" group-title="Познавательные",National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:0 tvg-id="hlsproxy-10257" tvg-logo="http://192.168.0.112:38050/logos/history-2-hd.png" group-title="Познавательные",H2 HD
+http://178.33.37.66/stream/8ASIXG9QVB/65.m3u8
+#EXTINF:0 tvg-id="hlsproxy-51106" tvg-logo="https://epg.openboxfan.com/picon/bollywood.png" group-title="Кино и сериалы",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:0 tvg-id="hlsproxy-111" tvg-logo="https://epg.openboxfan.com/picon/hollywoodhd.png" group-title="Кино и сериалы",Hollywood HD
+https://plbl.m9.lfstrm.tv/amc/normal/1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-90" tvg-logo="https://epg.openboxfan.com/picon/hdl.png" group-title="Познавательные",hdl HD
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PZN FHD
+http://cdnhls.goodgame.ru/hls/180960.m3u8
+#EXTINF:0 tvg-id="hlsproxy-226" tvg-logo="https://epg.openboxfan.com/picon/нтм.png" group-title="Эфирные",НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-701" group-title="Познавательные",Silence TV WORLD HD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-384" tvg-logo="http://192.168.0.112:38050/logos/rzhd-hd.png" group-title="Познавательные",РЖД ТВ HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-3098" tvg-logo="https://iptvxpix.ml/tv-brics.png" group-title="Познавательные",Brics TV HD
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Оплoт HD
+http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Оплoт 2 HD
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-578" tvg-logo="https://epg.openboxfan.com/picon/amediahit.png" group-title="Кино и сериалы",Amedia Hit
+http://178.163.14.83:4022/udp/234.0.0.169:2000
+#EXTINF:0 tvg-id="hlsproxy-330" tvg-logo="https://epg.openboxfan.com/picon/родноекино.png" group-title="Кино и сериалы",Родное кино
+http://213.226.137.140:81/tl/l54/mpegts
+#EXTINF:0 tvg-id="hlsproxy-159" tvg-logo="https://iptvxpix.ml/duo3tv.png" group-title="Кино и сериалы",Sony
+http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:0 tvg-id="hlsproxy-28" tvg-logo="https://iptvxpix.ml/sony-scifi.png" group-title="Кино и сериалы",Sony Sci-Fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:0 tvg-id="hlsproxy-431" tvg-logo="http://192.168.0.112:38050/logos/subbota-hd.png" group-title="Развлекательные",Суббота! HD
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Кинолюкс
+http://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-672" tvg-logo="https://iptvxpix.ml/backustv.png" group-title="Кино и сериалы",BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-672" tvg-logo="https://iptvxpix.ml/backustv.png" group-title="Кино и сериалы",BACKUSTV Страшное HD
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-34" tvg-logo="http://192.168.0.112:38050/logos/animal-planet-hd.png" group-title="Познавательные",Animal Planet HD
+http://213.226.137.140:81/tl/l13/mpegts
+#EXTINF:0 tvg-id="hlsproxy-62" tvg-logo="https://epg.openboxfan.com/picon/discoveryscience.png" group-title="Познавательные",Discovery Science
+http://192.168.0.112:7777/2015/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-182" tvg-logo="http://192.168.0.112:38050/logos/travel-channel-hd.png" group-title="Познавательные",Travel HD
+http://213.226.137.140:81/tl/l14/mpegts
+#EXTINF:0 tvg-id="hlsproxy-166" tvg-logo="http://192.168.0.112:38050/logos/tlc-hd.png" group-title="Развлекательные",TLC HD
+http://213.226.137.140:81/tl/l18/mpegts
+#EXTINF:0 tvg-id="hlsproxy-99" tvg-logo="https://iptvxpix.ml/idxtra.png" group-title="Познавательные",ID: Investigation Discovery
+http://213.226.137.140:81/tl/l23/mpegts
+#EXTINF:0 tvg-id="hlsproxy-128" tvg-logo="http://192.168.0.112:38050/logos/nat-geo-wild-hd.png" group-title="Познавательные",Nat Geo Wild FHD
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+#EXTINF:0 tvg-id="hlsproxy-197" tvg-logo="https://epg.openboxfan.com/picon/viasatnature.png" group-title="Познавательные",Viasat Nature
+http://91.185.3.218:4000/play/304
+#EXTINF:0 tvg-id="hlsproxy-194" tvg-logo="https://epg.openboxfan.com/picon/viasatexplore.png" group-title="Познавательные",Viasat Explore
+http://213.226.137.140:81/tl/l94/mpegts
+#EXTINF:0 tvg-id="hlsproxy-196" tvg-logo="https://epg.openboxfan.com/picon/viasathistory.png" group-title="Познавательные",Viasat History
+http://91.185.3.218:4000/play/323
+#EXTINF:0 tvg-id="hlsproxy-21062" group-title="Дата обновления",WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-127" tvg-logo="https://epg.openboxfan.com/picon/нано.png" group-title="Познавательные",Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Nature Relaxation HD
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-54503" tvg-logo="https://epg.openboxfan.com/picon/сочиlivehd.png" group-title="Познавательные",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-52975" tvg-logo="https://epg.openboxfan.com/picon/диалогиорыбалке.png" group-title="Мужские",Диалоги о рыбалке
+http://213.226.137.140:81/tl/l55/mpegts
+#EXTINF:0 tvg-id="hlsproxy-294" tvg-logo="https://epg.openboxfan.com/picon/кухнятв.png" group-title="Познавательные",Кухня ТВ
+http://213.226.137.140:81/tl/l65/mpegts
+#EXTINF:0 tvg-id="hlsproxy-209" tvg-logo="https://epg.openboxfan.com/picon/автоплюс.png" group-title="Мужские",Авто Плюс
+http://213.226.137.140:81/tl/l105/mpegts
+#EXTINF:0 tvg-id="hlsproxy-286" tvg-logo="https://epg.openboxfan.com/picon/бобертв.png" group-title="Познавательные",Бобёр
+http://213.226.137.140:81/tl/l112/mpegts
+#EXTINF:0 tvg-id="hlsproxy-90" tvg-logo="https://epg.openboxfan.com/picon/hdl.png" group-title="Познавательные",HD Life
+http://213.226.137.140:81/tl/l305/mpegts
+#EXTINF:0 tvg-id="hlsproxy-352" tvg-logo="https://epg.openboxfan.com/picon/онт.png" group-title="Эфирные",ОНТ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8125" group-title="Развлекательные",Реноме
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:0 tvg-id="hlsproxy-620" tvg-logo="https://iptvxpix.ml/moskovsky-obrazovatelny.png" group-title="Познавательные",Мособр TV
+http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-620" tvg-logo="https://iptvxpix.ml/moskovsky-obrazovatelny.png" group-title="Познавательные",Мособр TV HD
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-611" tvg-logo="https://iptvxpix.ml/univer-tv.png" group-title="Познавательные",Универ TV
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-53356" group-title="Познавательные",ЛитКлуб ТВ Проза
+http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b7/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-53356" group-title="Познавательные",ЛитКлуб ТВ Слово
+http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-53356" group-title="Познавательные",ЛитКлуб ТВ Стихи
+http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-676" group-title="Региональные",TV Waterfalls HD
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/
+#EXTINF:0 tvg-id="hlsproxy-362" tvg-logo="http://192.168.0.112:38050/logos/perviy-hd.png" group-title="Эфирные",Первый Канал HD
+https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
+#EXTINF:0 tvg-id="hlsproxy-391" tvg-logo="http://192.168.0.112:38050/logos/rossia1-hd.png" group-title="Эфирные",Россия 1 HD
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:0 tvg-id="hlsproxy-393" tvg-logo="https://epg.openboxfan.com/picon/россия24.png" group-title="Информационные",Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:0 tvg-id="hlsproxy-395" tvg-logo="https://epg.openboxfan.com/picon/россияк.png" group-title="Познавательные",Россия К
+http://213.226.137.140:81/tl/l49/mpegts
+#EXTINF:0 tvg-id="hlsproxy-8619" group-title="Эфирные",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",THT4
+http://213.226.137.140:81/tl/l63/mpegts
+#EXTINF:0 tvg-id="hlsproxy-380" tvg-logo="https://epg.openboxfan.com/picon/рбк.png" group-title="Информационные",РБК
+http://213.226.137.140:81/tl/l64/mpegts
+#EXTINF:0 tvg-id="hlsproxy-382" tvg-logo="http://192.168.0.112:38050/logos/rentv-hd.png" group-title="Эфирные",Рен ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTINF:0 tvg-id="hlsproxy-51517" group-title="Дата обновления",CTC HD
+http://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:0 tvg-id="hlsproxy-409" tvg-logo="https://epg.openboxfan.com/picon/стсlove.png" group-title="Развлекательные",CTC Love
+http://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:0 tvg-id="hlsproxy-259" tvg-logo="https://epg.openboxfan.com/picon/звезда.png" group-title="Эфирные",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-id="hlsproxy-288" tvg-logo="https://epg.openboxfan.com/picon/вместерф.png" group-title="Информационные",Вместе РФ
+http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-19" tvg-logo="https://iptvxpix.ml/8by.png" group-title="Эфирные",8 Канал
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8261" tvg-logo="https://iptvxpix.ml/8kanal-eu.png" group-title="Эфирные",8 Канал Европа
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-134" tvg-logo="https://iptvxpix.ml/360-podmoskovie.png" group-title="Информационные",360°
+http://video1.in-news.ru/360/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-10239" group-title="Музыкальные",Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:0 tvg-id="hlsproxy-6012" tvg-logo="https://epg.openboxfan.com/picon/странаfmтв.png" group-title="Музыкальные",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-7" tvg-logo="https://epg.openboxfan.com/picon/1hd.png" group-title="Музыкальные",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8136" tvg-logo="http://192.168.0.112:38050/logos/oneby.png" group-title="Музыкальные",Первый Музыкальный HD
+http://rtmp.one.by:2200
+#EXTINF:0 tvg-id="" group-title="Дата обновления",MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:0 tvg-id="hlsproxy-30002" tvg-logo="https://epg.openboxfan.com/picon/тнтmusic.png" group-title="Музыкальные",ТНТ Music HD
+http://83.222.205.65:8080/tntmusic/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-296" tvg-logo="http://192.168.0.112:38050/logos/m1-ua-hd.png" group-title="Музыкальные",М1 HD
+http://live.m2.tv/hls2/720/stream.m3u8
+#EXTINF:0 tvg-id="hlsproxy-297" tvg-logo="http://192.168.0.112:38050/logos/m2-ua-hd.png" group-title="Музыкальные",М2 HD
+http://live.m2.tv/hls3/720/stream.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8002" group-title="Развлекательные",HDFashion&Lifestyle
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-78" tvg-logo="https://epg.openboxfan.com/picon/fashiontv.png" group-title="Развлекательные",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-78" tvg-logo="https://epg.openboxfan.com/picon/fashiontv.png" group-title="Развлекательные",Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="hlsproxy-51157" group-title="Музыкальные",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="hlsproxy-51158" group-title="Музыкальные",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="hlsproxy-6048" group-title="Музыкальные",Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="hlsproxy-51158" group-title="Музыкальные",Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-4046" group-title="Музыкальные",Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Hits 360 HD
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-46" tvg-logo="https://epg.openboxfan.com/picon/cmusictv.png" group-title="Музыкальные",MUSIC PLUS
+http://79.172.214.45:10190/stream.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Muzzik Cafe&Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",MUZZIK HIP-HOP
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Blue Crabs TV
+http://stream-norst.cf:8080/crabs/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-471" tvg-logo="https://epg.openboxfan.com/picon/шансонтв.png" group-title="Музыкальные",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Ecnulo
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8?version=2
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Zerouno TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-51623" group-title="Музыкальные",V2Beat HD
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8142" group-title="Музыкальные",Xite HD
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:0 tvg-id="hlsproxy-3150" group-title="Музыкальные",M6Music HD
+http://190.2.155.162:8080/m6music/mpegts
+#EXTINF:0 tvg-id="hlsproxy-51743" group-title="Музыкальные",m2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:0 tvg-id="hlsproxy-790" group-title="Эфирные",TVM3
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-3073" tvg-logo="https://iptvxpix.ml/clubbing-tv.png" group-title="Музыкальные",Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Qello TV HD
+https://stirr.ott-channels.stingray.com/qello/master_1280x720_2000kbps.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Karaoke HD
+https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Classic Rock HD
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Alternative HD
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Hot Country HD
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Pop Adult HD
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Hit List HD
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Flashback 70S HD
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Remember The 80S HD
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Hip-Hop/R&B HD
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Soul Storm STORM HD
+https://stirr.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Greatest Hits HD
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Stingray Exitos Del Momento HD
+https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8152" tvg-logo="https://epg.openboxfan.com/picon/беларусь4брест.png" group-title="Региональные",Беларусь 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:0 tvg-id="hlsproxy-54544" group-title="Региональные",Наше ТВ (Витебск)
+http://95.46.208.8:26259/nashe
+#EXTINF:0 tvg-id="hlsproxy-266" tvg-logo="https://epg.openboxfan.com/picon/iнтер.png" group-title="Эфирные",Інтер
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-270" tvg-logo="https://epg.openboxfan.com/picon/к1.png" group-title="Кино и сериалы",К1
+https://edge2.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-54920" group-title="Региональные",Правда ТУТ Киев
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-457" tvg-logo="https://epg.openboxfan.com/picon/прямий.png" group-title="Информационные",Прямой
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-457" tvg-logo="http://192.168.0.112:38050/logos/pryamiy-hd.png" group-title="Информационные",Прямой HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-9170" group-title="Региональные",А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-451" tvg-logo="https://epg.openboxfan.com/picon/24новини.png" group-title="Информационные",24 канал
+http://streamvideol1.luxnet.ua/news24/news24.stream_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-451" tvg-logo="https://epg.openboxfan.com/picon/24новини.png" group-title="Информационные",24 канал HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-486" group-title="Познавательные",100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:0 tvg-id="hlsproxy-645" group-title="Региональные",3 Цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-371" tvg-logo="https://epg.openboxfan.com/picon/1дiловий.png" group-title="Информационные",Первый Деловой
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-584" tvg-logo="https://epg.openboxfan.com/picon/раi.png" group-title="Региональные",РАИ
+http://stream.rai.ua/rai/stream.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8014" group-title="Региональные",ТРК Аверс (Луцк)
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",ГИТ (Луцк)
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:0 tvg-id="hlsproxy-696" group-title="Региональные",Алекс (Запорожье)
+http://46.46.112.223/live/livestream1.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8089" tvg-logo="https://iptvxpix.ml/tv5-zaporozhie.png" group-title="Региональные",ТВ 5 (Запорожье)
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-697" group-title="Региональные",ТВ Бердянск
+http://video.onet.zp.ua/TV_Berdyansk/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-100193" group-title="Региональные",ТРК Юг
+http://video.onet.zp.ua/TV_UG/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-55189" group-title="Региональные",ИРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-54525" tvg-logo="https://epg.openboxfan.com/picon/nobeltv.png" group-title="Региональные",Nobel TV (Днепр)
+http://159.224.232.27:1234
+#EXTINF:0 tvg-id="hlsproxy-51292" group-title="Музыкальные",City TV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/citytv-abr/a1od/citytvod/chunks.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Odesa Live
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-519" tvg-logo="https://epg.openboxfan.com/picon/uaодеса.png" group-title="Эфирные",UA:Одесса
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-53349" group-title="Информационные",Сфера ТВ
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-6057" group-title="Региональные",ТВА
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-365" group-title="Региональные",Первый городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8356" group-title="Региональные",G TV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-54798" group-title="Дата обновления",Инший (Одесса)
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr-lq/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-54798" group-title="Дата обновления",Инший HD
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-52108" group-title="Региональные",Одесса Fashion
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-646" group-title="Региональные",Южная волна
+http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-564" tvg-logo="https://iptvxpix.ml/7kanal-kz.png" group-title="Региональные",7 канал
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-53769" group-title="Кино и сериалы",ТИС
+http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-55088" group-title="Познавательные",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Полтавское ТВ
+http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-601" tvg-logo="https://iptvxpix.ml/pershy-zaxidny.png" group-title="Региональные",Первый Западный (Львов)
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-365" group-title="Региональные",Первый Городской HD (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-55156" tvg-logo="https://epg.openboxfan.com/picon/тернопiль1.png" group-title="Региональные",Тернополь 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8104" group-title="Региональные",Черновицкий проминь
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-371" tvg-logo="https://epg.openboxfan.com/picon/1дiловий.png" group-title="Информационные",Перший діловий
+https://pershij-dlovij.cdn-02.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-27" tvg-logo="https://epg.openboxfan.com/picon/атр.png" group-title="Региональные",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8004" group-title="Региональные",Kratu
+http://cdn10.live-tv.od.ua:8081/kratu/kratu/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-580" tvg-logo="https://epg.openboxfan.com/picon/lale.png" group-title="Детские",Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:0 tvg-id="hlsproxy-8192" group-title="Региональные",Херсон
+http://193.107.128.8:8552/play/a016
+#EXTINF:0 tvg-id="hlsproxy-796" group-title="Flussonic",ОХ-АХ
+http://50.7.164.28:8081/1/index.m3u8?wmsAuthSign=1646155753p942i101i93i491S5ba107fa50081b001d0770dabbf3586c
+#EXTINF:0 tvg-id="hlsproxy-3031" tvg-logo="https://iptvxpix.ml/brazzers.png" group-title="Flussonic",Brazzers TV Europe
+http://50.7.164.28:8081/2/index.m3u8?wmsAuthSign=1646156530p942i101i93i491S0b470db98283948a76719770d256607d
+#EXTINF:0 tvg-id="hlsproxy-6011" tvg-logo="https://epg.openboxfan.com/picon/brazzerstveu.png" group-title="Flussonic",Brazzers TV
+http://50.7.164.28:8081/46/tracks-1,2/index.m3u8?wmsAuthSign=1646156713p942i101i93i491S050892cbdfd0706901a8733ec03c17c2
+#EXTINF:0 tvg-id="" group-title="Дата обновления",SL HOT HD2
+http://50.7.164.28:8081/58/index.m3u8?wmsAuthSign=1646157198p942i101i93i491Sfe36d40008a3678311080bec236b6f00
+#EXTINF:0 tvg-id="hlsproxy-20754" group-title="Flussonic",Reality Kings
+http://50.7.164.28:8081/57/index.m3u8?wmsAuthSign=1646158583p942i101i93i491Sd58e8d8e232b339564e134dd341dffa9
+#EXTINF:0 tvg-id="hlsproxy-86" group-title="Flussonic",French Lover
+http://50.7.164.28:8081/48/index.m3u8?wmsAuthSign=1646158990p942i101i93i491S7de091a80fda2d877fe97956c9ebe9cc
+#EXTINF:0 tvg-id="hlsproxy-53216" group-title="Flussonic",Dusk
+http://50.7.164.28:8081/53/index.m3u8?wmsAuthSign=1646159305p942i101i93i491Sdef27e6a6a86fe6f89fb13f8773ec7ec
+#EXTINF:0 tvg-id="" group-title="Дата обновления",KinoXXX
+http://50.7.164.28:8081/49/index.m3u8?wmsAuthSign=1646159799p942i101i93i491Sb5104899842d7ce8d591b8a5a6cafb6a
+#EXTINF:0 tvg-id="hlsproxy-50103" group-title="Flussonic",SuperOne HD
+http://50.7.164.28:8081/45/index.m3u8?wmsAuthSign=1646160834p942i101i93i491Se6a24beae8a7bc26113650c30b562fa9
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XY Max HD
+http://50.7.164.28:8081/43/index.m3u8?wmsAuthSign=1646161789p942i101i93i491S484fa1758bc355c464a577d94ca531e6
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XY Mix HD
+http://50.7.164.28:8081/55/index.m3u8?wmsAuthSign=1646162024p942i101i93i491Sc505cbd133ef44beebaaabaa2d04baea
+#EXTINF:0 tvg-id="hlsproxy-53745" tvg-logo="https://epg.openboxfan.com/picon/barelylegal.png" group-title="Flussonic",Barely legal
+http://50.7.164.28:8081/42/index.m3u8?wmsAuthSign=1646164190p942i101i93i491Scd7a60e77e7a23b35a8a44bd1bfcca19
+#EXTINF:0 tvg-id="hlsproxy-145" tvg-logo="https://epg.openboxfan.com/picon/playboytv.png" group-title="Flussonic",Playboy
+http://50.7.164.28:8081/6/index.m3u8?wmsAuthSign=1646164334p942i101i93i491Sdb8a5ebf3394f4dfb0be2929665b3199
+#EXTINF:0 tvg-id="hlsproxy-54985" group-title="Flussonic",Vivid Red HD
+http://50.7.164.28:8081/7/index.m3u8?wmsAuthSign=1646164595p942i101i93i491S77d9545d479ea87ca0ff464a9386da8c
+#EXTINF:0 tvg-id="hlsproxy-21036" group-title="Flussonic",VIVID RED
+http://192.168.0.112:7777/2015/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-1212" tvg-logo="https://epg.openboxfan.com/picon/hustlerhd.png" group-title="Flussonic",HUSTLER HD
+ffrthttp://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199602
+#EXTINF:0 tvg-id="hlsproxy-7098" tvg-logo="https://iptvxpix.ml/playboy-tv.png" group-title="Flussonic",PLAYBOY EUROPE
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199601
+#EXTINF:0 tvg-id="hlsproxy-50053" tvg-logo="https://epg.openboxfan.com/picon/erox.png" group-title="Flussonic",ERO X
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199600
+#EXTINF:0 tvg-id="hlsproxy-3027" group-title="Кино и сериалы",BLACK TV XXX
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199599
+#EXTINF:0 tvg-id="hlsproxy-1299" tvg-logo="https://epg.openboxfan.com/picon/penthousequickies.png" group-title="Flussonic",PENTHOUSE QUICKIES
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199598
+#EXTINF:0 tvg-id="hlsproxy-1330" tvg-logo="https://epg.openboxfan.com/picon/redlighthd.png" group-title="Flussonic",REDLIGHT
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199597
+#EXTINF:0 tvg-id="hlsproxy-7152" group-title="Эфирные",JASMIN
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199596
+#EXTINF:0 tvg-id="hlsproxy-2154" tvg-logo="https://epg.openboxfan.com/picon/privatehd.png" group-title="Flussonic",PRIVATE
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199595
+#EXTINF:0 tvg-id="hlsproxy-396" tvg-logo="https://epg.openboxfan.com/picon/русскаяночь.png" group-title="Flussonic",RUSSKAYA NOCH
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199594
+#EXTINF:0 tvg-id="hlsproxy-50002" tvg-logo="https://iptvxpix.ml/nuart-tv.png" group-title="Flussonic",NUART
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199593
+#EXTINF:0 tvg-id="hlsproxy-2148" tvg-logo="https://epg.openboxfan.com/picon/passionxxx.png" group-title="Flussonic",PASSION XXX
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199592
+#EXTINF:0 tvg-id="hlsproxy-50003" tvg-logo="https://epg.openboxfan.com/picon/olala.png" group-title="Flussonic",O LA LA
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199591
+#EXTINF:0 tvg-id="hlsproxy-4180" tvg-logo="https://iptvxpix.ml/sct-xxx.png" group-title="Flussonic",SCT
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199590
+#EXTINF:0 tvg-id="hlsproxy-4136" group-title="Flussonic",PINK O TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199589
+#EXTINF:0 tvg-id="hlsproxy-1293" group-title="Дата обновления",OH AH TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199588
+#EXTINF:0 tvg-id="hlsproxy-8451" tvg-logo="https://epg.openboxfan.com/picon/шалун.png" group-title="Flussonic",SHALUN TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199587
+#EXTINF:0 tvg-id="hlsproxy-53775" group-title="Flussonic",FAP TV TEENS
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199586
+#EXTINF:0 tvg-id="hlsproxy-50012" group-title="Flussonic",CANDY TV.
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199585
+#EXTINF:0 tvg-id="hlsproxy-53775" group-title="Flussonic",FAP TV 2
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199584
+#EXTINF:0 tvg-id="hlsproxy-53775" group-title="Flussonic",FAP TV ANAL
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199583
+#EXTINF:0 tvg-id="hlsproxy-51008" group-title="Flussonic",SEXTOSENSO
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199582
+#EXTINF:0 tvg-id="hlsproxy-51039" group-title="Flussonic",CENTO X CENTO
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199581
+#EXTINF:0 tvg-id="hlsproxy-53775" group-title="Flussonic",FAP TV PARODY
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199580
+#EXTINF:0 tvg-id="hlsproxy-6011" tvg-logo="https://epg.openboxfan.com/picon/brazzerstveu.png" group-title="Flussonic",BRAZZERS
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199579
+#EXTINF:0 tvg-id="hlsproxy-53775" group-title="Flussonic",FAP TV LESBIAN
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199578
+#EXTINF:0 tvg-id="hlsproxy-53775" group-title="Flussonic",FAP TV COMPILATION
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199577
+#EXTINF:0 tvg-id="hlsproxy-53775" group-title="Flussonic",FAP TV 3
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199576
+#EXTINF:0 tvg-id="hlsproxy-53775" group-title="Flussonic",FAP TV 4
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199575
+#EXTINF:0 tvg-id="hlsproxy-201" group-title="Flussonic",XXL
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199574
+#EXTINF:0 tvg-id="" group-title="Дата обновления",ALBA XXX 1
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199573
+#EXTINF:0 tvg-id="" group-title="Дата обновления",ALBA XXX 2
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199572
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PREMIUM PORN
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199571
+#EXTINF:0 tvg-id="hlsproxy-1068" tvg-logo="https://epg.openboxfan.com/picon/bluehustler.png" group-title="Flussonic",BLUE HUSTLER
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199570
+#EXTINF:0 tvg-id="hlsproxy-3090" group-title="Flussonic",DORCEL
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199569
+#EXTINF:0 tvg-id="hlsproxy-641" group-title="Flussonic",MIAMI TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199568
+#EXTINF:0 tvg-id="" group-title="Дата обновления",ALBA XXX 5
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199567
+#EXTINF:0 tvg-id="" group-title="Дата обновления",ALBA XXX 4
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199566
+#EXTINF:0 tvg-id="" group-title="Дата обновления",ALBA XXX 3
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199565
+#EXTINF:0 tvg-id="hlsproxy-50102" group-title="Flussonic",SUPER ONE
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199564
+#EXTINF:0 tvg-id="hlsproxy-50251" tvg-logo="https://epg.openboxfan.com/picon/fastfunbox.png" group-title="Развлекательные",FAST BOYZ GAY
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199563
+#EXTINF:0 tvg-id="" group-title="Дата обновления",X-MO GAY
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199562
+#EXTINF:0 tvg-id="hlsproxy-3090" group-title="Flussonic",Dorcel  HD
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199561
+#EXTINF:0 tvg-id="" group-title="Дата обновления",HOT XXL HD
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199560
+#EXTINF:0 tvg-id="hlsproxy-50053" tvg-logo="https://epg.openboxfan.com/picon/erox.png" group-title="Flussonic",Erox XXX HD
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199559
+#EXTINF:0 tvg-id="hlsproxy-50103" group-title="Flussonic",Super One HD XXX
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199558
+#EXTINF:0 tvg-id="hlsproxy-53212" group-title="Flussonic",Evil Angel HD
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199557
+#EXTINF:0 tvg-id="hlsproxy-53774" group-title="Flussonic",Dream Porn
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199556
+#EXTINF:0 tvg-id="hlsproxy-54315" tvg-logo="https://epg.openboxfan.com/picon/babestv.png" group-title="Flussonic",Babes TV HD XXX
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199555
+#EXTINF:0 tvg-id="" group-title="Дата обновления",SEX ATION HD
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199554
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XY Max HD.
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199552
+#EXTINF:0 tvg-id="hlsproxy-55227" tvg-logo="https://iptvxpix.ml/extasy4k.png" group-title="Flussonic",Extasy HD XXX
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199550
+#EXTINF:0 tvg-id="hlsproxy-53216" group-title="Flussonic",DUSK!
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199549
+#EXTINF:0 tvg-id="hlsproxy-1211" tvg-logo="https://iptvxpix.ml/hustler-tv.png" group-title="Flussonic",Hustler TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199548
+#EXTINF:0 tvg-id="hlsproxy-54372" group-title="Развлекательные",Vivid TV Europe
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199547
+#EXTINF:0 tvg-id="hlsproxy-7153" group-title="Flussonic",Passie XXX
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199546
+#EXTINF:0 tvg-id="hlsproxy-20754" group-title="Flussonic",Reality Kings TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199545
+#EXTINF:0 tvg-id="hlsproxy-4145" group-title="Flussonic",Prive TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199544
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Hot TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199543
+#EXTINF:0 tvg-id="hlsproxy-6142" group-title="Flussonic",Venus TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199542
+#EXTINF:0 tvg-id="hlsproxy-9200" group-title="Flussonic",Sextreme
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199541
+#EXTINF:0 tvg-id="hlsproxy-9201" group-title="Flussonic",Sexy HOT
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199540
+#EXTINF:0 tvg-id="hlsproxy-54108" group-title="Flussonic",X1
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199539
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Meiden Van Holland Hard
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199538
+#EXTINF:0 tvg-id="" group-title="Дата обновления",X Desire
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199537
+#EXTINF:0 tvg-id="" group-title="Дата обновления",X Bizarre
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199536
+#EXTINF:0 tvg-id="" group-title="Дата обновления",X Bunga Bunga
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199535
+#EXTINF:0 tvg-id="hlsproxy-54300" group-title="Flussonic",Pink Erotic
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199534
+#EXTINF:0 tvg-id="hlsproxy-54300" group-title="Flussonic",Pink Erotic 2
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199533
+#EXTINF:0 tvg-id="hlsproxy-54300" group-title="Flussonic",Pink Erotic 3
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199532
+#EXTINF:0 tvg-id="hlsproxy-54300" group-title="Flussonic",Pink Erotic 4
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199531
+#EXTINF:0 tvg-id="hlsproxy-54300" group-title="Flussonic",Pink Erotic 5
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199530
+#EXTINF:0 tvg-id="hlsproxy-54300" group-title="Flussonic",Pink Erotic 6
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199529
+#EXTINF:0 tvg-id="hlsproxy-54300" group-title="Flussonic",Pink Erotic 7
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199528
+#EXTINF:0 tvg-id="hlsproxy-54300" group-title="Flussonic",Pink Erotic 8
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199527
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Balkan Erotic
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199526
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Taboo
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199525
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Oldtimer
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199524
+#EXTINF:0 tvg-id="hlsproxy-54998" group-title="Эфирные",Net XX
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199523
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Playhouse
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199522
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Hot Pleasure
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199521
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Milf TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199520
+#EXTINF:0 tvg-id="hlsproxy-50564" group-title="Кино и сериалы",Red
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199519
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Extrem
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199518
+#EXTINF:0 tvg-id="hlsproxy-20123" group-title="Дата обновления",Bang U
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199517
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Lesbian Affair
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199516
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Emanuelle
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199515
+#EXTINF:0 tvg-id="hlsproxy-86" group-title="Flussonic",French Lover.
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199514
+#EXTINF:0 tvg-id="hlsproxy-86" group-title="Flussonic",French Lover Europe
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199513
+#EXTINF:0 tvg-id="hlsproxy-1068" tvg-logo="https://epg.openboxfan.com/picon/bluehustler.png" group-title="Flussonic",Blue Hustler HD
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199512
+#EXTINF:0 tvg-id="hlsproxy-53745" tvg-logo="https://epg.openboxfan.com/picon/barelylegal.png" group-title="Flussonic",Barely Legal TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199511
+#EXTINF:0 tvg-id="hlsproxy-5158" group-title="Flussonic",Zest TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199510
+#EXTINF:0 tvg-id="hlsproxy-50000" group-title="Flussonic",Exxxotica TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199509
+#EXTINF:0 tvg-id="hlsproxy-2025" group-title="Flussonic",Beate Uhse.TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199508
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Secret Circle TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199507
+#EXTINF:0 tvg-id="hlsproxy-54685" group-title="Flussonic",Leo TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199506
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Free X TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199505
+#EXTINF:0 tvg-id="hlsproxy-50001" tvg-logo="https://epg.openboxfan.com/picon/candymantv.png" group-title="Дата обновления",Candyman Gay Men
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199504
+#EXTINF:0 tvg-id="" group-title="Дата обновления",FAKE AGENT 1
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199503
+#EXTINF:0 tvg-id="" group-title="Дата обновления",FAKE AGENT 2
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199502
+#EXTINF:0 tvg-id="" group-title="Дата обновления",FAKE AGENT 3
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199501
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Live Cams
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199500
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Anal
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199499
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Big Ass
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199498
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Big Dick
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199497
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Big Tits
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199496
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Blonde
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199495
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Blowjob
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199494
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Brunette
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199493
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Compilation
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199492
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Cuckold
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199491
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Fetish
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199490
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Gangbang
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199489
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Gay
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199488
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Hardcore
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199487
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Interracial
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199486
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Latina
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199485
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Lesbian
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199484
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX MILF
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199483
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Pornstar
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199482
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX POV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199481
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Rough
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199480
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Russian
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199479
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Teen
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199478
+#EXTINF:0 tvg-id="" group-title="Дата обновления",XXX Threesome
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199477
+#EXTINF:0 tvg-id="" group-title="Дата обновления",BALKAN HOT 2
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199476
+#EXTINF:0 tvg-id="hlsproxy-1298" group-title="Flussonic",PENTHOUSE GOLD
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199475
+#EXTINF:0 tvg-id="hlsproxy-2646" group-title="Flussonic",JUST 89
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199474
+#EXTINF:0 tvg-id="" group-title="Дата обновления",TBB 1
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199473
+#EXTINF:0 tvg-id="" group-title="Дата обновления",TBB 2
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199472
+#EXTINF:0 tvg-id="" group-title="Дата обновления",TBB 3
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199471
+#EXTINF:0 tvg-id="" group-title="Дата обновления",TBB 4
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199470
+#EXTINF:0 tvg-id="" group-title="Дата обновления",TBB XXX
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199469
+#EXTINF:0 tvg-id="" group-title="Дата обновления",BALKAN HOT
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199468
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PORNSTERS 1
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199467
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PORNSTERS 2
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199466
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PORNSTERS 3
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199465
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PORNSTERS 4
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199464
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PORNSTERS 5
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199463
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PORNSTERS 6
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199462
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PORNSTERS 7
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199461
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PORNSTERS 8
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199460
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PORNSTERS 9
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199459
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PORNSTERS 10
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199458
+#EXTINF:0 tvg-id="hlsproxy-55227" tvg-logo="https://iptvxpix.ml/extasy4k.png" group-title="Flussonic",EXTASY 4K
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199457
+#EXTINF:0 tvg-id="" group-title="Дата обновления",BIKINI TV
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199456
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Pinco Club
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199455
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Pinco Club 2
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199454
+#EXTINF:0 tvg-id="hlsproxy-51142" group-title="Эфирные",MULTI 4K
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199453
+#EXTINF:0 tvg-id="" group-title="Дата обновления",PURE BABES
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199452
+#EXTINF:0 tvg-id="" group-title="Дата обновления",VIXEN HD
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199451
+#EXTINF:0 tvg-id="" group-title="Дата обновления",SEX PRIVE
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199450
+#EXTINF:0 tvg-id="" group-title="Дата обновления",SHELK
+http://myiptvco.ddns.net:80/Janet_Herward/DiSW75G9nH/199449
+#EXTINF:0 tvg-id="" group-title="Дата обновления",NEWMFX
+https://poopingvideos.club/wp-content/uploads/2022/01/xtreme-scat-humiliation-hd-2umarw5c-7pgs7y5d_gp9IeXA1.mp4
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Wild fledgling
+https://ip268165580.ahcdn.com/key=pDrIqj5qWyPJSRKyFTmuiA,s=,end=1647016527/state=YitsvBrS/buffer=611414:3743472,3428.7/speed=873
+#EXTINF:0 tvg-id="" group-title="Дата обновления",piss-and-spit
+https://video-lmo.xhcdn.com/token=nva=1647025200~dirs=5~hash=0df7aa3c6044dd18d9c7b/media=hls4/multi=256x144:144p,426x240:240p,85
+#EXTINF:0 tvg-id="" group-title="Дата обновления",Artofzoo Zumi - full Pump It!
+https://ztube.org/wp-content/uploads/zVideos/106/artofzoo-zumi-full-pump-it-vid.mp4?id=0
+#EXTINF:0 tvg-id="hlsproxy-50003" tvg-logo="https://epg.openboxfan.com/picon/olala.png" group-title="Flussonic",O-la-la
+http://192.168.0.112:7777/13/video.m3u8
+#EXTINF:0 tvg-id="" group-title="Дата обновления",BAZUKA
+http://192.168.0.112:7777/9998/video.m3u8
