@@ -1137,3 +1137,29 @@ https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 group-title="Турция",Uçankuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://194.58.42.152:8000/play/animalplanethd/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Science
+http://194.58.42.152:8000/play/discoveryscience/index.m3u8
+#EXTINF:-1 group-title="Спортивные",EUROSPORT 1 HD
+http://194.58.42.152:8000/play/eurosport1hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные",EUROSPORT 2 HD
+http://194.58.42.152:8000/play/eurosport2hd/index.m3u8
+#EXTINF:-1 group-title="Информационные",Euronews
+http://194.58.42.152:8000/play/euronews/index.m3u8
+#EXTINF:-1 group-title="Познавательные",History Россия HD
+http://194.58.42.152:8000/play/historyhd/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Setanta Sports 1 HD
+http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
+http://194.58.42.152:8000/play/setantasports2hd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Ultra HD Cinema
+http://194.58.42.152:8000/play/ultrahdcinema/index.m3u8
+#EXTINF:-1 group-title="Мужские",Дикая Охота HD
+http://194.58.42.152:8000/play/dikayaohotahd/index.m3u8
+#EXTINF:-1 group-title="Мужские",Дикая Рыбалка HD
+http://194.58.42.152:8000/play/dikayaribalkahd/index.m3u8
+#EXTINF:-1 group-title="Информационные",Дождь
+http://194.58.42.152:8000/play/dojhd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Кино UHD
+http://194.58.42.152:8000/play/kinouhd/index.m3u8
