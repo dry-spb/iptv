@@ -785,3 +785,25 @@ http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:-1 group-title="Беларусь",СТВ Беларусь
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-51082" group-title="Информационные" tvg-logo="https://epg.openboxfan.com/picon/настоящеевремя.png",Настоящее время
+http://192.168.0.112:7777/14/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-5013" group-title="Информационные" tvg-logo="https://epg.openboxfan.com/picon/белсат.png",Белсат HD
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-70" group-title="Информационные" tvg-logo="https://epg.openboxfan.com/picon/euronews.png",Euronews
+http://192.168.0.112:7777/9/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-20151" group-title="Информационные" tvg-logo="https://epg.openboxfan.com/picon/известия.png",Известия FHD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-393" group-title="Информационные" tvg-logo="https://epg.openboxfan.com/picon/россия24.png",Россия 24 HD
+http://192.168.0.112:7777/7/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-310" group-title="Эфирные" tvg-logo="https://epg.openboxfan.com/picon/москва24.png",Москва 24
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
+#EXTINF:0 tvg-id="hlsproxy-300" group-title="Информационные" tvg-logo="https://epg.openboxfan.com/picon/мир24.png",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 tvg-id="hlsproxy-51166" group-title="Информационные" tvg-logo="https://epg.openboxfan.com/picon/360новости.png",360 Новости HD
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:0 tvg-id="hlsproxy-3" group-title="Региональные" tvg-logo="https://epg.openboxfan.com/picon/78канал.png",78 канал
+http://192.168.0.112:7777/16/video.m3u8
+#EXTINF:0 tvg-id="hlsproxy-410" group-title="Региональные" tvg-logo="https://epg.openboxfan.com/picon/санктпетербург.png",Санкт-Петербург HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+#EXTINF:0 tvg-id="hlsproxy-210" group-title="Региональные" tvg-logo="https://epg.openboxfan.com/picon/лентв24.png",Лен ТВ 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
