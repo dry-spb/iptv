@@ -1163,3 +1163,611 @@ http://194.58.42.152:8000/play/dikayaribalkahd/index.m3u8
 http://194.58.42.152:8000/play/dojhd/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Кино UHD
 http://194.58.42.152:8000/play/kinouhd/index.m3u8
+#EXTINF:-1 group-title="Познавательные",ID Xtra HD
+http://50.7.92.90/ID_Xtra_HD/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",ID Xtra HD
+http://50.7.92.90/ID_Xtra_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" group-title="Эфирные", Че
+http://50.7.188.186/Che/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2142.png" group-title="Эфирные", Настоящее время
+http://50.7.188.186/Nast_vremya/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" group-title="Эфирные",  НТВ HD
+http://50.7.188.186/NTV_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="Эфирные",  Первый HD
+http://50.7.188.186/Pervyiy_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" group-title="Эфирные",  Россия HD
+http://50.7.188.186/Rossiya_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png" group-title="Эфирные",  ТНТ HD
+http://50.7.188.186/TNTHD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" group-title="Эфирные",  ТВ3
+http://50.7.188.186/TV_3/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" group-title="Эфирные",  Домашний
+http://50.7.92.90/Domashniy/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5651.png" group-title="Эфирные",  Перец International
+http://50.7.92.90/Peretz_int/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="Эфирные",  Первый канал
+http://50.7.92.90/Pervikanal/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="Эфирные",  Первый HD
+http://50.7.92.90/Pervyiy_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" group-title="Эфирные", Пятница!
+http://50.7.92.90/Pyatnitsa/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" group-title="Эфирные",  РЕН ТВ
+http://50.7.92.90/REN_TV/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" group-title="Эфирные",  Россия HD
+http://50.7.92.90/Rossiya_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" group-title="Эфирные",  СТС
+http://50.7.92.90/STS/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4780.png" group-title="Кино и сериалы и сериалы", ФАНТАСТИКА HD
+http://50.7.188.186/FANTASTIKA_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4695.png" group-title="Кино и сериалы и сериалы",  Кино и сериалы и сериалызал! СССР
+http://50.7.188.186/sssr_kino/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4779.png" group-title="Кино и сериалы и сериалы",  СТРАХ HD
+http://50.7.188.186/strah_hd/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" group-title="Кино и сериалы и сериалы",  Amedia 1
+http://50.7.188.186/Amedia_1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2492.png" group-title="Кино и сериалы и сериалы",  Amedia 2
+http://50.7.188.186/Amedia_2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/352.png" group-title="Кино и сериалы и сериалы", ЕвроКино и сериалы и сериалы
+http://50.7.188.186/Evrokino/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2182.png" group-title="Кино и сериалы и сериалы",  Filmbox Arthouse
+http://50.7.188.186/FilmBoxArthouse/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" group-title="Кино и сериалы и сериалы",  Fox HD
+http://50.7.188.186/FOX_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" group-title="Кино и сериалы и сериалы", Fox Life
+http://50.7.188.186/Fox_Life_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" group-title="Кино и сериалы и сериалы",  Иллюзион+
+http://50.7.188.186/Illyuzion/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" group-title="Кино и сериалы и сериалы",  ИНДИЙСКОЕ Кино и сериалы и сериалы
+http://50.7.188.186/Indiya_TV/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино и сериалы и сериалы",  Кино и сериалы и сериалымикс HD
+http://50.7.188.186/Kino_plyus/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино и сериалы и сериалы", Кино и сериалы и сериалы ТВ HD
+http://50.7.188.186/Kino_TV_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" group-title="Кино и сериалы и сериалы",  Кино и сериалы и сериалыСЕРИЯ
+http://50.7.188.186/Mnogo_TV/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" group-title="Кино и сериалы и сериалы",  Мужское Кино и сериалы и сериалы HD
+http://50.7.188.186/Muzhskoe_kino/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="Кино и сериалы и сериалы",  НСТ
+http://50.7.188.186/NST/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/ntv-serial.png" group-title="Кино и сериалы и сериалы", НТВ Сериал
+http://50.7.188.186/ntvserial/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/ntv-serial.png" group-title="Кино и сериалы и сериалы", НТВ Сериал
+http://50.7.92.90/ntvserial/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2405.png" group-title="Кино и сериалы и сериалы",  Paramount Channel
+http://50.7.188.186/Paramount_Channel/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" group-title="Кино и сериалы и сериалы",  Paramount Comedy Russia
+http://50.7.188.186/Paramount_Comedy/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2447.png" group-title="Кино и сериалы и сериалы",  Победа HD
+http://50.7.188.186/Pobeda/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/994.png" group-title="Кино и сериалы и сериалы",  Русский бестселлер
+http://50.7.188.186/Russkibesteller/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/53.png" group-title="Кино и сериалы и сериалы",  Русский Иллюзион
+http://50.7.188.186/Russkiy_illyuzion/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" group-title="Кино и сериалы и сериалы",  Русский роман
+http://50.7.188.186/Russkiy_roman/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/311.png" group-title="Кино и сериалы и сериалы",  .red
+http://50.7.188.186/SET/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" group-title="Кино и сериалы и сериалы",  .sci-fi
+http://50.7.188.186/Sony_Sci-Fi/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" group-title="Кино и сериалы и сериалы", .black
+http://50.7.188.186/Sony_Turbo/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" group-title="Кино и сериалы и сериалы",  Страшное HD
+http://50.7.188.186/StrashnoeHD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" group-title="Кино и сериалы и сериалы", ViP Comedy HD
+http://50.7.188.186/TV1000_Comedy_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино и сериалы и сериалы",  TV1000 HD
+http://50.7.188.186/TV1000_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" group-title="Кино и сериалы и сериалы",  ViP Megahit HD
+http://50.7.188.186/TV1000_Megahit_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" group-title="Кино и сериалы и сериалы",  ViP Premium HD
+http://50.7.188.186/TV1000_Premium_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино и сериалы и сериалы",TV1000 Action HD
+http://50.7.188.186/TV1000ActionHD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" group-title="Кино и сериалы и сериалы",TV XXI
+http://50.7.188.186/TV-XXI/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" group-title="Кино и сериалы и сериалы",  VIP Serial HD
+http://50.7.188.186/VIP_Serial_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2233.png" group-title="Кино и сериалы и сериалы",  ZEE TV
+http://50.7.188.186/ZeeTV/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" group-title="Кино и сериалы и сериалы",Amedia Hit HD
+http://50.7.92.90/Amedia_Hit_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" group-title="Кино и сериалы и сериалы",  Amedia Premium HD
+http://50.7.92.90/Amedia_premium_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1395.png" group-title="Кино и сериалы и сериалы",  Bollywood HD
+http://50.7.92.90/Bollywood_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/834.png" group-title="Кино и сериалы и сериалы", Дом Кино и сериалы и сериалы
+http://50.7.92.90/Dom_kino/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" group-title="Кино и сериалы и сериалы",  Кино и сериалы и сериалыПРЕМЬЕРА HD
+http://50.7.92.90/HD_Kino/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" group-title="Кино и сериалы и сериалы",  Премиальное HD
+http://50.7.92.90/Kino_premium_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" group-title="Кино и сериалы и сериалы",  Кино и сериалы и сериалы ТВ HD
+http://50.7.92.90/Kino_TV_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="Кино и сериалы и сериалы",  Кино и сериалы и сериалыхит
+http://50.7.92.90/Kinohit/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/462.png" group-title="Кино и сериалы и сериалы",  Кино и сериалы и сериалысвидание HD
+http://50.7.92.90/Kinoklub/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" group-title="Кино и сериалы и сериалы",  Шокирующее HD
+http://50.7.92.90/Kinopokaz_HD1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" group-title="Кино и сериалы и сериалы",  Камеди HD
+http://50.7.92.90/Kinopokaz_HD2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" group-title="Кино и сериалы и сериалы",  Кино и сериалы и сериалыужас HD
+http://50.7.92.90/kinoujas_tv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png" group-title="Кино и сериалы и сериалы", Кино и сериалы и сериалыкомедия HD
+http://50.7.92.90/Komediya_TV/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2018.png" group-title="Кино и сериалы и сериалы",Наше крутое HD
+http://50.7.92.90/Nashe_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" group-title="Кино и сериалы и сериалы",  РОДНОЕ Кино и сериалы и сериалы
+http://50.7.92.90/Nashe_kino/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" group-title="Кино и сериалы и сериалы",  Остросюжетное HD
+http://50.7.92.90/Ostrosyuzhetnoe_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png" group-title="Кино и сериалы и сериалы",  Кино и сериалы и сериалысемья HD
+http://50.7.92.90/Premera/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" group-title="Кино и сериалы и сериалы",  Русский роман HD
+http://50.7.92.90/Russkiy_roman_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" group-title="Кино и сериалы и сериалы",  Наш Кино и сериалы и сериалыпоказ HD
+http://50.7.92.90/Semeynoe_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/994.png" group-title="Кино и сериалы и сериалы",  Русский бестселлер
+http://50.7.92.90/UTV/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4771.png" group-title="Кино и сериалы и сериалы",  BESTFILM
+http://50.7.188.186/BESTFILM_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2181.png" group-title="Кино и сериалы и сериалы", FilmBox
+http://50.7.188.186/FilmBox/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2041.png" group-title="Кино и сериалы и сериалы",  НТВ Право
+http://50.7.188.186/ntvpravo/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2041.png" group-title="Кино и сериалы и сериалы",  НТВ Стиль
+http://50.7.188.186/ntvstyle/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4773.png" group-title="Кино и сериалы и сериалы", Sky2000 India HD
+http://50.7.188.186/Sky1000_India/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4773.png" group-title="Кино и сериалы и сериалы",  Sky2000 VHS HD
+http://50.7.188.186/sky2000_VHS/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино и сериалы и сериалы",  TV1000
+http://50.7.188.186/TV1000/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино и сериалы и сериалы",  TV1000 Action
+http://50.7.188.186/TV1000_Action/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" group-title="Кино и сериалы и сериалы",  TV1000 Русское Кино и сериалы и сериалы HD
+http://50.7.188.186/TV1000RusskoeHD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" group-title="Кино и сериалы и сериалы",  TV1000 Русское Кино и сериалы и сериалы
+http://50.7.188.186/TV1000russkoekino/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино и сериалы и сериалы", TV1000
+http://50.7.92.90/TV1000/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино и сериалы и сериалы",  TV1000 Action
+http://50.7.92.90/TV1000_Action/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" group-title="Кино и сериалы и сериалы", TV1000 Русское Кино и сериалы и сериалы
+http://50.7.92.90/TV1000russkoekino/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2549.png" group-title="Кино и сериалы и сериалы", Cinema HD
+http://50.7.188.186/cinema/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" group-title="Развлекательные",  Пятый Канал
+http://50.7.188.186/5_kanal/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/egoist.png" group-title="Развлекательные",  Эгоист
+http://50.7.188.186/Egoist_TV/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/nostalgia.png" group-title="Развлекательные",  Ностальгия
+http://50.7.188.186/Nostalgiya/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" group-title="Развлекательные",  Пятый Канал
+http://50.7.92.90/5_kanal/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2741.png" group-title="Развлекательные",  Food network HD
+http://50.7.92.90/Food_network_HD/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2356.png" group-title="Познавательные",  H2 HD
+http://50.7.92.90/H2_HD/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2507.png" group-title="Познавательные", ID Xtra HD
+http://50.7.92.90/ID_Xtra_HD/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/663.png" group-title="Развлекательные",  Сарафан
+http://50.7.188.186/Sarafan/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" group-title="Развлекательные",  СТС Love
+http://50.7.188.186/STS_Love/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" group-title="Развлекательные",  Суббота
+http://50.7.188.186/super_tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2084.png" group-title="Познавательные", Доктор
+http://50.7.188.186/24Dok/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/animal-planet.png" group-title="Познавательные", Animal Family HD
+http://50.7.92.90/Animal_Family_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2423.png" group-title="Познавательные", 365 дней
+http://50.7.188.186/365_dney/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/365.png" group-title="Познавательные", Animal Planet HD
+http://50.7.188.186/Animal_Planet_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2008.png" group-title="Мужские", Авто 24
+http://50.7.188.186/Avto_24/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" group-title="Познавательные",  Discovery Channel HD
+http://50.7.188.186/Discovery_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2186.png" group-title="Познавательные",  DocuBox HD
+http://50.7.188.186/DocuBoxHD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/930.png" group-title="Познавательные",  ЕДА Премиум
+http://50.7.188.186/Eda/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/415.png" group-title="Познавательные",  HD Life
+http://50.7.188.186/HD_Life/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2422.png" group-title="Познавательные",  HD media
+http://50.7.188.186/HDMedia/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1036.png" group-title="Познавательные",  История
+http://50.7.188.186/Istoriya/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2444.png" group-title="Мужские",  Мужской
+http://50.7.188.186/Muzhskoy/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/102.png" group-title="Познавательные",  National Geographic HD
+http://50.7.188.186/National_Geo_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/723.png" group-title="Познавательные", Наука HD
+http://50.7.188.186/Nauka_2.0/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/275.png" group-title="Познавательные",  Совершенно секретно
+http://50.7.188.186/Sovershenno_sekretno/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2304.png" group-title="Познавательные", Телекафе
+http://50.7.188.186/Telekafe/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2424.png" group-title="Познавательные",  Телепутешествия
+http://50.7.188.186/Teleputeshestviya/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1035.png" group-title="Познавательные",  Travel+Adventure
+http://50.7.188.186/Travel_Adventure_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/434.png" group-title="Познавательные",  Усадьба
+http://50.7.188.186/Usadba/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/521.png" group-title="Познавательные",  Viasat Explore HD
+http://50.7.188.186/Viasat_Explorer/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/277.png" group-title="Познавательные",  Viasat History HD
+http://50.7.188.186/Viasat_History_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2432.png" group-title="Познавательные",  Живая планета
+http://50.7.188.186/Zhivaya_planeta/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/153.png" group-title="Познавательные",  Авто Плюс
+http://50.7.92.90/Avto_Plyus/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/912.png" group-title="Познавательные",  CBS Reality
+http://50.7.92.90/CBS_Reality/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png" group-title="Познавательные", Discovery Science HD
+http://50.7.92.90/Discovery_Science_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2485.png" group-title="Познавательные",  DTX HD
+http://50.7.92.90/DTX_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2508.png" group-title="Познавательные",  Глазами туриста HD
+http://50.7.92.90/Glazami_turista_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1394.png" group-title="Познавательные",  History HD
+http://50.7.92.90/History_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/675.png" group-title="Познавательные",  Планета HD
+http://50.7.92.90/IQ_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/614.png" group-title="Женские", Кухня ТВ
+http://50.7.92.90/Kuhnya_TV/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/223.png" group-title="Познавательные",  Nat Geo Wild
+http://50.7.92.90/Nat_Geo_Wild/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1681.png" group-title="Мужские",  Охотник и Рыболов HD
+http://50.7.92.90/Ohotnik_i_Ryibolov_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2311.png" group-title="Познавательные",  Приключения HD
+http://50.7.92.90/Teletravel_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/425.png" group-title="Познавательные", TLC HD
+http://50.7.92.90/TLC_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2041.png" group-title="Новостные",  НТВ Мир
+http://50.7.92.90/NTV_Mir/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2041.png" group-title="Новостные",  НТВ Мир
+http://50.7.188.186/NTV_Mir/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" group-title="Новостные", Первый канал
+http://50.7.188.186/Pervikanal/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/675.png" group-title="Новостные",  Россия 1
+http://50.7.188.186/Planeta_RTR/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2401.png" group-title="Новостные",  RTVi
+http://50.7.188.186/RTVi/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/669.png" group-title="Новостные", Время
+http://50.7.188.186/Vremya/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/675.png" group-title="Новостные", Россия 1
+http://50.7.92.90/Planeta_RTR/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2401.png" group-title="Новостные",  RTVi
+http://50.7.92.90/RTVi/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/669.png" group-title="Новостные",  Время
+http://50.7.92.90/Vremya/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2399.png" group-title="Новостные", Дождь
+http://50.7.188.186/Dozhd/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/743.png" group-title="Новостные",  РБК 
+http://50.7.188.186/RBK/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2399.png" group-title="Новостные",  Дождь
+http://50.7.92.90/Dozhd/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2266.png" group-title="Новостные",  Euronews Россия
+http://50.7.92.90/Euronews/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2011.png" group-title="Детские",  Ani
+http://50.7.188.186/ani/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2436.png" group-title="Детские",  Baby TV
+http://50.7.188.186/Baby_TV/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/150.png" group-title="Детские",  Disney
+http://50.7.188.186/Disney_rus/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/810.png" group-title="Детские",  Gulli
+http://50.7.188.186/Gulli/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/494.png" group-title="Детские",  Jim jam
+http://50.7.188.186/JimJam/mono.m3u8
+
+#EXTINF:-1  group-title="Детские", Мама
+http://50.7.188.186/mama_tv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1332.png" group-title="Детские", Мульт
+http://50.7.188.186/Mult/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2757.png" group-title="Детские",  Мультиландия
+http://50.7.188.186/Multimaniya/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/917.png" group-title="Детские", Nick Jr
+http://50.7.188.186/NickJR/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1757.png" group-title="Детские",  О!
+http://50.7.188.186/O!/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/555.png" group-title="Детские",  Tiji TV
+http://50.7.188.186/TiJi/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2027.png" group-title="Детские",  В гостях у сказки
+http://50.7.188.186/v_gostyax_u_skaski/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/601.png" group-title="Детские",  Cartoon Network
+http://50.7.92.90/Cartoon_Network/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/150.png" group-title="Детские",  Disney
+http://50.7.92.90/Disney_rus/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2438.png" group-title="Детские",  Капитан Фантастика
+http://50.7.92.90/Ginger_HD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/740.png" group-title="Детские", Карусель
+http://50.7.92.90/Karusel/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/567.png" group-title="Детские", Nickelodeon
+http://50.7.92.90/Nickelodeon/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/923.png" group-title="Детские",  Детский мир
+http://50.7.92.90/Teleklub/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4773.png" group-title="Детские", Sky2000 MultRU
+http://50.7.188.186/Sky1000Mult_RU/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4773.png" group-title="Детские",  Sky2000 MultSU
+http://50.7.188.186/Sky1000Mult_SU/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" group-title="Эфирные",  Домашний
+http://50.7.188.186/Domashniy/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/405.png" group-title="Эфирные",  Звезда
+http://50.7.188.186/Zvezda/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" group-title="Эфирные",  НТВ HD
+http://50.7.92.90/NTV_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2975.png" group-title="Эфирные",  Россия 24
+http://50.7.92.90/Rossiya_24/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" group-title="Эфирные", Россия К
+http://50.7.92.90/Rossiya_K/mono.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/ukraina.png" group-title="Украина",  TET UA
+http://50.7.188.186/TET/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2153.png" group-title="Украина", Star Family HD UA
+http://50.7.188.186/112Ukraina/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2096.png" group-title="Украина", Эспресо TV UA
+http://50.7.188.186/EspresoTVUA/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2106.png" group-title="Украина",  Интер UA
+http://50.7.188.186/Inter/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3309.png" group-title="Украина",  СТБ UA
+http://50.7.188.186/STB/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2101.png" group-title="Украина", Квартал ТВ
+http://50.7.188.186/UA_kvartal/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2541.png" group-title="Спорт",  Беларусь 5 HD
+http://50.7.188.186/belarus_5/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2285.png" group-title="Спорт", Бокс ТВ
+http://50.7.188.186/Boks_TV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2362.png" group-title="Спорт",  Fastnfunbox
+http://50.7.188.186/FastFunBoxHD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3552.png" group-title="Спорт",  Удар
+http://50.7.92.90/UFC_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3792.png" group-title="Спорт",  FightBox HD
+http://50.7.188.186/FightBoxHD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2189.png" group-title="Спорт",  Футбол 1 HD
+http://50.7.188.186/Futbol1HDUA/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2190.png" group-title="Спорт",  Футбол 2 HD
+http://50.7.188.186/Futbol2HDUA/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2669.png" group-title="Спорт",  Футбол 3 HD
+http://50.7.188.186/Futbol3HDUA/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1038.png" group-title="Спорт", КХЛ HD
+http://50.7.188.186/KHL_TV_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2003.png" group-title="Спорт",  Матч! Арена HD
+http://50.7.188.186/Match_Arena_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" group-title="Спорт",  Матч! HD
+http://50.7.188.186/Match_TV_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2370.png" group-title="Спорт",  Setanta Sports Ukraine HD
+http://50.7.188.186/Setanta_SportsHD_UA/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2055.png" group-title="Спорт", Viasat Sport
+http://50.7.188.186/Viasat_Sport/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/113.png" group-title="Спорт",  ЖИВИ!
+http://50.7.188.186/Zhivi/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2052.png" group-title="Спорт",  Eurosport 1 HD
+http://50.7.92.90/Eurosport_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6318.png" group-title="Спорт", Eurosport 2 HD
+http://50.7.92.90/Evrosport_2/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2053.png" group-title="Спорт",  Extreme Sports
+http://50.7.92.90/Extreme_Sports/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2054.png" group-title="Спорт", Матч! Боец
+http://50.7.92.90/Match_Boets/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png" group-title="Спорт", Матч! Футбол 1 HD
+http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="Спорт",  Матч! Футбол 2 HD
+http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2005.png" group-title="Спорт",  Матч! Футбол 3 HD
+http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2050.png" group-title="Спорт",  Матч! Игра HD
+http://50.7.92.90/Match_Igra_HD/mono.m3u8 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2782.png" group-title="Спорт", Матч! Премьер HD
+http://50.7.92.90/Nash_futbol_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2497.png" group-title="Спорт",  Русский экстрим HD
+http://50.7.92.90/Russkiy_ekstrim/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2364.png" group-title="Спорт",  Setanta Eurasia HD
+http://50.7.92.90/SetantaEurasia/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4037.png" group-title="Музыка",  1HD
+http://50.7.188.186/1HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/681.png" group-title="Музыка", Европа Плюс ТВ
+http://50.7.188.186/Evropa_Plyus_TV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4042.png" group-title="Музыка",  iConcerts HD
+http://50.7.188.186/iConcertsHD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2408.png" group-title="Музыка",  Ля-минор ТВ
+http://50.7.188.186/Lya-minor/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1723.png" group-title="Музыка", MTV Hits
+http://50.7.188.186/MTV_hits/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2235.png" group-title="Музыка",  MTV 90s
+http://50.7.188.186/MTVRocks/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2278.png" group-title="Музыка",  Шансон ТВ
+http://50.7.188.186/ShansonTV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/491.png" group-title="Музыка",  VH1 European
+http://50.7.188.186/VH1_Europe/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2022.png" group-title="Музыка",  Bridge TV HD
+http://50.7.92.90/Bridge_TV_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2276.png" group-title="Музыка", MCM Top Russia
+http://50.7.92.90/MCM/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/575.png" group-title="Музыка",  Mezzo
+http://50.7.92.90/Mezzo_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/156.png" group-title="Музыка",  MTV 80s
+http://50.7.92.90/MTV_Dance/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/382.png" group-title="Музыка", MTV Live HD
+http://50.7.92.90/MTV_Live_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1021.png" group-title="Музыка",  MTV Russia
+http://50.7.92.90/MTV_Russia/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" group-title="Музыка",  ТНТ MUSIC
+http://50.7.92.90/TNT_Music/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2265.png" group-title="Музыка", 360 TuneBox
+http://50.7.188.186/360TuneBox/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2489.png" group-title="Музыка",  С-Music HD
+http://50.7.188.186/c-music/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2628.png" group-title="Музыка",  ELECTROSOUND TV
+http://50.7.188.186/ELECTROSOUND_TV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/491.png" group-title="Музыка",  VH-1 Classic
+http://50.7.92.90/VH-1_Classic/mono.m3u
