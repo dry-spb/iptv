@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://192.168.0.112:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" group-title="Эфирные" tvg-id="hlsproxy-369",Че
-http://50.7.188.186/Che/mono.m3u8
+hls://50.7.188.186/Che/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2142.png" group-title="Эфирные" tvg-id="hlsproxy-51082",Настоящее время
 http://50.7.188.186/Nast_vremya/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" group-title="Эфирные" tvg-id="hlsproxy-319",НТВ HD
