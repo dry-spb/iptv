@@ -668,3 +668,26 @@ http://50.7.188.186/ELECTROSOUND_TV/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/491.png" group-title="Музыка",  VH-1 Classic
 http://50.7.92.90/VH-1_Classic/mono.m3u8
+
+#EXTINF:-1 group-title="Мужские",Fishing TV
+http://edge-01-pub.persik.by:82/live/Ch134pub/index.m3u8
+#EXTINF:-1 group-title="Мужские",Охота и рыбалка
+http://65.108.0.37:8080/valar/murguliss/17
+#EXTINF:-1 group-title="Мужские",Рыболов HD
+http://edge-01-pub.persik.by:82/live/Ch196pub/index.m3u8
+#EXTINF:-1 group-title="Мужские",Рыбалка с Сибиряком
+http://edge-01-pub.persik.by:82/live/Ch023pub/index.m3u8
+#EXTINF:-1 group-title="Мужские",Рыбалка с Олегом
+http://edge-01-pub.persik.by:82/live/Ch172pub/index.m3u8
+#EXTINF:-1 group-title="Мужские",Рыбалка на реке
+http://edge-01-pub.persik.by:82/live/Ch321pub/index.m3u8
+#EXTINF:-1 group-title="Мужские",Рыбалка HD
+http://edge-01-pub.persik.by:82/live/Ch195pub/index.m3u8
+#EXTINF:-1 group-title="Мужские",Около рыбалки. Андропов
+http://edge-01-pub.persik.by:82/live/Ch317pub/index.m3u8
+8#EXTINF:-1 group-title="Мужские",Клуб рыбаков
+http://edge-01-pub.persik.by:82/live/Ch099pub/index.m3u8
+#EXTINF:-1 group-title="Мужские",Вокруг рыбалки
+http://edge-01-pub.persik.by:82/live/Ch164pub/index.m3u8
+#EXTINF:-1 group-title="Мужские",Братья Рыбаки
+http://edge-01-pub.persik.by:82/live/Ch140pub/index.m3u8
