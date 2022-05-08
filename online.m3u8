@@ -147,7 +147,7 @@ http://50.7.188.186/sky2000_VHS/mono.m3u8
 http://50.7.188.186/TV1000/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-172" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/70263/2a0000017e67bbd54098a0dcc0995c4ddbc1/428x280",TV1000 Action
 http://50.7.188.186/TV1000_Action/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",TV1000 Русское Кино и сериалы HD
+#EXTINF:-1 group-title="Кино и сериалы",TV1000 Русское Кино HD
 http://50.7.188.186/TV1000RusskoeHD/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-429" tvg-logo="https://i.imgur.com/iCUmr4k.png",TV1000 Русское Кино
 http://50.7.188.186/TV1000russkoekino/mono.m3u8
