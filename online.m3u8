@@ -27,7 +27,7 @@ http://50.7.92.90/REN_TV/mono.m3u8
 http://50.7.92.90/STS/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-864" tvg-logo="http://epg.it999.ru/img2/4780.png",ФАНТАСТИКА HD
 http://50.7.188.186/FANTASTIKA_HD/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Кино и сериалызал! СССР
+#EXTINF:-1 group-title="Кино и сериалы",Киноызал! СССР
 http://50.7.188.186/sssr_kino/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-863" tvg-logo="http://epg.it999.ru/img2/4779.png",СТРАХ HD
 http://50.7.188.186/strah_hd/mono.m3u8
