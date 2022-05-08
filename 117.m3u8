@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 group-title="Кино и сериалы",TV1000 Action
+http://foreign-default.persik.by:82/live/Ch239/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",TV1000 Русское кино
+http://foreign-default.persik.by:82/live/Ch237/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Русский Экстрим UHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино и сериалы",Ultra HD Cinema
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино и сериалы",KINO UHD 4K
+http://134.0.113.120:8000/play/kinouhd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Кинохит
+http://foreign-default.persik.by:82/live/Ch59/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Киносемья
+http://foreign-default.persik.by:82/live/Ch60/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Киносвидание
+http://foreign-default.persik.by:82/live/Ch7/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Киномикс
+http://foreign-default.persik.by:82/live/Ch28/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Кинокомедия
+http://foreign-default.persik.by:82/live/Ch19/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Мужское кино HD
+http://foreign-default.persik.by:82/live/Ch268/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Киносерия
+http://foreign-default.persik.by:82/live/Ch42/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Наше новое кино
+http://foreign-default.persik.by:82/live/Ch12/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Родное кино
+http://foreign-default.persik.by:82/live/Ch6/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Paramount Comedy
+http://109.200.130.124:15500/paramountcomedy
+#EXTINF:-1 group-title="Кино и сериалы",Paramount Channel
+http://109.200.130.124:15500/paramountchannel
+#EXTINF:-1 group-title="Кино и сериалы",Zee TV
+http://194.213.23.7:3304
+#EXTINF:-1 group-title="Кино и сериалы",Мир Сериала
+http://109.200.130.124:7007/play/a01a
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+http://194.58.42.152:8000/play/animalplanethd/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Science
+http://194.58.42.152:8000/play/discoveryscience/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикая Охота HD
+http://134.0.113.120:8000/play/dikayaohotahd/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикая Рыбалка HD
+http://194.58.42.152:8000/play/dikayaribalkahd/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Love Nature 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные",ОНТ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="Познавательные",Реноме
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 group-title="Познавательные",Конный мир
+http://83.222.205.10:38080/konnyimir/index.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Animals HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Aurora HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Beaches HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Forest HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Lake HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Mountain HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Rivers HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Sunset HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 group-title="Relax Nature",TV Tropics HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 group-title="Эфирные",Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 group-title="Информационные",Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 1
+http://foreign-default.persik.by:82/live/Ch73/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 2
+http://foreign-default.persik.by:82/live/Ch64/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 3
+http://foreign-default.persik.by:82/live/Ch71/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 24
+http://foreign-default.persik.by:82/live/Ch200/index.m3u8
+#EXTINF:-1 group-title="Беларусь",РТР Беларусь
+http://foreign-default.persik.by:82/live/Ch77/index.m3u8
+#EXTINF:-1 group-title="Беларусь",НТВ-Беларусь
+http://foreign-default.persik.by:82/live/Ch78/index.m3u8
+#EXTINF:-1 group-title="Беларусь",СТВ
+http://foreign-default.persik.by:82/live/Ch75/index.m3u8
+#EXTINF:-1 group-title="Беларусь",ТВ-3 Беларусь
+http://foreign-default.persik.by:82/live/Ch66/index.m3u8
