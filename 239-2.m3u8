@@ -175,13 +175,13 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-196" tvg-logo="http://192.168.0.213:38050/logos/viasat-history-hd.png",Viasat History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-2584",ТВ Экстра
+#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-2584",ТВ Экстра
 http://194.190.78.91:8080/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-id="hlsproxy-156" tvg-logo="http://192.168.0.213:38050/logos/russia-today-doc-hd.png",RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-311" tvg-logo="https://i.imgur.com/tUONvKz.png",Моя Планета
 http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-54643" tvg-logo="http://epg.it999.ru/img2/2746.png",Наша Сибирь 4K HD
+#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-54643" tvg-logo="http://epg.it999.ru/img2/2746.png",Наша Сибирь 4K HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw6000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-1131" tvg-logo="http://epg.it999.ru/img2/2508.png",Глазами туриста HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=glazamiturista
@@ -193,15 +193,12 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-336" tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4
 http://a3569456020-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-242" tvg-logo="http://epg.it999.ru/img2/2308.png",Москва Доверие
+#EXTINF:-1 group-title="Эфирные" tvg-id="hlsproxy-242" tvg-logo="http://epg.it999.ru/img2/2308.png",Москва Доверие
 http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-794" tvg-logo="http://epg.it999.ru/img2/2407.png",Киносат
 http://89.104.114.7:8080/kinosat/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-54643" tvg-logo="http://epg.it999.ru/img2/2746.png",Наша Сибирь 4K (UHD)
+#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-54643" tvg-logo="http://epg.it999.ru/img2/2746.png",Наша Сибирь 4K (UHD)
 http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
-
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-53020",Akudji
-http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-672" tvg-logo="http://epg.it999.ru/img2/4770.png",BackusTV
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-672" tvg-logo="http://epg.it999.ru/img2/4770.png",BackusTV Страшное
@@ -210,7 +207,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-279" tvg-logo="http://epg.it999.ru/img2/1037.png",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-id="5441" tvg-logo="http://epg.it999.ru/img2/5441.png",Твоё ТВ HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="5441" tvg-logo="http://epg.it999.ru/img2/5441.png",Твоё ТВ HD
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-171" tvg-logo="http://epg.it999.ru/img2/127.png",TV1000
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/480p.m3u8
@@ -238,8 +235,6 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/480p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="hlsproxy-51037" tvg-logo="http://epg.it999.ru/img2/2830.png",СТРК HD
 http://sochi-strk.ru:2015/STRK/mpegts
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-51037" tvg-logo="https://dl.dropboxusercontent.com/s/fnf40wmgaom1z4j/43.jpg",43 канал HD
-http://sochi-strk.ru:2015/43Kanal/mpegts
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-163" tvg-logo="http://epg.it999.ru/img2/3027.png",.black
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-5107" tvg-logo="https://epg.openboxfan.com/picon/scifi.png",.sci-fi
@@ -270,11 +265,11 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-55135" tvg-logo="http://epg.it999.ru/img2/2838.png",VIP Serial.
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-446" tvg-logo="http://epg.it999.ru/img2/2294.png",ТРО (БелРос)
+#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-446" tvg-logo="http://epg.it999.ru/img2/2294.png",ТРО (БелРос)
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="hlsproxy-9230" tvg-logo="http://epg.it999.ru/img2/2543.png",СТВ Беларусь
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="hlsproxy-51084" tvg-logo="https://epg.openboxfan.com/picon/витебсктв.png",Витебск ТВ
+#EXTINF:-1 group-title="Беларусь" tvg-id="hlsproxy-51084" tvg-logo="https://epg.openboxfan.com/picon/витебсктв.png",Витебск ТВ
 https://flu.vtv.by/tvt-non-by/index.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-id="hlsproxy-219" tvg-logo="https://resizer.mail.ru/p/c3c06eec-6613-5514-91ec-b20923cdbd84/AQACWrxNebO0hItmKwDaej2ry4kAMudX6qjoQkOx_7QLCDly1v7ftHI7GZuK0lSB_-8lsAmRc_DBFCjDbWWlP2tYTUE.png",Беларусь 24 HD
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
