@@ -103,21 +103,21 @@ http://50.7.92.90/Amedia_premium_HD/mono.m3u8
 http://50.7.92.90/Bollywood_HD/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-244" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/rus2domkino.png",Дом Кино
 http://50.7.92.90/Dom_kino/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Кино и сериалыПРЕМЬЕРА HD
+#EXTINF:-1 group-title="Кино и сериалы",Кино ПРЕМЬЕРА HD
 http://50.7.92.90/HD_Kino/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-574" tvg-logo="http://epg.it999.ru/img2/2732.png",Премиальное HD
 http://50.7.92.90/Kino_premium_HD/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-279" tvg-logo="http://epg.it999.ru/img2/1037.png",Кино хит
 http://50.7.92.90/Kinohit/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Кино и сериалысвидание HD
+#EXTINF:-1 group-title="Кино и сериалы",Киносвидание HD
 http://50.7.92.90/Kinoklub/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-282" tvg-logo="http://epg.it999.ru/img2/2309.png",Шокирующее HD
 http://50.7.92.90/Kinopokaz_HD1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-2507" tvg-logo="http://epg.it999.ru/img2/2507.png",Камеди HD
 http://50.7.92.90/Kinopokaz_HD2/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Кино и сериалыужас HD
+#EXTINF:-1 group-title="Кино и сериалы",Киноужас HD
 http://50.7.92.90/kinoujas_tv/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Кино и сериалыкомедия HD
+#EXTINF:-1 group-title="Кино и сериалы",Кинокомедия HD
 http://50.7.92.90/Komediya_TV/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-577" tvg-logo="http://epg.it999.ru/img2/2018.png",Наше крутое HD
 http://50.7.92.90/Nashe_HD/mono.m3u8
@@ -125,7 +125,7 @@ http://50.7.92.90/Nashe_HD/mono.m3u8
 http://50.7.92.90/Nashe_kino/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-576" tvg-logo="http://epg.it999.ru/img2/1588.png",Остросюжетное HD
 http://50.7.92.90/Ostrosyuzhetnoe_HD/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Кино и сериалысемья HD
+#EXTINF:-1 group-title="Кино и сериалы",Киносемья HD
 http://50.7.92.90/Premera/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-401" tvg-logo="http://192.168.0.213:38050/logos/russkiy-roman-hd.png",Русский роман HD
 http://50.7.92.90/Russkiy_roman_HD/mono.m3u8
